@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "GroupParser", "GroupParser.vbproj", "{B7E5B0B2-F0E2-42BE-8F23-1F0ADB16DF33}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "GroupParser Setup", "..\Group Parser Setup\Group Parser Setup.vdproj", "{BEB38389-1C11-4578-B86F-03888A9BEBB8}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{B7E5B0B2-F0E2-42BE-8F23-1F0ADB16DF33}.Debug.ActiveCfg = Debug|.NET
+		{B7E5B0B2-F0E2-42BE-8F23-1F0ADB16DF33}.Debug.Build.0 = Debug|.NET
+		{B7E5B0B2-F0E2-42BE-8F23-1F0ADB16DF33}.Release.ActiveCfg = Release|.NET
+		{B7E5B0B2-F0E2-42BE-8F23-1F0ADB16DF33}.Release.Build.0 = Release|.NET
+		{BEB38389-1C11-4578-B86F-03888A9BEBB8}.Debug.ActiveCfg = Debug
+		{BEB38389-1C11-4578-B86F-03888A9BEBB8}.Release.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

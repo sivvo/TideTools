@@ -1,0 +1,9 @@
+SELECT adds
+SET STEP ON 
+SCAN
+SCATTER memvar
+SELECT loots
+APPEND BLANK
+GATHER memvar
+SELECT adds
+endscan

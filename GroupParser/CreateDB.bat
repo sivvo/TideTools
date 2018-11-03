@@ -1,0 +1,1 @@
+ItemDBMaker.exe > Database.txt

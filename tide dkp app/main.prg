@@ -1,0 +1,9 @@
+*ON SHUTDOWN do exitapp()
+ON ERROR
+DO FORM mainscreen
+READ EVENTS
+
+FUNCTION ExitApp()
+
+CLEAR EVENTS
+ENDFUNC

@@ -1,0 +1,3357 @@
+ Volume in drive Z is mp3
+ Volume Serial Number is 446B-0041
+
+ Directory of Z:\80s\Cody Chestnut
+
+03/07/2003  08:25         3,124,183 Cody Chestnut - Deliberation.mp3
+               1 File(s)      3,124,183 bytes
+
+ Directory of Z:\80s\Undertones
+
+28/10/2004  01:20         2,714,226 teenagekicks.mp3
+               1 File(s)      2,714,226 bytes
+
+ Directory of Z:\80s\Boney M
+
+03/11/2003  13:18         5,408,162 Boney M - Rasputine.mp3
+               1 File(s)      5,408,162 bytes
+
+ Directory of Z:\80s\Eagles
+
+02/02/2000  14:10         6,229,110 Eagles - Hotel California.mp3
+               1 File(s)      6,229,110 bytes
+
+ Directory of Z:\80s\Slade
+
+06/07/2004  09:05         3,250,690 Slade - Hi Ho Silver Lining.mp3
+23/02/2005  12:01         3,614,231 slade - let the good times roll.mp3
+23/02/2005  12:01         4,288,227 Slade_-_Cum_Feel_The_Noize.mp3
+               3 File(s)     11,153,148 bytes
+
+ Directory of Z:\80s\Richard Marx
+
+03/07/2005  12:42         4,296,704 Richard Marx - Right Here Waiting.mp3
+               1 File(s)      4,296,704 bytes
+
+ Directory of Z:\80s\Queen
+
+03/11/2003  13:07         3,471,279 Queen - Another One Bites The Dust.mp3
+03/11/2003  01:35         4,357,020 Queen -  We Are The Champions.mp3
+03/11/2003  13:06         2,864,768 Queen - fat bottom girls.mp3
+03/11/2003  16:42         2,493,483 Queen - Fat Bottomed Girls.mp3
+03/11/2003  13:12         2,894,077 Queen - We Are The Champions.mp3
+               5 File(s)     16,080,627 bytes
+
+ Directory of Z:\80s\Phil Collins
+
+24/06/2003  11:08         6,317,090 Phil Collins - In The Air Tonight (Live).mp3
+24/06/2003  10:48         2,814,588 Phil Collins - You Can't Hurry Love.mp3
+               2 File(s)      9,131,678 bytes
+
+ Directory of Z:\80s\Pink Floyd
+
+13/06/2003  07:07         6,108,439 Pink Floyd - Comfortably 1Numb.mp3
+13/06/2003  08:07         6,108,439 Pink Floyd - Comfortably Numb.mp3
+               2 File(s)     12,216,878 bytes
+
+ Directory of Z:\80s\Blondie
+
+03/11/2003  16:59         3,406,077 Blondie - Call Me.mp3
+03/11/2003  16:57         4,376,578 Blondie - Heart of Glass.mp3
+03/11/2003  13:03         3,465,216 Blondie - One Way Or Another.mp3
+03/11/2003  17:48         4,504,979 Blondie - The Tide Is High.mp3
+               4 File(s)     15,752,850 bytes
+
+ Directory of Z:\80s\3rd Eye Blind
+
+25/11/2003  13:01         3,796,992 3rd Eye Blind - Ill Never Let You Go.mp3
+               1 File(s)      3,796,992 bytes
+
+ Directory of Z:\80s\Zappa
+
+11/02/2005  16:01         6,373,376 Frank Zappa - Crew Slut.mp3
+               1 File(s)      6,373,376 bytes
+
+ Directory of Z:\80s\Tiffany
+
+12/02/2005  15:51         3,604,480 Tiffany - I Think We're Alone Now.mp3
+               1 File(s)      3,604,480 bytes
+
+ Directory of Z:\80s\Bob Dylon
+
+16/06/2003  12:29         8,186,250 BOB DYLAN - Hurricane.mp3
+01/10/2005  22:07         3,264,679 Bob Dylan - Stuck In The Middle With You.mp3
+               2 File(s)     11,450,929 bytes
+
+ Directory of Z:\80s\Bangles
+
+02/02/2004  22:18         3,266,735 Bangles - Walk Like An Egyptian.mp3
+02/02/2004  22:14         3,262,848 Bangles - Video Killed the Radio Star.mp3
+02/02/2004  22:11         2,914,897 Bangles - Manic Monday.mp3
+               3 File(s)      9,444,480 bytes
+
+ Directory of Z:\80s\Alannah Myles
+
+02/02/2004  21:45         4,626,356 Alannah Myles - Black Velvet.mp3
+               1 File(s)      4,626,356 bytes
+
+ Directory of Z:\80s\ABBA\Forever Gold (CD1)
+
+15/10/2005  11:49         3,706,880 01-Dancing Queen.mp3
+15/10/2005  11:49         3,880,960 02-Knowing Me, Knowing You.mp3
+15/10/2005  11:49         3,911,680 03-Take a Chance on Me.mp3
+15/10/2005  11:50         3,420,160 04-Mamma Mia.mp3
+15/10/2005  11:50         4,392,960 05-Lay All Your Love on Me.mp3
+15/10/2005  11:50         4,069,376 06-Super Trouper.mp3
+15/10/2005  11:50         4,546,560 07-I Have a Dream.mp3
+15/10/2005  11:51         4,728,832 08-The Winner Takes It All.mp3
+15/10/2005  11:51         3,018,752 09-Money, Money, Money.mp3
+15/10/2005  11:51         3,229,696 10-S.O.S.mp3
+15/10/2005  11:52         5,224,448 11-Chiquitita.mp3
+15/10/2005  11:52         4,050,944 12-Fernando.mp3
+15/10/2005  11:52         4,208,640 13-Voulez Vous.mp3
+15/10/2005  11:52         4,618,240 14-Gimme! Gimme! Gimme!.mp3
+15/10/2005  11:53         3,133,440 15-Does Your Mother Know.mp3
+15/10/2005  11:53         3,811,328 16-One of Us.mp3
+15/10/2005  11:53         3,842,048 17-The Name of the Game.mp3
+15/10/2005  11:53         3,704,832 18-Thank You for the music.mp3
+15/10/2005  11:54         2,621,440 19-Waterloo.mp3
+              19 File(s)     74,121,216 bytes
+
+ Directory of Z:\80s\John Cafferty
+
+01/03/2005  15:58         3,991,995 john cafferty - heart's on fire.mp3
+               1 File(s)      3,991,995 bytes
+
+ Directory of Z:\80s\Peter Cetera
+
+13/02/2005  06:17         4,117,746 Peter Cetera - Glory of Love.mp3
+               1 File(s)      4,117,746 bytes
+
+ Directory of Z:\alternative\Garbage\Garbage
+
+15/10/2005  13:08         3,780,608 01-Supervixen.mp3
+15/10/2005  13:08         4,425,728 02-Queer.mp3
+15/10/2005  13:08         3,786,752 03-Only Happy When It Rains.mp3
+15/10/2005  13:08         4,546,560 04-As Heaven Is Wide.mp3
+15/10/2005  13:08         3,670,016 05-Not My Idea.mp3
+15/10/2005  13:08         4,562,944 06-A Stroke Of Luck.mp3
+15/10/2005  13:09         4,325,376 07-Vow.mp3
+15/10/2005  13:09         4,141,056 08-Stupid Girl.mp3
+15/10/2005  13:09         3,799,040 09-Dog New Tricks.mp3
+15/10/2005  13:09         3,764,224 10-My Lover's Box.mp3
+15/10/2005  13:09         4,536,320 11-Fix Me Now.mp3
+15/10/2005  13:09         3,741,696 12-Milk.mp3
+              12 File(s)     49,080,320 bytes
+
+ Directory of Z:\Club-Dance
+
+04/03/2005  12:08         4,643,570 Double Take  Love Come Down.mp3
+               1 File(s)      4,643,570 bytes
+
+ Directory of Z:\Club-Dance\Tru Faith
+
+03/03/2005  13:28         4,837,922 Tru Faith feat. Dub Conspiracy  Freak Like Me.mp3
+               1 File(s)      4,837,922 bytes
+
+ Directory of Z:\Club-Dance\TJ Davis
+
+03/03/2005  23:38         8,133,112 TJ Davis  Wonderful Life.mp3
+               1 File(s)      8,133,112 bytes
+
+ Directory of Z:\Club-Dance\Wookie
+
+03/03/2005  10:28         5,193,826 Wookie  What's Goin' On.mp3
+               1 File(s)      5,193,826 bytes
+
+ Directory of Z:\Club-Dance\Danny J Lewis
+
+04/03/2005  12:56         5,762,656 Danny J. Lewis  Spend the Night.mp3
+               1 File(s)      5,762,656 bytes
+
+ Directory of Z:\Club-Dance\Tina Moore
+
+03/03/2005  22:36         6,790,209 Tina Moore  Never Gonna Let you Go (Tuff Jam Classic Vocal Mix).mp3
+               1 File(s)      6,790,209 bytes
+
+ Directory of Z:\Club-Dance\True Steppers
+
+04/03/2005  13:35         4,885,569 True Steppers and Dane Bowers feat. Victoria Beckham  Out of your Mind.mp3
+04/03/2005  11:20         5,018,480 True Steppers feat. Dane Bowers  Buggin.mp3
+               2 File(s)      9,904,049 bytes
+
+ Directory of Z:\Club-Dance\SWV
+
+13/02/2005  06:29         4,755,456 SWV & Micheal Jackson - Human Nature (Remix).mp3
+               1 File(s)      4,755,456 bytes
+
+ Directory of Z:\Club-Dance\Shanks andd Bigfoot
+
+04/03/2005  13:04         5,444,798 Shanks and Bigfoot  Sing-a-Long (Wideboys Vocal Remix).mp3
+               1 File(s)      5,444,798 bytes
+
+ Directory of Z:\Club-Dance\Sweet Female Attitude
+
+03/03/2005  21:19         5,485,549 Sweet Female Attitude  Flowers (Sunship Edit).mp3
+               1 File(s)      5,485,549 bytes
+
+ Directory of Z:\Club-Dance\Kernkraft
+
+25/10/2000  16:21         8,740,281 Zombie   Nation   Kernkraft  (extended-club mix).mp3
+               1 File(s)      8,740,281 bytes
+
+ Directory of Z:\Club-Dance\DJ Jean
+
+15/10/2005  00:34         3,108,864 01-The Launch (Radio Edit).mp3
+15/10/2005  00:36         7,084,032 02-The Launch (Yomanda Mix).mp3
+15/10/2005  00:38         8,941,568 03-The Launch (Da Techno Bohemian Phuture Mix).mp3
+               3 File(s)     19,134,464 bytes
+
+ Directory of Z:\Club-Dance\Sonique
+
+03/06/2000  22:37         5,421,168 DJ Sonique - It Feels So Good.mp3
+16/10/2000  00:21         4,264,147 DJ Sonique - Sky.mp3
+               2 File(s)      9,685,315 bytes
+
+ Directory of Z:\Club-Dance\FatBoy Slim
+
+15/10/2005  01:54         5,185,536 01-Praise You.mp3
+               1 File(s)      5,185,536 bytes
+
+ Directory of Z:\Club-Dance\Stardust
+
+15/10/2005  01:20         4,220,928 01-Music Sounds Better With You (Radio Edit).mp3
+               1 File(s)      4,220,928 bytes
+
+ Directory of Z:\Club-Dance\Alexia
+
+14/10/2005  23:59         6,901,760 06-Gimme Love (Slease Sisters Anthem Mix).mp3
+14/10/2005  23:54         5,857,280 02-Gimme Love (Punp Friction Vs Precious Paul Clubmix).mp3
+14/10/2005  23:55         7,819,264 03-Gimme Love (Matty's Body & Soul Mix).mp3
+14/10/2005  23:57         5,699,584 04-Gimme Love (Johan S Toxic Mix).mp3
+14/10/2005  23:58         6,270,976 05-Gimme Love (Sleaze Sisters Paradise Revisted Mix).mp3
+14/10/2005  23:52         2,590,720 01-Gimme Love (Punp Friction Vs Precious Paul Edit).mp3
+15/10/2005  11:56         3,571,712 04-Alexia _ Uh La La La.mp3
+               7 File(s)     38,711,296 bytes
+
+ Directory of Z:\Club-Dance\ATB
+
+15/10/2005  12:09         2,615,296 01-9pm (Till I Come) (Radio Edit).mp3
+               1 File(s)      2,615,296 bytes
+
+ Directory of Z:\Club-Dance\Yomanda
+
+15/10/2005  00:31         5,724,160 03-Synth & Strings (Egg 'N' Cress).mp3
+15/10/2005  00:30         6,559,744 02-Synth & Strings (Joe Fandango's Mitsubishi Mix).mp3
+15/10/2005  00:28         3,205,120 01-Synth & Strings (Radio Edit).mp3
+               3 File(s)     15,489,024 bytes
+
+ Directory of Z:\Club-Dance\Venga Boys
+
+28/03/2000  02:51         6,094,976 Venga Boys - Shalalalala(alice dj remix).mp3
+27/03/2000  05:50         2,097,280 Venga boys - shalala lalala.mp3
+               2 File(s)      8,192,256 bytes
+
+ Directory of Z:\Club-Dance\Ultrabeat
+
+13/01/2004  13:27         6,334,555 Ultrabeat - Pretty Green Eyes.mp3
+               1 File(s)      6,334,555 bytes
+
+ Directory of Z:\Club-Dance\The Wiseguys
+
+15/10/2005  12:07         3,461,120 01-Ooh La La _edit_.mp3
+               1 File(s)      3,461,120 bytes
+
+ Directory of Z:\Club-Dance\The Tamperer Featuring Maya
+
+15/10/2005  11:31         3,192,832 01-Feel It (Blunt Edit).mp3
+               1 File(s)      3,192,832 bytes
+
+ Directory of Z:\Club-Dance\Phats & Small
+
+15/10/2005  11:52         3,432,448 01-Turn Around (Radio Edit).mp3
+01/03/2005  16:02         6,420,608 Phats And Small - September .mp3
+               2 File(s)      9,853,056 bytes
+
+ Directory of Z:\Club-Dance\Oxide and Neutrino
+
+03/03/2005  12:58         5,284,302 Oxide and Neutrino  Bound 4 da Reload (Casualty).mp3
+               1 File(s)      5,284,302 bytes
+
+ Directory of Z:\Club-Dance\DJ Luck
+
+04/03/2005  13:00         5,290,571 DJ Luck and MC Neat  A Little Bit of Luck.mp3
+03/03/2005  15:21         5,538,212 DJ Luck and MC Neat feat. JJ  Ain't No Stoppin Us (Oracles Mix).mp3
+03/03/2005  22:43         5,051,081 DJ Luck and MC Neat feat. JJ  Masterblaster 2000.mp3
+               3 File(s)     15,879,864 bytes
+
+ Directory of Z:\Club-Dance\DJ Mummy
+
+16/12/2004  02:15         3,461,921 DJ Mummy - Nuttin No Go So.mp3
+               1 File(s)      3,461,921 bytes
+
+ Directory of Z:\Club-Dance\Chemical Brothers
+
+15/10/2005  13:32         4,630,528 01-Hey Boy Hey Girl.mp3
+               1 File(s)      4,630,528 bytes
+
+ Directory of Z:\Club-Dance\Artful Dodger
+
+22/02/2001  06:32         5,592,421 Artful dodger Presenting Craig David - Whatcha Gonna Do.mp3
+03/12/2000  03:40         5,344,985 Artful Dodger Feat. Lifford - Please don't turn me on.mp3
+22/02/2001  06:35         3,934,208 Artful Dodger feat Craig David - R U Ready.mp3
+04/03/2005  12:05         5,683,035 Artful Dodger feat. Romina Johnson  Movin' Too Fast.mp3
+03/03/2005  15:58         5,745,358 Artful Dodger and Robbie Craig feat. Craig David  Woman Trouble (Original Version).mp3
+03/03/2005  14:19         5,767,045 Artful Dodger feat. Craig David  Re-Rewind when the Crowd Say Bo Selecta.mp3
+04/03/2005  13:15         5,402,793 Barbara Tucker  Stop Playing with my Mind (Artful Dodger Vocal Remix).mp3
+15/10/2005  00:40         3,919,872 01-Re-Rewind (Radio Edit).mp3
+03/03/2005  10:33         4,381,989 Colour Girl  Joyrider (you're playing with fire) (Artful Dodger Remix).mp3
+               9 File(s)     45,771,706 bytes
+
+ Directory of Z:\Club-Dance\Apollo Four Forty
+
+15/10/2005  12:02         3,321,856 01-Lost in Space (Theme).mp3
+               1 File(s)      3,321,856 bytes
+
+ Directory of Z:\Club-Dance\Apollo Four Forty\Electro Glide in Blue
+
+15/10/2005  13:10           966,656 01-Stealth Overture.mp3
+15/10/2005  13:11         4,341,760 02-Ain't Talkin' `bout Dub.mp3
+15/10/2005  13:11         6,295,552 03-Altamont Super-Highway Revisited.mp3
+15/10/2005  13:11         8,265,728 04-Electro Glide in Blue.mp3
+15/10/2005  13:11         7,170,048 05-Vanishing Point.mp3
+15/10/2005  13:12         6,062,080 06-Tears of the Gods.mp3
+15/10/2005  13:12         6,524,928 07-Carrera Rapida (Theme from Rapid Racer).mp3
+15/10/2005  13:12         6,014,976 08-Krupa.mp3
+15/10/2005  13:12         4,726,784 09-White Man's Throat.mp3
+15/10/2005  13:12         8,329,216 10-Pain in Any Language.mp3
+15/10/2005  13:13         6,338,560 11-Stealth Mass in F#m.mp3
+              11 File(s)     65,036,288 bytes
+
+ Directory of Z:\Club-Dance\Alice Deejay
+
+25/10/2000  14:29         5,388,185 Alice Deejay Back In My Life.mp3
+               1 File(s)      5,388,185 bytes
+
+ Directory of Z:\Club-Dance\The Box Presents Box Toppers The Dance Edition-2005
+
+24/02/2005  14:42         5,766,141 01-deep_dish_-_flash_dance.mp3
+04/02/2005  17:41         4,938,812 02-g_spot_-_city_streets.mp3
+24/02/2005  14:19         4,923,689 03-dave_mccullen_-_bitch.mp3
+24/02/2005  11:45         4,847,644 04-narcotic_trust_-_when_the_dawn_breaks.mp3
+25/02/2005  10:06         4,445,084 05-uniting_nations_-_out_of_touch.mp3
+25/02/2005  10:06         5,491,161 06-dj_tiesto_-_just_be.mp3
+24/02/2005  12:10         5,164,256 07-roy_gates_-_how_deep.mp3
+24/02/2005  13:47         4,342,068 08-dj_jean_-_every_single_day.mp3
+24/02/2005  14:13         4,486,998 09-89_ers_-_kingston_town.mp3
+24/02/2005  12:33         4,771,481 10-100_percent_-_pure_love.mp3
+24/02/2005  16:23         4,051,125 11-sander_kleinenberg_-_the_fruit.mp3
+24/02/2005  16:24         5,196,906 12-elize_-_shake.mp3
+24/02/2005  12:40         5,276,341 13-michal_gray_-_the_weekend.mp3
+04/02/2005  17:37         4,023,819 14-eric_prydz_-_call_on_me.mp3
+24/02/2005  13:05         4,723,789 15-special_d_-_you.mp3
+24/02/2005  12:44         5,243,215 16-stonebridge_feat_therese_-_putem_high.mp3
+04/02/2005  17:41         4,547,206 17-john_marks_-_dont_stop.mp3
+24/02/2005  14:23         5,394,366 18-bs_one_-_freaky.mp3
+24/02/2005  14:55         5,021,594 19-k_liber_ft_michael_bryan_-_loungen.mp3
+04/02/2005  17:41         5,397,688 20-d_men_ft_brutus_and_negative_-_mijn_feestje.mp3
+              20 File(s)     98,053,383 bytes
+
+ Directory of Z:\Club-Dance\Y Tribe
+
+03/03/2005  10:33         5,041,483 Y Tribe  Enough is Enough.mp3
+25/10/2000  16:53         3,912,144 Twice as Nice In Ayia Napa - Colour Girl - Joyrider (Y Tribe .mp3
+               2 File(s)      8,953,627 bytes
+
+ Directory of Z:\Club-Dance\Moby
+
+15/10/2005  12:31         3,403,776 10-Moby _ Run On.mp3
+               1 File(s)      3,403,776 bytes
+
+ Directory of Z:\Club-Dance\Modjo
+
+15/10/2000  22:53         4,864,208 Modjo - Lady.mp3
+               1 File(s)      4,864,208 bytes
+
+ Directory of Z:\Club-Dance\NNG
+
+03/03/2005  15:50         4,465,520 N'N'G feat. Kallaghan  Right before my Eyes.mp3
+               1 File(s)      4,465,520 bytes
+
+ Directory of Z:\Club-Dance\Angel 21
+
+02/03/2005  17:28         8,031,977 Angel 21  Flow.mp3
+               1 File(s)      8,031,977 bytes
+
+ Directory of Z:\Club-Dance\Doolally
+
+03/03/2005  10:22         5,130,532 Doolally  Straight from the Heart.mp3
+               1 File(s)      5,130,532 bytes
+
+ Directory of Z:\Club-Dance\Volatie Agents
+
+04/03/2005  11:55         4,988,387 Volatile Agents  Hooked On You.mp3
+               1 File(s)      4,988,387 bytes
+
+ Directory of Z:\Club-Dance\Lil Ray
+
+04/03/2005  00:53         6,012,178 Lily Ray feat. Onyx Stone  Wonderin'.mp3
+               1 File(s)      6,012,178 bytes
+
+ Directory of Z:\Club-Dance\En Core
+
+03/03/2005  10:20         8,309,118 En  Core feat. Stephen Emmanuel and Eska.mp3
+               1 File(s)      8,309,118 bytes
+
+ Directory of Z:\Club-Dance\DJ Dee-Kline
+
+04/03/2005  00:03         4,274,930 DJ Dee-Kline  I Dont Smoke.mp3
+               1 File(s)      4,274,930 bytes
+
+ Directory of Z:\Club-Dance\DEM
+
+03/03/2005  10:28         5,808,217 DEM 2  Destiny.mp3
+               1 File(s)      5,808,217 bytes
+
+ Directory of Z:\Club-Dance\Luniz
+
+03/03/2005  21:49         5,890,552 Luniz  I Got 5 On It.mp3
+               1 File(s)      5,890,552 bytes
+
+ Directory of Z:\Club-Dance\Lonyo
+
+03/03/2005  13:31         5,531,316 Lonyo  Comme Ci Comme Ca.mp3
+               1 File(s)      5,531,316 bytes
+
+ Directory of Z:\Club-Dance\Lock n Load
+
+29/04/2000  07:14         4,952,064 Lock_'n_Load_-_Blow_ya_mind.mp3
+               1 File(s)      4,952,064 bytes
+
+ Directory of Z:\Club-Dance\Monsta Boy
+
+18/10/2000  23:08         4,658,573 Monsta Boy ft Denzie_Sorry.mp3
+               1 File(s)      4,658,573 bytes
+
+ Directory of Z:\Club-Dance\Lee-o
+
+03/03/2005  12:50         6,301,197 Lee-O  Stress Me.mp3
+               1 File(s)      6,301,197 bytes
+
+ Directory of Z:\Club-Dance\Zed Bias
+
+04/03/2005  13:18         5,113,775 Zed Bias  Neighbourhood.mp3
+               1 File(s)      5,113,775 bytes
+
+ Directory of Z:\Club-Dance\Pure Garage 4
+
+15/10/2005  11:33         3,817,472 01-Agent X _ Decoy (EZ Special Mix).mp3
+15/10/2005  11:34         3,323,904 02-DJ EZ _ Just Want (Original Mix).mp3
+15/10/2005  11:34         2,867,200 03-Todd Edwards _ Shut The Door (Vocal Mix).mp3
+15/10/2005  11:34         2,168,832 04-Craig David _ Walking Away (DJ Chunky Remix Feat. MC B-Live).mp3
+15/10/2005  11:35         3,790,848 05-Shox _ Monkey (Original Mix).mp3
+15/10/2005  11:35         1,882,112 06-Sticky Feat. Ms Dynamite _ Boo (Original Mix).mp3
+15/10/2005  11:35         1,972,224 07-Wideboys _ Heartache (Dub Mix).mp3
+15/10/2005  11:36         3,545,088 08-Lonyo Feat. MC Onyx Stone _ Garage Girls (Sunship Extended Mix).mp3
+15/10/2005  11:36         2,011,136 09-Mystery Men Feat. Nia _ Shake It (Original Mix).mp3
+15/10/2005  11:36         2,549,760 10-United Groove Collective Feat. Shelly _ Glad You Came 2 Me (Wideboys Phuturistic Phunk Mix).mp3
+15/10/2005  11:37         3,119,104 11-Shaun Escoffery _ Space Rider (MJ Cole Vocal Mix).mp3
+15/10/2005  11:37         3,549,184 12-DJ Lewi _ Blue Funk (Original Mix).mp3
+15/10/2005  11:38         3,332,096 13-Nightcrawlers _ Push The Feeling (Huckleberry & Sovereign Mix).mp3
+15/10/2005  11:38         2,443,264 14-Nu Design Feat. Jo Farragher _ So Long (Original Mix).mp3
+15/10/2005  11:38         2,324,480 15-True Steppers Feat. Alan Chan _ Sunshine (Original Mix).mp3
+15/10/2005  11:39         2,648,064 16-Remi _ Talk About It (Steve Gurley Mix).mp3
+15/10/2005  11:39         1,159,168 17-Scott And Leon _ Shine On (Bassline Mix).mp3
+15/10/2005  11:39         2,258,944 18-Wideboys _ Let It Go (The Bassline Mix).mp3
+15/10/2005  11:39         2,637,824 19-Artful Dodger Feat. Craig David _ What You Gonna Do_(Wideboys Undisputed Champions Remix).mp3
+15/10/2005  11:39         2,652,160 20-Mark Ryder _ Move Your Body (Original Mix).mp3
+15/10/2005  11:40         3,526,656 21-Buff & Levi _ So Long (Original Mix).mp3
+15/10/2005  11:40         4,558,848 22-Selena Vs. X.Men _ Give It Up (X.Men Vocal).mp3
+              22 File(s)     62,138,368 bytes
+
+ Directory of Z:\Club-Dance\Distant Soundz
+
+03/03/2005  21:59         3,790,307 Distant Soundz  Time After Time.mp3
+               1 File(s)      3,790,307 bytes
+
+ Directory of Z:\Club-Dance\Dreem Teem
+
+04/03/2005  14:39         4,789,647 Dreem Teem vs Neneh Cherry  Buddy X (Dreem Teem Vocal Mix).mp3
+03/03/2005  22:06         5,456,710 Dreem Teem  The Theme.mp3
+03/03/2005  21:40         6,383,326 Amira  My Desire (Dreem Teem Remix).mp3
+               3 File(s)     16,629,683 bytes
+
+ Directory of Z:\Club-Dance\Jentina
+
+04/03/2005  11:16         4,229,164 Jentina  French Kisses.mp3
+               1 File(s)      4,229,164 bytes
+
+ Directory of Z:\Club-Dance\Jhay Palmer
+
+03/03/2005  21:07         5,983,966 Jhay Palmer  Hello.mp3
+               1 File(s)      5,983,966 bytes
+
+ Directory of Z:\Club-Dance\MJ Cole
+
+03/03/2005  11:06         6,731,783 MJ Cole featuring Elisabeth Troy  Hold On To Me.mp3
+               1 File(s)      6,731,783 bytes
+
+ Directory of Z:\Club-Dance\Jahiem
+
+03/03/2005  12:00         5,368,114 Jahiem  Could It Be.mp3
+               1 File(s)      5,368,114 bytes
+
+ Directory of Z:\Club-Dance\Eric Sermon
+
+03/03/2005  23:29         5,306,872 Erick Sermon  I'm Hot.mp3
+               1 File(s)      5,306,872 bytes
+
+ Directory of Z:\Club-Dance\Sounds of Eden
+
+02/03/2005  17:29         7,378,092 Deep Cover  Sounds Of Eden.mp3
+               1 File(s)      7,378,092 bytes
+
+ Directory of Z:\Club-Dance\Felon
+
+03/03/2005  09:52         6,292,235 Felon  Get Out (Maximum Risk Vocal Mix).mp3
+               1 File(s)      6,292,235 bytes
+
+ Directory of Z:\Club-Dance\Goldtrix
+
+04/03/2005  01:16         7,698,016 Goldtrix  It's Love.mp3
+               1 File(s)      7,698,016 bytes
+
+ Directory of Z:\Club-Dance\Guerilla Black
+
+04/03/2005  01:07         5,486,176 Guerilla Black (ft JazzePha & Brooke Valentine)  Guerilla Nasty.mp3
+               1 File(s)      5,486,176 bytes
+
+ Directory of Z:\Club-Dance\Lucy Pearl
+
+28/02/2005  06:29         5,301,622 Lucy Pearl - Dance Tonight (DJ DMC vs L. Campbell Remix).mp3
+               1 File(s)      5,301,622 bytes
+
+ Directory of Z:\Club-Dance\Indo
+
+03/03/2005  10:31         7,030,126 Indo  R U Sleeping.mp3
+               1 File(s)      7,030,126 bytes
+
+ Directory of Z:\Club-Dance\Inaya
+
+03/03/2005  10:30         6,153,689 Inaya Day  Feel It (Architechs Vocal Mix).mp3
+               1 File(s)      6,153,689 bytes
+
+ Directory of Z:\Club-Dance\Azzido da Bass
+
+03/03/2005  23:17         5,389,628 Azzido da Bass  Dooms Night (Timo Maas Remix).mp3
+               1 File(s)      5,389,628 bytes
+
+ Directory of Z:\Club-Dance\B15 Project
+
+04/03/2005  12:37         4,488,090 B15 Project  Girls Like Us.mp3
+               1 File(s)      4,488,090 bytes
+
+ Directory of Z:\Club-Dance\Ramsey
+
+04/03/2005  15:00         4,333,863 Ramsey and Fen feat. Lynsey Moore  Love Bug (Y2K edit feat. MC Creed).mp3
+               1 File(s)      4,333,863 bytes
+
+ Directory of Z:\Joke
+
+24/03/2000  17:11            10,720 Southpark - Cartman sings Firestarter(by Prodigy).mp3
+01/03/2005  15:56         2,432,357 azn - got rice (tribute to Lenolas).mp3
+               2 File(s)      2,443,077 bytes
+
+ Directory of Z:\Joke\johnies
+
+15/10/2005  12:15         3,135,488 The Johnnies.mp3
+               1 File(s)      3,135,488 bytes
+
+ Directory of Z:\indie\Space
+
+15/10/2005  12:25         3,049,472 01-Avenging Angels.mp3
+               1 File(s)      3,049,472 bytes
+
+ Directory of Z:\indie\The Seahorses
+
+15/10/2005  00:48         2,732,032 03-Falling is easy.mp3
+15/10/2005  00:47         3,637,248 02-Shine.mp3
+15/10/2005  00:47         3,796,992 01-Love me and leave me.mp3
+               3 File(s)     10,166,272 bytes
+
+ Directory of Z:\indie\The Verve
+
+15/10/2005  13:49         4,884,480 01-The Drugs Don't Work - Full Length.mp3
+15/10/2005  13:48         4,765,696 01-Lucky Man.mp3
+               2 File(s)      9,650,176 bytes
+
+ Directory of Z:\indie\The Verve\Urban Hymns
+
+15/10/2005  02:00         5,738,496 01-Bitter Sweet Symphony.mp3
+15/10/2005  02:01         4,186,112 02-Sonnet.mp3
+15/10/2005  02:02         6,754,304 03-The Rolling People.mp3
+15/10/2005  02:03         4,884,480 04-The Drugs Don't Work.mp3
+15/10/2005  02:05         6,191,104 05-Catching The Butterfly.mp3
+15/10/2005  02:05         2,527,232 06-Neon Wilderness.mp3
+15/10/2005  02:07         5,390,336 07-Space And Time.mp3
+15/10/2005  02:08         4,642,816 08-Weeping Willow.mp3
+15/10/2005  02:09         4,698,112 09-Lucky Man.mp3
+15/10/2005  02:10         4,851,712 10-One Day.mp3
+15/10/2005  02:10         3,696,640 11-This Time.mp3
+15/10/2005  02:11         4,759,552 12-Velvet Morning.mp3
+15/10/2005  02:14        14,649,344 13-Come On.mp3
+              13 File(s)     72,970,240 bytes
+
+ Directory of Z:\indie\Peter Andre
+
+03/11/2003  16:48         3,763,014 Peter Andre - Flava.mp3
+03/11/2003  16:48         3,680,676 Peter Andre - Mysterious Girl.mp3
+               2 File(s)      7,443,690 bytes
+
+ Directory of Z:\indie\Placebo
+
+15/10/2005  01:46         4,198,400 01-Pure Morning (Album Version).mp3
+               1 File(s)      4,198,400 bytes
+
+ Directory of Z:\indie\Blur
+
+15/10/2005  13:37         7,391,232 Tender.mp3
+15/10/2005  13:38        17,920,000 03-AudioTrack 03.mp3
+               2 File(s)     25,311,232 bytes
+
+ Directory of Z:\indie\Manic Street Preachers
+
+15/10/2005  12:00         4,642,816 01-If You Tolerate This Your Children Will Be Next.mp3
+               1 File(s)      4,642,816 bytes
+
+ Directory of Z:\indie\Manic Street Preachers\forever delayed
+
+24/02/2005  16:23         6,279,932 101-a_design_for_life-ser.mp3
+24/02/2005  13:40         7,370,178 102-motorcycle_emptiness-ser.mp3
+24/02/2005  12:20         7,013,505 103-if_you_tolerate_this_your_children_will_be_next-ser.mp3
+24/02/2005  12:24         5,935,161 104-la_tristesse_durera_(scream_to_a_sigh)-ser.mp3
+24/02/2005  16:23         5,483,093 105-there_by_the_grace_of_god-ser.mp3
+24/02/2005  16:24         4,686,253 106-you_love_us-ser.mp3
+24/02/2005  14:26         5,349,555 107-australia-ser.mp3
+24/02/2005  12:37         6,303,167 108-you_stole_the_sun_from_my_heart-ser.mp3
+24/02/2005  12:30         4,930,133 109-kevin_carter-ser.mp3
+24/02/2005  16:24         5,514,440 110-tsunami-ser.mp3
+24/02/2005  15:47         4,901,293 111-the_masses_against_the_classes-ser.mp3
+06/02/2005  09:51         4,844,535 112-from_despair_to_where-ser.mp3
+24/02/2005  14:31         6,770,198 113-door_to_the_river-ser.mp3
+24/02/2005  14:16         4,510,084 114-everything_must_go-ser.mp3
+24/02/2005  13:28         5,630,423 115-faster-ser.mp3
+24/02/2005  15:23         6,066,773 116-little_baby_nothing-ser.mp3
+24/02/2005  16:24         5,024,218 117-suicide_is_painless_(theme_from_mash)-ser.mp3
+24/02/2005  14:38         5,441,088 118-so_why_so_sad-ser.mp3
+24/02/2005  16:24         5,950,789 119-the_everlasting-ser.mp3
+24/02/2005  16:24         5,749,542 120-motown_junk-ser.mp3
+06/02/2005  09:51         9,404,336 201-la_tristesse_durera_(scream_to_a_sigh)_(the_chemical_brothers_remix)-ser.mp3
+06/02/2005  09:51        14,389,753 202-if_you_tolerate_this_your_children_will_be_next_(david_holmes_remix)-ser.mp3
+24/02/2005  13:09         5,933,862 203-tsunami_(cornelius_remix)-ser.mp3
+24/02/2005  16:24         7,175,240 204-so_why_so_sad_(avalanches_remix)-ser.mp3
+06/02/2005  09:51         8,297,757 205-faster_(the_chemical_brothers_remix)-ser.mp3
+06/02/2005  09:51         7,082,157 206-if_you_tolerate_this_your_children_will_be_next_(massive_attack_remix)-ser.mp3
+06/02/2005  09:51        11,117,723 207-kevin_carter_(jon_carter_remix)-ser.mp3
+24/02/2005  12:15         7,479,326 208-you_stole_the_sun_from_my_heart_(david_holmes_remix)-ser.mp3
+24/02/2005  12:07         9,721,199 209-tsunami_(stereolab_remix)-ser.mp3
+24/02/2005  13:02         7,242,325 210-let_robeson_sing_(ian_brown_remix)-ser.mp3
+24/02/2005  13:18         7,532,610 211-the_everlasting_(stealth_sonic_orchestra_remix)-ser.mp3
+24/02/2005  15:36         8,987,107 212-you_stole_the_sun_from_my_heart_(mogwai_remix)-ser.mp3
+24/02/2005  15:09         6,972,756 213-a_design_for_life_(stealth_sonic_orchestra_remix)-ser.mp3
+              33 File(s)    225,090,511 bytes
+
+ Directory of Z:\indie\Manic Street Preachers\This Is My Truth Tell Me Yours
+
+15/10/2005  14:01         5,918,720 01-The Everlasting.mp3
+15/10/2005  14:01         4,659,200 02-If You Tolerate This Your Children Will Be Next.mp3
+15/10/2005  14:01         4,171,776 03-You Stole The Sun From My Heart.mp3
+15/10/2005  14:02         4,364,288 04-Ready For Drowning.mp3
+15/10/2005  14:02         3,704,832 05-Tsunami.mp3
+15/10/2005  14:02         3,991,552 06-My Little Empire.mp3
+15/10/2005  14:03         5,629,952 07-I'm Not Working.mp3
+15/10/2005  14:03         4,448,256 08-You're Tender And You're Tired.mp3
+15/10/2005  14:03         4,044,800 09-Born A Girl.mp3
+15/10/2005  14:04         5,003,264 10-Be Natural.mp3
+15/10/2005  14:04         4,620,288 11-Black Dog On My Shoulder.mp3
+15/10/2005  14:04         4,554,752 12-Nobody Loved You.mp3
+15/10/2005  14:05         5,726,208 13-S.Y.M.M.mp3
+              13 File(s)     60,837,888 bytes
+
+ Directory of Z:\indie\Cast
+
+15/10/2005  13:54         4,009,984 01-Beat Mama.mp3
+               1 File(s)      4,009,984 bytes
+
+ Directory of Z:\indie\Cast\Mother Nature Calls
+
+15/10/2005  13:49         4,519,936 01-Free Me.mp3
+15/10/2005  13:49         3,442,688 02-On The Run.mp3
+15/10/2005  13:49         3,741,696 03-Live The Dream.mp3
+15/10/2005  13:50         5,242,880 04-Soul Tied.mp3
+15/10/2005  13:50         4,321,280 05-She Sun Shines.mp3
+15/10/2005  13:50         4,184,064 06-I'm So Lonely.mp3
+15/10/2005  13:50         3,481,600 07-The Mad Hatter.mp3
+15/10/2005  13:51         3,903,488 08-Mirror Me.mp3
+15/10/2005  13:51         3,835,904 09-Guiding Star.mp3
+15/10/2005  13:51         4,288,512 10-Never Gonna Tell You What To Do (Revolution).mp3
+15/10/2005  13:52        22,425,600 11-Dance Of The Stars.mp3
+              11 File(s)     63,387,648 bytes
+
+ Directory of Z:\indie\Cast\All Change
+
+15/10/2005  00:50         3,479,552 01-Alright.mp3
+15/10/2005  00:53         4,438,016 02-Promised Land.mp3
+15/10/2005  00:54         2,590,720 03-Sandstorm.mp3
+15/10/2005  00:57         3,600,384 04-Mankind.mp3
+15/10/2005  01:00         4,511,744 05-Tell It Like It Is.mp3
+15/10/2005  01:02         3,041,280 06-Four Walls.mp3
+15/10/2005  01:04         2,990,080 07-Finetime.mp3
+15/10/2005  01:06         2,961,408 08-Back Of My Mind.mp3
+15/10/2005  01:09         3,710,976 09-Walkaway.mp3
+15/10/2005  01:10         2,969,600 10-Reflections.mp3
+15/10/2005  01:13         4,245,504 11-History.mp3
+              11 File(s)     38,539,264 bytes
+
+ Directory of Z:\indie\Pulp\Different Class
+
+15/10/2005  13:57         3,627,008 01-Mis-Shapes.mp3
+15/10/2005  13:57         3,065,856 02-Pencil Skirt.mp3
+15/10/2005  13:58         5,629,952 03-Common People.mp3
+15/10/2005  13:58         5,687,296 04-I Spy.mp3
+15/10/2005  13:59         4,380,672 05-Disco 2000.mp3
+15/10/2005  13:59         3,360,768 06-Live Bed Show.mp3
+15/10/2005  14:00         3,180,544 07-Something Changed.mp3
+15/10/2005  14:00         3,649,536 08-Sorted For E's & Wizz.mp3
+15/10/2005  14:01         5,783,552 09-F.E.E.L.I.N.G.C.A.L.L.E.D.L.O.V.E.mp3
+15/10/2005  14:01         3,942,400 10-Underwear.mp3
+15/10/2005  14:02         4,141,056 11-Monday Morning.mp3
+15/10/2005  14:02         3,581,952 12-Bar Italia.mp3
+              12 File(s)     50,030,592 bytes
+
+ Directory of Z:\indie\oasis\Don't Believe the Truth
+
+05/05/2005  09:43         5,913,247 01-Oasis-Turn_Up_The_Sun-MWF.mp3
+05/05/2005  09:44         5,617,377 02-Oasis-Mucky_Fingers-MWF.mp3
+05/05/2005  09:45         7,246,303 03-Oasis-Lyla-MWF.mp3
+05/05/2005  09:46         4,141,949 04-Oasis-Love_Like_A_Bomb-MWF.mp3
+05/05/2005  09:47         5,317,372 05-Oasis-The_Importance_of_Being_Idle-MWF.mp3
+05/05/2005  09:47         2,505,142 06-Oasis-The_Meaning_of_Soul-MWF.mp3
+05/05/2005  09:48         5,049,815 07-Oasis-Guess_God_Thinks_Im_Abel-MWF.mp3
+05/05/2005  09:48         5,492,047 08-Oasis-Part_of_the_Queue-MWF.mp3
+05/05/2005  09:50         8,417,139 09-Oasis-Keep_the_Dream_Alive-MWF.mp3
+05/05/2005  09:50         4,543,352 10-Oasis-A_Bell_Will_Ring-MWF.mp3
+05/05/2005  09:51         8,223,845 11-Oasis-Let_There_Be_Love-MWF.mp3
+05/05/2005  09:52         5,912,455 12-Oasis-I_Can_See_It_Now.MWF.mp3
+              12 File(s)     68,380,043 bytes
+
+ Directory of Z:\indie\oasis\The Masterplan
+
+15/10/2005  13:54         4,243,456 01-Acquiesce.mp3
+15/10/2005  13:54         3,221,504 02-Underneath The Sky.mp3
+15/10/2005  13:54         4,179,968 03-Talk Tonight.mp3
+15/10/2005  13:54         4,474,880 04-Going Nowhere.mp3
+15/10/2005  13:54         4,052,992 05-Fade Away.mp3
+15/10/2005  13:54         4,157,440 06-The Swamp Song.mp3
+15/10/2005  13:55         6,168,576 07-I Am The Walrus (Live).mp3
+15/10/2005  13:55         6,100,992 08-Listen Up.mp3
+15/10/2005  13:55         4,415,488 09-Rockin' Chair.mp3
+15/10/2005  13:55         4,192,256 10-Half The World Away.mp3
+15/10/2005  13:55         4,145,152 11-(It's Good) To Be Free.mp3
+15/10/2005  13:55         4,888,576 12-Stay Young.mp3
+15/10/2005  13:56         4,456,448 13-Headshrinker.mp3
+15/10/2005  13:56         5,165,056 14-The Masterplan.mp3
+              14 File(s)     63,862,784 bytes
+
+ Directory of Z:\indie\oasis\Heathen Chemistry
+
+15/10/2005  11:26         3,624,960 01-The Hindu Times.mp3
+15/10/2005  11:26         4,669,440 02-Force Of Nature.mp3
+15/10/2005  11:26         3,342,336 03-Hung In A Bad Place.mp3
+15/10/2005  11:27         4,853,760 04-Stop Crying Your Heart Out.mp3
+15/10/2005  11:27         2,043,904 05-Songbird.mp3
+15/10/2005  11:27         4,689,920 06-Little By Little.mp3
+15/10/2005  11:27         1,241,088 07-A Quick Peep.mp3
+15/10/2005  11:27         3,874,816 08-(Probably) All In The Mind.mp3
+15/10/2005  11:27         3,033,088 09-She Is Love.mp3
+15/10/2005  11:27         5,906,432 10-Born On A Different Cloud.mp3
+15/10/2005  11:28        36,528,128 11-Better Man.mp3
+              11 File(s)     73,807,872 bytes
+
+ Directory of Z:\indie\oasis\Definitely Maybe
+
+15/10/2005  11:33         5,175,296 01-Rock 'N' Roll Star.mp3
+15/10/2005  11:33         4,937,728 02-Shakermaker.mp3
+15/10/2005  11:33         4,433,920 03-Live Forever.mp3
+15/10/2005  11:33         4,304,896 04-Up In The Sky.mp3
+15/10/2005  11:33         6,035,456 05-Columbia.mp3
+15/10/2005  11:34         4,542,464 06-Supersonic.mp3
+15/10/2005  11:34         4,128,768 07-Bring It On Down.mp3
+15/10/2005  11:34         4,632,576 08-Cigarettes & Alcohol.mp3
+15/10/2005  11:34         2,439,168 09-Digsy's Dinner.mp3
+15/10/2005  11:34         6,287,360 10-Slide Away.mp3
+15/10/2005  11:34         3,082,240 11-Married With Children.mp3
+              11 File(s)     49,999,872 bytes
+
+ Directory of Z:\indie\oasis\(What's The Story) Morning Glory_
+
+15/10/2005  14:03         3,248,128 01-Hello.mp3
+15/10/2005  14:03         3,840,000 02-Roll With It.mp3
+15/10/2005  14:03         4,145,152 03-Wonderwall.mp3
+15/10/2005  14:03         4,608,000 04-Don't Look Back In Anger.mp3
+15/10/2005  14:04         5,468,160 05-Hey Now!.mp3
+15/10/2005  14:04           716,800 06-Untitled.mp3
+15/10/2005  14:04         5,259,264 07-Some Might Say.mp3
+15/10/2005  14:04         4,669,440 08-Cast No Shadow.mp3
+15/10/2005  14:04         3,530,752 09-She's Electric.mp3
+15/10/2005  14:04         4,859,904 10-Morning Glory.mp3
+15/10/2005  14:04           649,216 11-Untitled.mp3
+15/10/2005  14:05         7,211,008 12-Champagne Supernova.mp3
+              12 File(s)     48,205,824 bytes
+
+ Directory of Z:\indie\oasis\Familiar To Millions
+
+15/10/2005  13:55         5,617,664 01-Go Let It Out (Live).mp3
+15/10/2005  13:55         5,767,168 02-Who Feels Love_ (Live).mp3
+15/10/2005  13:56         4,319,232 03-Supersonic (Live).mp3
+15/10/2005  13:56         5,015,552 04-Shakermaker (Live).mp3
+15/10/2005  13:56         3,950,592 05-Acquiesce (Live).mp3
+15/10/2005  13:57         7,702,528 06-Gas Panic (Live).mp3
+15/10/2005  13:57         4,544,512 07-Roll With It (Live).mp3
+15/10/2005  13:57         4,392,960 08-Wonderwall (Live).mp3
+15/10/2005  13:58         6,612,992 09-Cigarettes & Alcohol (Live).mp3
+15/10/2005  13:58         4,952,064 10-Don't Look Back In Anger (Live).mp3
+15/10/2005  13:58         4,683,776 11-Live Forever (Live).mp3
+15/10/2005  13:59         6,273,024 12-Champagne Supernova (Live).mp3
+15/10/2005  13:59         6,082,560 13-Rock'N'Roll Star (Live).mp3
+              13 File(s)     69,914,624 bytes
+
+ Directory of Z:\indie\Catatonia
+
+15/10/2005  11:51         3,753,984 01-Dead From The Waist Down.mp3
+               1 File(s)      3,753,984 bytes
+
+ Directory of Z:\indie\Catatonia\International Velvet
+
+04/03/2005  16:45         5,501,029  Don't Need The Sunshine.mp3
+04/03/2005  16:42         4,123,001  Game On.mp3
+04/03/2005  16:44         5,541,780  Goldfish And Paracetamol.mp3
+04/03/2005  16:43         4,537,412  I Am The Mob.mp3
+04/03/2005  16:44         6,317,300  International Velvet.mp3
+04/03/2005  16:44         6,633,902  Johnny Come Lately.mp3
+04/03/2005  16:42         6,036,428  Mulder And Scully.mp3
+04/03/2005  16:46         3,508,610  My Selfish Gene.mp3
+04/03/2005  16:45         5,968,723  Part Of The Furniture.mp3
+04/03/2005  16:43         7,420,701  Road Rage.mp3
+04/03/2005  16:46         5,389,423  Strange Glue.mp3
+04/03/2005  16:45         3,854,071  Why I Can't Stand One Night Stands.mp3
+              12 File(s)     64,832,380 bytes
+
+ Directory of Z:\indie\Stone Roses
+
+15/10/2005  12:32         3,682,304 12-The Stone Roses _ What The World Is Waiting For.mp3
+               1 File(s)      3,682,304 bytes
+
+ Directory of Z:\pop\Within Temptation
+
+02/07/2005  04:07         5,602,160 Within Temptation - Memories.mp3
+               1 File(s)      5,602,160 bytes
+
+ Directory of Z:\pop\Valentino Kanzyani
+
+06/04/2005  13:09         4,270,882 Valentino Kanzyani - Leliwa.mp3
+               1 File(s)      4,270,882 bytes
+
+ Directory of Z:\pop\The Calling
+
+09/06/2005  13:37         5,352,062 The Calling - For You.mp3
+               1 File(s)      5,352,062 bytes
+
+ Directory of Z:\pop\Negative
+
+13/07/2005  09:01         3,670,016 Negative - The Moment Of Our Love.mp3
+               1 File(s)      3,670,016 bytes
+
+ Directory of Z:\pop\Bob Marley
+
+24/02/2000  15:03         5,786,136 Bob Marley and Lauren Hill - Turn Your Lights Down Low.mp3
+               1 File(s)      5,786,136 bytes
+
+ Directory of Z:\pop\Firehouse
+
+03/11/2003  13:02         4,585,976 Firehouse - Love Of A Lifetime.mp3
+               1 File(s)      4,585,976 bytes
+
+ Directory of Z:\pop\Jamesy P
+
+13/09/2005  19:57         3,976,968 Jamesy P - Nookie Tonight.mp3
+               1 File(s)      3,976,968 bytes
+
+ Directory of Z:\pop\Shanice
+
+13/02/2005  06:27         4,328,385 Shanice--Saving Forever For You.mp3
+               1 File(s)      4,328,385 bytes
+
+ Directory of Z:\pop\Tin Tin Out
+
+04/03/2005  13:27         6,732,530 Tin Tin Out feat. Emma Bunton  What I am (Groove Chronicles Remix).mp3
+               1 File(s)      6,732,530 bytes
+
+ Directory of Z:\pop\Pras Michel
+
+15/10/2005  00:21         4,593,664 03-Dont Be Afraid.mp3
+15/10/2005  00:20         4,272,128 02-Ghetto Suparstar (Instrumental).mp3
+15/10/2005  00:19         4,288,512 01-Ghetto Suparstar.mp3
+               3 File(s)     13,154,304 bytes
+
+ Directory of Z:\pop\Misteeq
+
+04/03/2005  11:50         5,274,271 Mis-Teeq  Why.mp3
+03/03/2005  23:53         4,911,900 Mis-Teeq  One Night Stand (StarGate Radio Edit).mp3
+13/01/2004  15:49         3,870,720 Misteeq - Scandalous.mp3
+               3 File(s)     14,056,891 bytes
+
+ Directory of Z:\pop\911
+
+15/10/2005  01:34         3,727,360 01-All I Want Is You (Radio Edit).mp3
+15/10/2005  11:59         4,298,752 14-911 _ I Believe I Can Fly (live).mp3
+               2 File(s)      8,026,112 bytes
+
+ Directory of Z:\pop\Enrique Iglesias
+
+02/02/2004  21:35        10,190,115 Enrique Iglesias - Addicted.mp3
+16/06/2004  13:21         5,349,506 enrique_iglesias_ft_kelis_-_not_in_love.mp3
+               2 File(s)     15,539,621 bytes
+
+ Directory of Z:\pop\Electrasy
+
+17/06/2003  11:55         4,206,354 Electrasy - Cosmic Castaway.mp3
+               1 File(s)      4,206,354 bytes
+
+ Directory of Z:\pop\Johnny Logan
+
+08/06/2005  23:47         5,891,853 Johnny Logan - Hold Me Now.mp3
+               1 File(s)      5,891,853 bytes
+
+ Directory of Z:\pop\lolly
+
+15/10/2005  12:11         3,463,168 01-1.mp3
+               1 File(s)      3,463,168 bytes
+
+ Directory of Z:\pop\Elton John
+
+13/01/2004  14:29         4,182,901 Elton John - Are You Ready For Love.mp3
+               1 File(s)      4,182,901 bytes
+
+ Directory of Z:\pop\DJ Quick
+
+02/03/2005  16:53         7,072,183 DJ Quick - Better let me know.mp3
+               1 File(s)      7,072,183 bytes
+
+ Directory of Z:\pop\Goldie Lookin' Chain
+
+13/09/2005  19:48         5,460,096 goldie lookin chain - your missus is a nutter.mp3
+               1 File(s)      5,460,096 bytes
+
+ Directory of Z:\pop\Goldie Lookin' Chain\Greatest Hits
+
+15/10/2005  14:23         1,128,448 01-The Manifesto.mp3
+15/10/2005  14:23         3,614,720 02-Self Suicide.mp3
+15/10/2005  14:23         3,473,408 03-Guns Don't Kill People, Rappers Do.mp3
+15/10/2005  14:23         3,524,608 04-Half Man Half Machine.mp3
+15/10/2005  14:24         3,000,320 05-Roller Disco.mp3
+15/10/2005  14:24         4,020,224 06-Soap bar.mp3
+15/10/2005  14:24           675,840 07-Billy Webb's Lament.mp3
+15/10/2005  14:24         2,400,256 08-Your Mother's Got A Penis.mp3
+15/10/2005  14:24         2,942,976 09-The Maggot.mp3
+15/10/2005  14:25         4,233,216 10-You Knows I Loves You.mp3
+15/10/2005  14:25           796,672 11-Leeroy Fashions' Lament.mp3
+15/10/2005  14:25         3,098,624 12-21 Ounces.mp3
+15/10/2005  14:25         3,629,056 13-Time To Make A Change.mp3
+              13 File(s)     36,538,368 bytes
+
+ Directory of Z:\pop\Gina G
+
+15/10/2005  12:27         2,916,352 01-...Ooh Aah...Just A Little Bit (Eurovision Song Contest Version).mp3
+               1 File(s)      2,916,352 bytes
+
+ Directory of Z:\pop\shola ama
+
+03/03/2001  16:25         2,119,640 Shola Ama Feat. Craig David & The Artful Dodger - Imagine.mp3
+25/10/2000  14:38         4,148,435 Shola Ama - Imagine.mp3
+               2 File(s)      6,268,075 bytes
+
+ Directory of Z:\pop\Pato Banton
+
+15/10/2005  12:22         3,768,320 01-Baby Come Back.mp3
+               1 File(s)      3,768,320 bytes
+
+ Directory of Z:\pop\Kevin Little
+
+13/01/2004  13:02         4,223,442 Kevin Little - Turn Me On.mp3
+25/11/2003  12:40         2,849,707 Kevin Little & Mad. - Hold U.mp3
+               2 File(s)      7,073,149 bytes
+
+ Directory of Z:\pop\DJ Sammy
+
+08/10/2002  16:58         3,765,940 Dj Sammy & Yanou - Heaven [ Radio Mix ].mp3
+               1 File(s)      3,765,940 bytes
+
+ Directory of Z:\pop\Kelly Clarkson
+
+23/09/2005  13:58         5,692,029 Kelly Clarkson - Breakaway.mp3
+               1 File(s)      5,692,029 bytes
+
+ Directory of Z:\pop\Dido
+
+13/06/2003  11:55         4,358,296 Dido - Thankyou.mp3
+09/07/2003  09:27         3,491,079 Dido - Best Day.mp3
+04/07/2003  03:52         4,357,769 Dido - Don't Think Of Me.mp3
+07/07/2003  06:21         4,746,823 Dido - Hunter.mp3
+08/07/2003  07:37         4,105,579 Dido - I Am What I Am.mp3
+04/07/2003  03:36         3,801,088 Dido - All You Want.mp3
+04/07/2003  03:27         3,240,565 Faithless & Dido - One Step Too Far .mp3
+               7 File(s)     28,101,199 bytes
+
+ Directory of Z:\pop\Boyzone
+
+15/10/2005  13:33         2,742,272 01-Father And Son - radio edit.mp3
+12/01/2003  17:58         4,376,576 Soundtrack - Knotting hill - No Matter What.mp3
+15/10/2005  11:56         3,119,104 03-Boyzone _ She's The One.mp3
+               3 File(s)     10,237,952 bytes
+
+ Directory of Z:\pop\Bryan Adams
+
+27/10/2002  15:51         9,756,672 Bryan Adams - Heaven.mp3
+               1 File(s)      9,756,672 bytes
+
+ Directory of Z:\pop\Britney Spears
+
+15/10/2005  11:26         3,807,232 01-Sometimes (Radio Edit).mp3
+16/06/2004  13:17         5,679,610 Britney Spears - Everytime.mp3
+29/04/2000  03:51         5,088,322 Britney Spears  Oops I Did It Again .mp3
+22/02/2000  13:27         3,178,496 Brittany Spears - You Drive Me Crazy (Stop Mix).mp3
+04/03/2005  17:10         4,826,342 Brittnet Spears - Crazy.mp3
+21/04/2005  14:36         4,140,975 Brittney Spears - Toxic.mp3
+               6 File(s)     26,720,977 bytes
+
+ Directory of Z:\pop\Coldplay\A Rush of Blood to the Head
+
+15/10/2005  13:44         5,101,568 01-Politik.mp3
+15/10/2005  13:44         3,663,872 02-In My Place.mp3
+15/10/2005  13:45         4,759,552 03-God Put A Smile Upon Your Face.mp3
+15/10/2005  13:45         4,950,016 04-The Scientist.mp3
+15/10/2005  13:45         4,923,392 05-Clocks.mp3
+15/10/2005  13:46         5,249,024 06-Daylight.mp3
+15/10/2005  13:46         3,571,712 07-Green Eyes.mp3
+15/10/2005  13:46         5,302,272 08-Warning Sign.mp3
+15/10/2005  13:47         3,817,472 09-A Whisper.mp3
+15/10/2005  13:47         5,625,856 10-A Rush of Blood to the Head.mp3
+15/10/2005  13:47         5,111,808 11-Amsterdam.mp3
+              11 File(s)     52,076,544 bytes
+
+ Directory of Z:\pop\Christina
+
+11/04/2005  23:55         3,102,576 Christina_Aguliera_-_Infatuation.mp3
+04/03/2005  17:10         5,401,872 Christina Aguilera - Genie in a bottle.mp3
+05/03/2005  12:46         5,622,734 Christina Aguilera - What a girl wants.mp3
+26/01/2000  17:55         3,710,351 Christina - What A Girls Wants.mp3
+04/03/2005  12:42         6,190,855 Christina Aguilera - Hold us down .mp3
+               5 File(s)     24,028,388 bytes
+
+ Directory of Z:\pop\Christina\Stripped
+
+11/02/2005  18:26         2,394,112 01 - stripped intro.mp3
+11/02/2005  18:26         6,139,904 02 - can't hold us down ft. lil kim.mp3
+11/02/2005  18:26         8,339,456 03 - walk away.mp3
+11/02/2005  18:26         5,904,384 04 - fighter.mp3
+11/02/2005  18:26         1,292,288 05 - infatuation interlude.mp3
+11/02/2005  18:26         6,189,056 06 - infatuation.mp3
+11/02/2005  18:26         1,120,256 07 - loving for me interlude.mp3
+11/02/2005  18:26         6,641,664 08 - loving for me.mp3
+11/02/2005  18:26         6,111,232 09 - impossible.mp3
+11/02/2005  18:26         5,783,552 10 - underappreciated.mp3
+11/02/2005  18:26         5,728,256 11 - beautiful.mp3
+11/02/2005  18:26         6,064,128 12 - make over.mp3
+11/02/2005  18:26         5,511,168 13 - cruz.mp3
+11/02/2005  18:26         6,852,608 14 - soar.mp3
+11/02/2005  18:26         5,392,384 15 - get mine, get yours.mp3
+11/02/2005  18:26         7,174,144 16 - dirrty ft redman .mp3
+11/02/2005  18:26         1,114,112 17 - stripped (part 2).mp3
+11/02/2005  18:26         7,299,072 18 -the voice within.mp3
+11/02/2005  18:26         7,675,904 19 - i'm ok.mp3
+11/02/2005  18:26         9,355,264 20 - singing my song.mp3
+              20 File(s)    112,082,944 bytes
+
+ Directory of Z:\pop\Christine Milian
+
+03/03/2005  21:35         5,122,552 Christina Milian  AM to PM.mp3
+               1 File(s)      5,122,552 bytes
+
+ Directory of Z:\pop\City High
+
+04/03/2005  00:06         4,179,009 City High - What would you do.mp3
+               1 File(s)      4,179,009 bytes
+
+ Directory of Z:\pop\REM
+
+03/07/2005  12:37         5,054,397 R.E.M - Everybody Hurts.mp3
+               1 File(s)      5,054,397 bytes
+
+ Directory of Z:\pop\Outlandish
+
+13/06/2003  07:26         5,219,648 Outlandish -  Guantanamo [Radio Edit] Promo.mp3
+               1 File(s)      5,219,648 bytes
+
+ Directory of Z:\pop\Javine
+
+15/10/2005  11:03         3,794,944 10-Javine _ Dont Walk Away (Bad Boy Remix).mp3
+               1 File(s)      3,794,944 bytes
+
+ Directory of Z:\pop\Off Spring
+
+15/10/2005  13:39         2,785,280 Why don't you get a job.mp3
+               1 File(s)      2,785,280 bytes
+
+ Directory of Z:\pop\O Zone
+
+17/02/2005  07:32         9,197,575 o-zone-despre_tine__unu_in_the_mix.mp3
+17/02/2005  06:15         6,884,223 o-zone-crede-ma.mp3
+09/06/2004  19:50         3,442,688 O-ZONE-Dragostea din tei.mp3
+17/02/2005  04:36         5,171,427 o-zone-dragostea_din_tei.mp3
+17/02/2005  08:55         5,256,109 o-zone-dragostea_din_tei__unu_in_the_mix.mp3
+07/05/2004  15:00         5,809,542 01_o-zone-fiesta_de_la_noche.mp3
+07/05/2004  23:38         9,197,319 07_o-zone-despre_tine__unu_in_the_mix.mp3
+07/05/2004  23:30         5,256,021 08_o-zone-dragostea_din_tei__unu_in_the_mix.mp3
+07/05/2004  23:22         6,884,105 04_o-zone-crede-ma.mp3
+07/05/2004  23:21         5,171,318 05_o-zone-dragostea_din_tei.mp3
+              10 File(s)     62,270,327 bytes
+
+ Directory of Z:\pop\no doubt
+
+15/10/2005  01:49         4,249,600 01-Don't Speak (Album Version).mp3
+15/10/2005  10:43         4,294,656 Spiders web.mp3
+08/03/2005  03:21         4,552,355  No Doubt  It's My Life.mp3
+08/03/2005  15:58         6,098,752 Gwen Stephani - Underneath it all.mp3
+11/04/2005  23:57         5,679,104 Gwen_Stefani_Ft_Eve_-_Rich_Girl_.mp3
+               5 File(s)     24,874,467 bytes
+
+ Directory of Z:\pop\Nerd
+
+04/03/2005  13:55         5,120,671 NERD  She Wants To Move.mp3
+               1 File(s)      5,120,671 bytes
+
+ Directory of Z:\pop\Natalie Imbruglia
+
+15/10/2005  01:37         4,429,824 01-Big Mistake.mp3
+15/10/2005  01:37         3,014,656 03-Torn (Acoustic MTV Unplugged).mp3
+               2 File(s)      7,444,480 bytes
+
+ Directory of Z:\pop\Michael Jackson
+
+06/07/2004  11:13         6,714,898 Michael Jackson & Friends - We are the world.mp3
+06/07/2004  12:20         6,713,728 michael jackson - usa for africa.mp3
+               2 File(s)     13,428,626 bytes
+
+ Directory of Z:\pop\Meat Loaf
+
+03/07/2005  12:47         5,024,022 Meat Loaf - I Do Anything For Love.mp3
+               1 File(s)      5,024,022 bytes
+
+ Directory of Z:\pop\Mariah Carey
+
+23/02/2000  16:12         5,300,068 Maria Carey - Honey_remix.mp3
+25/10/2000  15:48         3,863,324 Mariah Carey - All I Want for Christmas for Is You.mp3
+15/10/2005  11:41         5,347,328 Mariah Carey - Butterly.mp3
+               3 File(s)     14,510,720 bytes
+
+ Directory of Z:\pop\Mandy Moore
+
+29/04/2000  02:42         3,821,696 Mandy Moore - Candy.mp3
+               1 File(s)      3,821,696 bytes
+
+ Directory of Z:\pop\Lutricia McNeal
+
+15/10/2005  11:30         3,362,816 01-Stranded__radio edit.mp3
+               1 File(s)      3,362,816 bytes
+
+ Directory of Z:\pop\Lighthouse Family
+
+15/10/2005  01:30         3,674,112 03-Raincloud (Cuca's Radio Edit).mp3
+15/10/2005  01:29         3,997,696 02-High (Live At The Royal Albert Hall).mp3
+15/10/2005  01:28         5,177,344 01-Lost In Space (Main Mix).mp3
+               3 File(s)     12,849,152 bytes
+
+ Directory of Z:\pop\LeAnn Rimes
+
+15/10/2005  01:40         4,014,080 01-How Do I Live.mp3
+03/07/2003  06:50         5,164,217 Leanne Rhymes - Can't Fight the Moonlight (coyote ugly sound.mp3
+               2 File(s)      9,178,297 bytes
+
+ Directory of Z:\pop\Kylie
+
+27/07/2000  03:01         3,314,420 Kylie Minogue - Spinning Around .mp3
+15/10/2005  13:58         3,600,384 06-Love At First Sight _ Kylie Minogue.mp3
+08/03/2005  16:00         5,310,378 Red Blooded Woman.mp3
+               3 File(s)     12,225,182 bytes
+
+ Directory of Z:\pop\Kelly Osbourne
+
+08/03/2005  03:35         5,017,280 Kelly Osbourne feat. Ozzy Osbourne - Changes.mp3
+               1 File(s)      5,017,280 bytes
+
+ Directory of Z:\pop\Justin Timberlake
+
+01/03/2003  17:32         4,974,592 Justin Timberlake - Cry Me A River (remix).mp3
+02/03/2005  16:52         8,761,051 Justin Timberlake - Cry me a river.mp3
+               2 File(s)     13,735,643 bytes
+
+ Directory of Z:\pop\Joss Stone
+
+03/03/2005  14:13         5,754,325 Joss Stone  You Had Me.mp3
+20/04/2005  14:02         4,421,530 Joss Stone - Fell In Love With A Boy.mp3
+               2 File(s)     10,175,855 bytes
+
+ Directory of Z:\pop\Jem - Finally Woken
+
+07/05/2004  17:21         4,734,262 Jem - 01 - They.mp3
+07/05/2004  17:25         5,569,077 Jem - 02 - Come On Closer.mp3
+07/05/2004  17:28         6,327,313 Jem - 03 - Finally Woken.mp3
+07/05/2004  17:31         5,473,898 Jem - 04 - Save Me.mp3
+07/05/2004  17:34         6,452,764 Jem - 05 - 24.mp3
+07/05/2004  17:37         6,405,599 Jem - 06 - Missing You.mp3
+07/05/2004  17:40         6,610,201 Jem - 07 - Wish I.mp3
+07/05/2004  17:43         5,431,074 Jem - 08 - Just A Ride.mp3
+07/05/2004  17:46         7,328,087 Jem - 09 - Falling For You.mp3
+07/05/2004  17:49         5,290,540 Jem - 10 - Stay Now.mp3
+07/05/2004  17:53         5,462,328 Jem - 11 - Flying High.mp3
+              11 File(s)     65,085,143 bytes
+
+ Directory of Z:\pop\James Blunt
+
+02/09/2005  08:36         8,527,967 james blunt.mp3
+23/09/2005  10:56         9,776,620 James Blunt - Back To Bedlam - 05 - Tears And Rain.mp3
+13/10/2005  09:08         4,882,579 James Blunt-01-High.mp3
+24/09/2005  18:43        10,338,776 James Blunt - Back To Bedlam - 04 - Goodbye My Lover.mp3
+13/09/2005  11:43         9,868,571 James Blunt - Back To Bedlam - 09 - Cry.mp3
+12/08/2005  18:58         1,710,208 James Blunt - You Are Beautiful.mp3
+               6 File(s)     45,104,721 bytes
+
+ Directory of Z:\pop\Daniel Beddingfield
+
+06/07/2005  14:59         6,227,968 Daniel Bettingfield - If Youre Not The One.mp3
+               1 File(s)      6,227,968 bytes
+
+ Directory of Z:\pop\Daniel Powter
+
+29/08/2005  14:10         5,626,369 Daniel Powter - Bad Day.mp3
+               1 File(s)      5,626,369 bytes
+
+ Directory of Z:\pop\Cardigans
+
+15/10/2005  11:32         3,178,496 01-Lovefool (Radio edit).mp3
+15/10/2005  01:51         3,516,416 01-My Favourite Game.mp3
+               2 File(s)      6,694,912 bytes
+
+ Directory of Z:\pop\Cardigans\Life
+
+15/10/2005  13:16         3,485,696 01-Carnival.mp3
+15/10/2005  13:16         3,229,696 02-Gordon's Gardenparty.mp3
+15/10/2005  13:16         3,471,360 03-Daddy's Car.mp3
+15/10/2005  13:16         3,266,560 04-Sick And Tired.mp3
+15/10/2005  13:17         2,951,168 05-Tomorrow.mp3
+15/10/2005  13:17         3,391,488 06-Rise And Shine.mp3
+15/10/2005  13:17         3,334,144 07-Beautful One.mp3
+15/10/2005  13:17         4,018,176 08-Travelling With Charley.mp3
+15/10/2005  13:17         3,072,000 09-Fine.mp3
+15/10/2005  13:17         4,524,032 10-Celia Inside.mp3
+15/10/2005  13:17         3,399,680 11-Hey! Get Out Of My Way.mp3
+15/10/2005  13:17         2,834,432 12-After All.mp3
+15/10/2005  13:18         4,356,096 13-Sabbath Bloody Sabbath.mp3
+              13 File(s)     45,334,528 bytes
+
+ Directory of Z:\pop\B-Witched
+
+15/10/2005  11:54         3,002,368 01-To You I Belong.mp3
+               1 File(s)      3,002,368 bytes
+
+ Directory of Z:\pop\B-Witched\B-Witched
+
+15/10/2005  11:03         1,357,824 01-Let's Go (The B-Witched Jig).mp3
+15/10/2005  11:03         2,756,608 02-C'est La Vie.mp3
+15/10/2005  11:04         3,837,952 03-Rev It Up.mp3
+15/10/2005  11:04         2,975,744 04-To You I Belong.mp3
+15/10/2005  11:04         3,266,560 05-Rollercoaster.mp3
+15/10/2005  11:05         3,438,592 06-Blame It On The Weatherman.mp3
+15/10/2005  11:05         3,016,704 07-We Four Girls.mp3
+15/10/2005  11:06         4,139,008 08-Castles In The Air.mp3
+15/10/2005  11:06         2,142,208 09-Freak Out.mp3
+15/10/2005  11:07         3,782,656 10-Like The Rose.mp3
+15/10/2005  11:07         3,471,360 11-Never Giving Up.mp3
+15/10/2005  11:07         3,313,664 12-Oh Mr Postman.mp3
+              12 File(s)     37,498,880 bytes
+
+ Directory of Z:\pop\Billie Piper
+
+15/10/2005  00:44         3,561,472 Billie Piper - Honey to the Bee.mp3
+               1 File(s)      3,561,472 bytes
+
+ Directory of Z:\pop\Aqua
+
+22/02/2000  13:12         3,446,619 Aqua - Cartoon Heroes.mp3
+               1 File(s)      3,446,619 bytes
+
+ Directory of Z:\pop\Alex
+
+21/06/2005  13:28         5,324,498 Alex - So Beautiful.mp3
+               1 File(s)      5,324,498 bytes
+
+ Directory of Z:\pop\Afroman
+
+09/07/2003  11:47         4,976,778 Afroman - Because I Was High.mp3
+03/03/2005  13:04         4,587,146 Afroman  Crazy Rap.mp3
+               2 File(s)      9,563,924 bytes
+
+ Directory of Z:\pop\VS
+
+04/03/2005  00:45         5,071,770 VS  Call U Sexy.mp3
+08/03/2005  03:38         4,216,367 VS - Love You Like Mad.mp3
+               2 File(s)      9,288,137 bytes
+
+ Directory of Z:\pop\Verbilicious
+
+04/03/2005  11:46         4,019,766 Verbalicious  Dont Play Nice.mp3
+               1 File(s)      4,019,766 bytes
+
+ Directory of Z:\pop\Wyclef Jean
+
+15/10/2005  11:24         3,442,688 02-Gone Till November - Pop Version.mp3
+15/10/2005  11:24         3,299,328 01-Gone Till November - Album Version.mp3
+03/03/2005  15:58         6,238,132 Wyclef Jean featuring Mary J Blige  911.mp3
+               3 File(s)     12,980,148 bytes
+
+ Directory of Z:\pop\Sweet Box
+
+15/10/2005  11:45         3,123,200 01-Everythings Gonna Be Alright (Radio Edit).mp3
+               1 File(s)      3,123,200 bytes
+
+ Directory of Z:\pop\Shaggy\Hot Shot
+
+15/10/2005  10:03         3,637,248 01-Hot Shot.mp3
+15/10/2005  10:04         3,635,200 02-Lonely Lover.mp3
+15/10/2005  10:05         3,643,392 03-It Wasn't Me.mp3
+15/10/2005  10:06         3,602,432 04-Freaky Girl.mp3
+15/10/2005  10:06         3,483,648 05-Leave It To Me.mp3
+15/10/2005  10:07         3,766,272 06-Angel.mp3
+15/10/2005  10:08         3,649,536 07-Hope.mp3
+15/10/2005  10:09         3,774,464 08-Keep'n It Real.mp3
+15/10/2005  10:10         3,450,880 09-Luv Me, Luv Me.mp3
+15/10/2005  10:11         3,643,392 10-Not Fair.mp3
+15/10/2005  10:12         3,872,768 11-Hey Love.mp3
+15/10/2005  10:12         3,432,448 12-Why Me Lord_.mp3
+15/10/2005  10:13         3,348,480 13-Joy You Bring.mp3
+15/10/2005  10:14         3,872,768 14-Chica Bonita.mp3
+15/10/2005  10:15         3,631,104 15-Dance And Shout.mp3
+15/10/2005  10:16         3,098,624 16-Why You Mad At Me.mp3
+              16 File(s)     57,542,656 bytes
+
+ Directory of Z:\pop\Shania Twain
+
+15/10/2005  01:25         3,446,784 04-You're Still The One (Radio Edit With Intro).mp3
+15/10/2005  01:23         4,239,360 02-(If You're Not In It For Love) I'm Outta Here.mp3
+15/10/2005  01:25         3,784,704 03-You Win My Love.mp3
+15/10/2005  01:22         3,207,168 01-You're Still The One (Radio Edit Without Intro).mp3
+               4 File(s)     14,678,016 bytes
+
+ Directory of Z:\pop\Savage Garden
+
+15/10/2005  01:42         4,435,968 01-Truly Madly Deeply [Album Version].mp3
+15/10/2005  01:43         4,450,304 02-Truly Madly Deeply [Australian Version].mp3
+               2 File(s)      8,886,272 bytes
+
+ Directory of Z:\pop\Samantha Mumba
+
+03/03/2005  15:54         5,988,981 Samantha Mumba  Always Come Back To Your Love (Blacksmith R&B RadioEdit).mp3
+               1 File(s)      5,988,981 bytes
+
+ Directory of Z:\pop\Scissor Sisters
+
+28/08/2004  02:06         4,258,934 Scissor Sisters - Comfortably numb.mp3
+               1 File(s)      4,258,934 bytes
+
+ Directory of Z:\pop\Robbie Williams\Millennium Single
+
+15/10/2005  11:30         3,960,832 01-Millennium.mp3
+               1 File(s)      3,960,832 bytes
+
+ Directory of Z:\pop\Robbie Williams\Escapology
+
+15/10/2005  11:13         3,098,624 01-How Perculiar.mp3
+15/10/2005  11:13         4,225,024 02-Feel.mp3
+15/10/2005  11:14         4,622,336 03-Something Beautiful.mp3
+15/10/2005  11:14         3,629,056 04-Monsoon.mp3
+15/10/2005  11:14         4,190,208 05-Sexed Up.mp3
+15/10/2005  11:14         4,003,840 06-Love Somebody.mp3
+15/10/2005  11:14         5,515,264 07-Revolution.mp3
+15/10/2005  11:14         3,788,800 08-Handsome Man.mp3
+15/10/2005  11:14         4,458,496 09-Come Undone.mp3
+15/10/2005  11:15         6,926,336 10-Me and My Monkey.mp3
+15/10/2005  11:15         3,696,640 11-Song 3.mp3
+15/10/2005  11:15         3,973,120 12-Hot Fudge.mp3
+15/10/2005  11:15         3,872,768 13-Cursed.mp3
+15/10/2005  11:16        15,013,888 14-Nan's Song.mp3
+              14 File(s)     71,014,400 bytes
+
+ Directory of Z:\pop\Robbie Williams\I've Been Expecting You
+
+15/10/2005  11:14         4,472,832 01-Strong.mp3
+15/10/2005  11:14         4,972,544 02-No Regrets.mp3
+15/10/2005  11:15         3,964,928 03-Millennium.mp3
+15/10/2005  11:16         3,880,960 04-Phoenix From The Flames.mp3
+15/10/2005  11:16         4,143,104 05-Win Some Lose Some.mp3
+15/10/2005  11:16         3,100,672 06-Grace.mp3
+15/10/2005  11:17         3,516,416 07-Jesus In A Camper Van.mp3
+15/10/2005  11:17         2,971,648 08-Heaven From Here.mp3
+15/10/2005  11:18         4,296,704 09-Karma Killer.mp3
+15/10/2005  11:18         4,132,864 10-She's The One.mp3
+15/10/2005  11:19         3,442,688 11-Man Machine.mp3
+15/10/2005  11:22        30,152,704 12-These Dreams.mp3
+              12 File(s)     73,048,064 bytes
+
+ Directory of Z:\pop\Ricky Martin
+
+12/04/2000  03:07         3,885,058 Ricky Martin - Private Emotion.mp3
+               1 File(s)      3,885,058 bytes
+
+ Directory of Z:\pop\Pink
+
+13/01/2004  12:35         4,609,308 Pink - Trouble.mp3
+03/03/2005  23:09         5,846,039 Pink  You Make Me Sick.mp3
+               2 File(s)     10,455,347 bytes
+
+ Directory of Z:\pop\Pink\Missundaztood
+
+15/10/2005  12:54         3,604,480 2. 18 Wheeler.mp3
+15/10/2005  12:55         3,438,592 5. Eventually.mp3
+15/10/2005  12:53         3,076,096 1. Get the party started.mp3
+15/10/2005  12:55         3,006,464 6. Numb.mp3
+15/10/2005  12:55         3,790,848 7. Just like a pill.mp3
+15/10/2005  12:56         4,755,456 8. Family Portrait.mp3
+15/10/2005  12:56         4,349,952 9. Misery.mp3
+15/10/2005  12:56         3,239,936 10. Respect.mp3
+15/10/2005  12:56         3,371,008 11. Don't let me get me.mp3
+15/10/2005  12:57         4,386,816 12. Gone to California.mp3
+15/10/2005  12:57         4,167,680 13. Lonely Girl.mp3
+15/10/2005  12:57         5,058,560 14. My Vietnam.mp3
+15/10/2005  12:57             6,144 15. Catch 22.mp3
+15/10/2005  12:54         3,465,216 3. Missundaztood.mp3
+15/10/2005  12:54         3,356,672 4. Dear Diary.mp3
+              15 File(s)     53,073,920 bytes
+
+ Directory of Z:\pop\Avril\Avril Lavigne - Let Go
+
+21/04/2005  13:38         5,034,885  Anything But Ordinary.mp3
+11/03/2005  01:35         4,891,444  Complicated.mp3
+20/04/2005  14:30         4,466,461  I'm With You.mp3
+11/03/2005  01:35         4,677,763  Losing Grip.mp3
+20/04/2005  13:36         4,243,898  Mobile.mp3
+21/04/2005  13:14         4,150,379  My World.mp3
+11/03/2005  01:39         4,174,639  Naked.mp3
+11/03/2005  01:39         4,747,774  Nobody's Fool.mp3
+20/04/2005  14:20         4,085,073  Sk8er Boi.mp3
+21/04/2005  13:50         4,482,657  Things I'll Never Say.mp3
+11/03/2005  01:37         4,577,972  Tomorrow.mp3
+11/03/2005  01:39         4,509,540  Too Much Too Ask.mp3
+21/04/2005  16:01         4,425,710  Unwanted.mp3
+              13 File(s)     58,468,195 bytes
+
+ Directory of Z:\pop\Avril\Avril Lavigne - Under My Skin
+
+08/03/2005  03:01         3,639,065 4. He Wasn't.mp3
+21/04/2005  15:42         3,114,363  Track 11.mp3
+21/04/2005  13:34         4,895,914 6. My Happy Ending.mp3
+08/03/2005  03:03         4,291,604 7. Nobodies Home.mp3
+21/04/2005  15:11         3,900,126 2. Together.mp3
+21/04/2005  13:23         4,240,240 9. Who Knows.mp3
+08/03/2005  03:04         4,217,416 10. Fall to Pieces.mp3
+21/04/2005  13:00         3,913,710 11. Freak Out.mp3
+08/03/2005  03:04         4,334,969 12. Slipped Away.mp3
+08/03/2005  03:05         4,410,202 Nobodies Home - Instrumental.mp3
+20/04/2005  13:58         3,995,212 8. Forgotten.mp3
+08/03/2005  03:05         3,595,704 1. Take Me Away.mp3
+08/03/2005  03:01         4,083,669 3. Don't Tell Me.mp3
+08/03/2005  03:02         4,542,379 5. How does it feel.mp3
+              14 File(s)     57,174,573 bytes
+
+ Directory of Z:\pop\Will Young
+
+24/11/2003  19:08         4,340,890 Will Young - Leave Right Now.mp3
+               1 File(s)      4,340,890 bytes
+
+ Directory of Z:\pop\Will Smith
+
+03/11/2003  17:03         3,788,092 Will Smith - Wild Wild West.mp3
+               1 File(s)      3,788,092 bytes
+
+ Directory of Z:\pop\Tim McGraw
+
+18/12/2003  01:19         3,989,504 Tim Mcgraw - Don't Take That Girl.mp3
+               1 File(s)      3,989,504 bytes
+
+ Directory of Z:\pop\Sugababes
+
+29/09/2005  09:41         5,176,007 Sugababes - Push The Button.mp3
+21/04/2005  12:22         4,237,628 Sugababes - Too Lost In You.mp3
+20/04/2005  15:26         4,758,510 Caught Up in the Middle.mp3
+               3 File(s)     14,172,145 bytes
+
+ Directory of Z:\pop\Streets - A Grand Don't Come For Free
+
+08/03/2005  18:41         5,693,394  Blinded By The Lights.mp3
+21/04/2005  14:41         5,277,824  Could Well Be In.mp3
+08/03/2005  18:43         5,425,893  Dry Your Eyes.mp3
+08/03/2005  18:44         9,899,098  Empty Cans.mp3
+21/04/2005  15:08         5,090,787  Fit But You Know It.mp3
+08/03/2005  18:41         4,645,359  Get Out Of My House.mp3
+08/03/2005  18:40         4,719,557  It Was Supposed To Be So Easy.mp3
+08/03/2005  18:40         4,405,554  Not Addicted.mp3
+08/03/2005  18:42         4,553,400  Such A Twat.mp3
+08/03/2005  18:43         5,617,637  What Is He Thinking.mp3
+08/03/2005  18:41         5,524,652  Wouldn't Have It Any Other Way.mp3
+              11 File(s)     60,853,155 bytes
+
+ Directory of Z:\pop\Steps
+
+15/10/2005  11:17         2,996,224 01-Last Thing On My Mind (Radio Edit).mp3
+15/10/2005  11:17         3,588,096 03-A Love To Last.mp3
+15/10/2005  10:27         4,270,080 01-Heartbeat.mp3
+15/10/2005  10:28         4,370,432 02-Tragedy.mp3
+               4 File(s)     15,224,832 bytes
+
+ Directory of Z:\pop\Spice Girls
+
+15/10/2005  12:03         3,733,504 01-Too Much (Radio edit).mp3
+               1 File(s)      3,733,504 bytes
+
+ Directory of Z:\pop\Sophie Ellis Bextor
+
+03/12/2003  17:15         5,292,911 Sophie Ellis Bextor - I Wont Change You.mp3
+               1 File(s)      5,292,911 bytes
+
+ Directory of Z:\pop\Baddiel & Skinner & Lightning Seeds
+
+15/10/2005  13:43         3,651,584 01-Three Lions.mp3
+15/10/2005  13:44         6,025,216 02-Three Lions (Jules Rimet Extended mix).mp3
+15/10/2005  13:44         3,620,864 03-Three Lions (Karaoke version).mp3
+               3 File(s)     13,297,664 bytes
+
+ Directory of Z:\pop\backstreet boys
+
+27/06/2005  20:18         2,908,510 Backstreet_ Boys_ -_ Incomplete.mp3
+               1 File(s)      2,908,510 bytes
+
+ Directory of Z:\pop\Baz Luhrmann
+
+15/10/2005  12:19         4,331,520 03-Love Is In The Air (Fran Mix).mp3
+15/10/2005  12:19         4,552,704 02-Everybody's Free (To Wear Sunscreen) (Geographic's Factor 15+ Mix).mp3
+15/10/2005  12:18         4,950,016 01-Everybody's Free (To Wear Sunscreen) (Edit).mp3
+               3 File(s)     13,834,240 bytes
+
+ Directory of Z:\pop\Train
+
+13/06/2003  09:32         4,098,975 Train - Drops off Jupiter.mp3
+               1 File(s)      4,098,975 bytes
+
+ Directory of Z:\pop\Travis
+
+05/03/2005  12:54         6,365,771 Travis - Why does it always rain on me.mp3
+               1 File(s)      6,365,771 bytes
+
+ Directory of Z:\pop\U2
+
+23/09/2005  09:54         8,878,080 U2 - City Of Blinding Lights(1).mp3
+               1 File(s)      8,878,080 bytes
+
+ Directory of Z:\pop\The Corrs
+
+15/10/2005  13:34         3,932,160 01-Runaway (Tin Tin Out Remix Edit).mp3
+               1 File(s)      3,932,160 bytes
+
+ Directory of Z:\pop\The Corrs\Talk on Corners
+
+15/10/2005  12:49         4,239,360 01-Only when I sleep.mp3
+15/10/2005  12:49         4,251,648 02-When he's not around.mp3
+15/10/2005  12:49         3,872,768 03-Dreams.mp3
+15/10/2005  12:49         4,134,912 04-What can I do.mp3
+15/10/2005  12:49         4,268,032 05-I never loved you anyway.mp3
+15/10/2005  12:49         3,733,504 06-So young.mp3
+15/10/2005  12:50         4,468,736 07-Don't say you love me.mp3
+15/10/2005  12:50         3,557,376 08-Love gives love takes.mp3
+15/10/2005  12:50         3,897,344 09-Hopelessly addicted.mp3
+15/10/2005  12:50         4,782,080 10-Paddy McCarthy.mp3
+15/10/2005  12:50         3,799,040 11-Intimacy.mp3
+15/10/2005  12:50         4,837,376 12-Queen of Hollywood.mp3
+15/10/2005  12:50         3,848,192 13-No good for me.mp3
+15/10/2005  12:51         4,927,488 14-Little wing.mp3
+              14 File(s)     58,617,856 bytes
+
+ Directory of Z:\pop\The Beautiful South
+
+15/10/2005  11:28         3,268,608 01-Don't Marry Her.mp3
+15/10/2005  11:28         3,522,560 02-Dream a Little Dream.mp3
+               2 File(s)      6,791,168 bytes
+
+ Directory of Z:\pop\Take That
+
+25/09/2003  14:30         3,917,452 Take That - Back For Good.mp3
+25/09/2003  04:17         3,532,087 Take That - How Deep Is Your Love (1).mp3
+25/09/2003  13:56         3,456,488 Take That - Everything Changes.mp3
+25/09/2003  13:40         3,603,525 Take That - Pray.mp3
+25/09/2003  14:52         4,291,665 Take That - Babe.mp3
+25/09/2003  06:17         3,608,369 Take That - A Million Love Songs.mp3
+               6 File(s)     22,409,586 bytes
+
+ Directory of Z:\pop\Tal Bachman
+
+21/02/2000  02:44         3,585,044 Tal Bachman - She's So High.mp3
+               1 File(s)      3,585,044 bytes
+
+ Directory of Z:\pop\Martine McCutcheon
+
+15/10/2005  13:40         3,729,408 01-Perfect Moment.mp3
+               1 File(s)      3,729,408 bytes
+
+ Directory of Z:\pop\Aaron Carter
+
+15/10/2005  11:58         3,325,952 13-Aaron Carter _ Crush On You.mp3
+               1 File(s)      3,325,952 bytes
+
+ Directory of Z:\pop\Alex Parks
+
+08/03/2005  03:39         4,285,331 Alex Parks - Maybe That's What It Takes.mp3
+               1 File(s)      4,285,331 bytes
+
+ Directory of Z:\pop\Busted
+
+21/04/2005  16:21         4,254,869 Busted - Who's David.mp3
+               1 File(s)      4,254,869 bytes
+
+ Directory of Z:\pop\Norah Jones
+
+08/03/2005  03:35         4,072,169 Norah Jones - Sunrise.mp3
+               1 File(s)      4,072,169 bytes
+
+ Directory of Z:\pop\Keane
+
+08/03/2005  03:37         4,518,343 Keane - Somewhere Only We Know.mp3
+               1 File(s)      4,518,343 bytes
+
+ Directory of Z:\pop\Jamie Cullum
+
+08/03/2005  03:39         3,790,049 Jamie Cullum - Frontin' (BBC Radio 1 Live Lounge).mp3
+               1 File(s)      3,790,049 bytes
+
+ Directory of Z:\pop\Franz Ferdinand
+
+08/03/2005  03:37         4,784,790 Franz Ferdinand - Take Me Out.mp3
+               1 File(s)      4,784,790 bytes
+
+ Directory of Z:\pop\Fya
+
+08/03/2005  03:39         4,977,575 FYA feat. Smujji - Must Be Love.mp3
+               1 File(s)      4,977,575 bytes
+
+ Directory of Z:\pop\Jessica Simpson
+
+21/04/2005  14:13         3,818,624  Jessica Simpson  With You.mp3
+               1 File(s)      3,818,624 bytes
+
+ Directory of Z:\pop\Fountains of Wayne
+
+08/03/2005  03:36         3,969,247 Fountains Of Wayne - Stacy's Mom.mp3
+               1 File(s)      3,969,247 bytes
+
+ Directory of Z:\pop\Katie Melua
+
+20/04/2005  13:51         5,107,506 Katie Melua - The Closest Thing To Crazy.mp3
+               1 File(s)      5,107,506 bytes
+
+ Directory of Z:\pop\Alistair Griffin
+
+21/04/2005  12:39         3,686,967 Alistair Griffin - Bring It On.mp3
+               1 File(s)      3,686,967 bytes
+
+ Directory of Z:\pop\Good Charlotte
+
+08/03/2005  03:26         4,902,920  Good Charlotte  Hold On.mp3
+               1 File(s)      4,902,920 bytes
+
+ Directory of Z:\pop\Sarah Connor
+
+20/04/2005  14:43         4,464,893  Sarah Connor  Bounce.mp3
+               1 File(s)      4,464,893 bytes
+
+ Directory of Z:\pop\Sheryl Crow
+
+08/03/2005  03:25         4,538,269  Sheryl Crow  The First Cut Is The Deepest.mp3
+               1 File(s)      4,538,269 bytes
+
+ Directory of Z:\pop\Three Days Grace
+
+21/04/2005  14:45         4,661,857  Three Days Grace  (I Hate) Everything About You.mp3
+               1 File(s)      4,661,857 bytes
+
+ Directory of Z:\pop\Fefe Dobson
+
+20/04/2005  14:09         4,465,938  Fefe Dobson  Everything.mp3
+               1 File(s)      4,465,938 bytes
+
+ Directory of Z:\pop\Atomic Kitten
+
+20/03/2004  16:52         4,469,202 13 Atomic Kitten ft. Kool And The Gang - Ladies Night.mp3
+               1 File(s)      4,469,202 bytes
+
+ Directory of Z:\pop\Liberty X
+
+15/10/2005  13:58         3,610,624 13-Just A Little (Almighty Mix) _ LibertyX.mp3
+               1 File(s)      3,610,624 bytes
+
+ Directory of Z:\pop\Stereophonics
+
+20/03/2004  17:01         5,897,996 07 Stereophonics - Moviestar (Radio Edit).mp3
+15/10/2005  12:30         3,936,256 03-Stereophonics _ Just Looking.mp3
+               2 File(s)      9,834,252 bytes
+
+ Directory of Z:\pop\George Michael
+
+08/03/2005  15:57         5,453,005 George Michael - Amazing.mp3
+               1 File(s)      5,453,005 bytes
+
+ Directory of Z:\pop\Anastania
+
+08/03/2005  15:57         4,694,409 Anastania - left outside alone.mp3
+09/06/2004  20:17         5,569,430 anastacia.mp3
+               2 File(s)     10,263,839 bytes
+
+ Directory of Z:\pop\Three Doors Down
+
+20/04/2005  15:33         4,817,546 Here without you.mp3
+               1 File(s)      4,817,546 bytes
+
+ Directory of Z:\pop\Julian Thomas
+
+20/04/2005  16:39         4,988,387 My Friend.mp3
+               1 File(s)      4,988,387 bytes
+
+ Directory of Z:\pop\Hillary Duff
+
+20/04/2005  15:59         4,300,322 Let the rain fall down.mp3
+               1 File(s)      4,300,322 bytes
+
+ Directory of Z:\pop\Kiki Dee
+
+20/04/2005  15:46         4,371,898 I've got the music in me.mp3
+               1 File(s)      4,371,898 bytes
+
+ Directory of Z:\pop\Chumbawamba
+
+15/10/2005  11:58         3,637,248 10-Chumbawamba _ Top of the World (Ol‚ Ol‚ Ol‚).mp3
+               1 File(s)      3,637,248 bytes
+
+ Directory of Z:\pop\Feeder
+
+15/10/2005  12:31         2,772,992 07-Feeder _ Insomnia.mp3
+               1 File(s)      2,772,992 bytes
+
+ Directory of Z:\pop\Bob Sinclair
+
+15/10/2005  10:47         2,887,680 16-Bob Sinclair _ Darlin'.mp3
+               1 File(s)      2,887,680 bytes
+
+ Directory of Z:\pop\Andreas Johnson
+
+22/02/2000  15:12         3,278,848 Andreas Johnson - Glorius.mp3
+               1 File(s)      3,278,848 bytes
+
+ Directory of Z:\pop\Mel B
+
+05/03/2005  12:54         7,134,398 Mel B - Never be the same again.mp3
+               1 File(s)      7,134,398 bytes
+
+ Directory of Z:\pop\Bus Stop
+
+15/10/2005  10:41         3,747,840 Bus Stop - Kung Fu Fighting.mp3
+               1 File(s)      3,747,840 bytes
+
+ Directory of Z:\pop\Gusti
+
+03/10/2005  11:24         5,771,264 Gusti in Polona Kasal - Makova polja.mp3
+               1 File(s)      5,771,264 bytes
+
+ Directory of Z:\rap\Co-ed
+
+03/03/2005  10:54         6,331,808 CO-ED  Roll Wit Me.mp3
+               1 File(s)      6,331,808 bytes
+
+ Directory of Z:\rap\Mos Def
+
+03/03/2005  14:11         5,348,506 Mos Def & Pharoahe Manch featuring Nate Dogg  Oh No.mp3
+               1 File(s)      5,348,506 bytes
+
+ Directory of Z:\rap\Chingy
+
+03/03/2005  14:01         5,202,606 Chingy  Balla Baby.mp3
+08/03/2005  03:22         5,431,143  Chingy featuring Ludacris and Snoop dog  Holidae In.mp3
+               2 File(s)     10,633,749 bytes
+
+ Directory of Z:\rap\Mystikal
+
+03/03/2005  22:10         6,108,099 Mystikal  Shake It Fas.mp3
+15/10/2005  10:46         3,418,112 09-Mystikal feat Nivea _ Danger (been so long).mp3
+               2 File(s)      9,526,211 bytes
+
+ Directory of Z:\rap\Jay Z
+
+13/02/2005  05:55         4,977,310 Jay Z - Can I Get A.mp3
+04/03/2005  11:13         5,855,699 Jay-Z featuring UGK  Big Pimpin'.mp3
+13/01/2003  15:00         4,927,866 Jay z Feat Beyonce - Bonnie and clyde.mp3
+               3 File(s)     15,760,875 bytes
+
+ Directory of Z:\rap\Genius Cru
+
+03/03/2005  22:31         3,832,312 Genius Cru  Boom.mp3
+               1 File(s)      3,832,312 bytes
+
+ Directory of Z:\rap\Ice Cube
+
+13/02/2005  05:53         6,300,640 Ice Cube feat. Mack 10 - You Can Do It.mp3
+               1 File(s)      6,300,640 bytes
+
+ Directory of Z:\rap\Biggy
+
+25/09/2003  13:41         5,869,952 Notorious Big feat Bone Thugs - Lets Ride.mp3
+05/03/2005  14:22         4,073,296 Biggie - Mo Money Mo Problems.mp3
+               2 File(s)      9,943,248 bytes
+
+ Directory of Z:\rap\Fat Joe
+
+28/02/2005  06:23         6,411,275 fat joe - whats luv (feat ja-rule and ashanti).mp3
+04/03/2005  15:01         5,090,578 Thalia (ft Fat Joe)  I Want You.mp3
+               2 File(s)     11,501,853 bytes
+
+ Directory of Z:\rap\eminem
+
+03/03/2005  23:13         6,788,584 Eminem  The Real Slim Shady.mp3
+16/02/2005  05:12         5,308,416 Eminem - Lose Yourself (FULL).mp3
+16/02/2005  05:07         6,264,510 Eminem - The Real Slim Shady.mp3
+22/02/2000  15:44         3,515,264 Fatboy Slim Vs Eminem - My Name Is FatBoy Slim.mp3
+15/10/2005  10:44         5,314,560 01-Eninem feat Dido _ Stan.mp3
+15/10/2005  13:23         4,352,000 My name is.mp3
+               6 File(s)     31,543,334 bytes
+
+ Directory of Z:\rap\eminem\Soundtrack - 8 Mile
+
+08/03/2005  21:35         5,101,997  50 Cent  Places To Go.mp3
+08/03/2005  21:37         4,375,267  50 Cent  Wanksta.mp3
+08/03/2005  21:38         4,360,140  Boomkat (Taryn Manning)  Wasting My Time.mp3
+08/03/2005  21:35         7,076,324  D12  Rap Game.mp3
+08/03/2005  21:34         7,213,207  Eminem  8 Mile.mp3
+08/03/2005  21:33         6,407,075  Eminem  Lose Yourself.mp3
+08/03/2005  21:39         3,842,371  Eminem  Rabbit Run.mp3
+08/03/2005  21:33         5,416,527  Eminem, Obie Trice, 50 Cent  Love Me.mp3
+21/04/2005  13:30         3,534,412  Gangstarr  Battle.mp3
+21/04/2005  13:46         4,968,534  Jay-Z (Feat. Freeway)  8 Miles and Runnin'.mp3
+21/04/2005  16:45         5,234,461  Macy Gray  Time Of My Life.mp3
+20/04/2005  14:05         4,613,791  Nas  U Wanna Be Me.mp3
+08/03/2005  21:34         4,579,032  Obie Trice  Adrenaline Rush.mp3
+08/03/2005  21:38         5,271,268  Rakim  R.A.K.I.M..mp3
+21/04/2005  16:45         4,388,093  Xzibit  Spit Shine.mp3
+21/04/2005  16:17         5,717,204  Young Zee  That's My  Fo' Real.mp3
+              16 File(s)     82,099,703 bytes
+
+ Directory of Z:\rap\eminem\The Eminem Show
+
+21/04/2005  12:44         5,961,187  'till i collapse.mp3
+21/04/2005  14:17         5,039,587  business.mp3
+21/04/2005  13:19         5,962,232  cleanin out my closet.mp3
+08/03/2005  16:20         1,238,488  curtains close (skit).mp3
+21/04/2005  16:43           601,906  curtains up (skit).mp3
+08/03/2005  16:16         5,714,292  drips.mp3
+08/03/2005  16:18         6,413,860  hailie's song.mp3
+08/03/2005  16:20         5,341,800  my dad's gone crazy.mp3
+21/04/2005  16:45           460,322  paul rosenberg (skit).mp3
+08/03/2005  16:15         5,458,308  say goodbye hollywood.mp3
+21/04/2005  12:19         6,203,081  say what you say.mp3
+21/04/2005  13:59         6,796,061  sing for the moment.mp3
+21/04/2005  14:53         4,529,677  soldier.mp3
+21/04/2005  14:05         6,479,457  square dance.mp3
+08/03/2005  16:18           663,270  steve berman (skit).mp3
+20/04/2005  13:42         7,011,832  superman.mp3
+21/04/2005  14:06         1,523,506  the kiss (skit).mp3
+08/03/2005  16:18         5,381,508  when the music stops.mp3
+08/03/2005  16:13         6,492,226  white america.mp3
+20/04/2005  13:47         5,811,767  without me.mp3
+              20 File(s)     93,084,367 bytes
+
+ Directory of Z:\rap\Dre
+
+03/03/2005  10:48         5,336,251 Dr Dre featuring Eminem  Forgot about Dre.mp3
+15/10/2005  12:13         4,425,728 Dr Dre - Still Dre.mp3
+13/02/2005  05:46         3,374,551 Dr. Dre - Nuthin But a G Thang.mp3
+15/10/2005  10:45         2,594,816 04-Dr Dre Feat Snoop Dogg _ Next episode.mp3
+               4 File(s)     15,731,346 bytes
+
+ Directory of Z:\rap\DMX
+
+02/03/2005  17:31         6,138,623 DMX  Who We Be.mp3
+               1 File(s)      6,138,623 bytes
+
+ Directory of Z:\rap\D-12
+
+15/10/2005  10:45         5,236,736 08-D-12 _ Shit on you.mp3
+               1 File(s)      5,236,736 bytes
+
+ Directory of Z:\rap\D-12\Devil's Night
+
+15/10/2005  11:18           784,384 01-Another Public Service Announcement.mp3
+15/10/2005  11:18         4,669,440 02-Shit Can Happen.mp3
+15/10/2005  11:18         5,163,008 03-Pistol Pistol.mp3
+15/10/2005  11:18         1,148,928 04-Bizarre (skit).mp3
+15/10/2005  11:19         4,536,320 05-Nasty Mind.mp3
+15/10/2005  11:19         4,990,976 06-Ain't Nuttin' But Music.mp3
+15/10/2005  11:19         4,431,872 07-American Psycho.mp3
+15/10/2005  11:19           600,064 08-That's How (skit).mp3
+15/10/2005  11:19         4,620,288 09-That's How.mp3
+15/10/2005  11:19         4,876,288 10-Purple Pills.mp3
+15/10/2005  11:19         4,179,968 11-Fight Music.mp3
+15/10/2005  11:20         4,753,408 12-Instigator.mp3
+15/10/2005  11:20         5,713,920 13-Pimp Like Me.mp3
+15/10/2005  11:20         4,960,256 14-Blow My Buzz.mp3
+15/10/2005  11:20         1,060,864 15-Obie Trice (skit).mp3
+15/10/2005  11:20         4,151,296 16-Devils Night.mp3
+15/10/2005  11:20           794,624 17-Steve Berman (skit).mp3
+15/10/2005  11:20         5,576,704 18-Revelation.mp3
+15/10/2005  11:21         5,357,568 19-Girls.mp3
+              19 File(s)     72,370,176 bytes
+
+ Directory of Z:\rap\Bubba Sparxxx
+
+02/03/2005  17:30         6,360,563 Bubba Sparxx  Ugly.mp3
+08/03/2005  16:00         6,333,334 Bubba Sparx.mp3
+               2 File(s)     12,693,897 bytes
+
+ Directory of Z:\rap\Bubba Sparxxx\Dark Days, Bright Nights
+
+15/10/2005  12:35         2,437,120 01-Take Off.mp3
+15/10/2005  12:35         4,247,552 02-Ugly.mp3
+15/10/2005  12:35         1,261,568 03-Any Porch.mp3
+15/10/2005  12:35         3,661,824 04-Bubba Talk.mp3
+15/10/2005  12:35         3,794,944 05-Lovely.mp3
+15/10/2005  12:36         3,788,800 06-Betty Betty.mp3
+15/10/2005  12:36         4,235,264 07-All The Same feat. Backbone and Sleepy Brown.mp3
+15/10/2005  12:36         3,538,944 08-Get Right.mp3
+15/10/2005  12:36         4,605,952 09-Open Wide feat. Sebastian.mp3
+15/10/2005  12:36         4,298,752 10-Infected.mp3
+15/10/2005  12:36         4,190,208 11-Twerk A Little feat. Timbaland.mp3
+15/10/2005  12:36         4,341,760 12-Takem To The Water feat. Duddy Ken.mp3
+15/10/2005  12:37         4,573,184 13-Well Water.mp3
+15/10/2005  12:37         4,505,600 14-The 1st Whutchacallit.mp3
+15/10/2005  12:37         4,313,088 15-Bubba Sparxxx.mp3
+15/10/2005  12:37         4,433,920 16-Regardless feat. C.T.mp3
+15/10/2005  12:37         4,732,928 17-If It's Humpin feat. Kasha of Stonewall and Bo Hagin.mp3
+15/10/2005  12:37         3,268,608 18-Dark Days, Bright Nights.mp3
+              18 File(s)     70,230,016 bytes
+
+ Directory of Z:\rap\Btnh
+
+05/03/2005  00:49         2,492,876 Btnh - last day.mp3
+04/07/2003  03:57         6,483,928 Btnh -  Not My Baby.mp3
+07/07/2003  06:37         4,118,912 Btnh - dont hate one me.mp3
+04/07/2003  02:38         6,282,132 Btnh - First Of Da Month.mp3
+05/03/2005  00:49         7,593,650 Btnh - First of tha month.mp3
+24/06/2003  10:33         7,637,381 Btnh - home_ft_phil_collins_(album)-wcr.mp3
+12/10/2003  23:01         4,218,558 Btnh - If I Could Teach the World.mp3
+22/02/2000  15:32         3,666,754 Btnh -  Cross Roads.mp3
+07/07/2003  07:38         1,630,208 Btnh - LastDays.mp3
+13/02/2005  05:10         7,562,208 Btnh - Resurrection (paper paper).mp3
+13/02/2005  05:12         3,857,795 Btnh - The Crossroads.mp3
+04/07/2003  02:42         7,782,946 Btnh - What About Us.mp3
+24/06/2003  11:33         7,637,381 Bone Thugs N Harmony - Home (ft Phil Collins).mp3
+22/02/2000  16:32         3,666,754 Bone Thugs -n- Harmony Cross Roads.mp3
+22/02/2000  17:36         5,011,890 Bone Thugs -n- Harmony - First of Tha Month.mp3
+04/07/2003  03:28         1,630,208 BtN - LastDays.mp3
+              16 File(s)     81,273,581 bytes
+
+ Directory of Z:\rap\BUSTA RHYMES
+
+15/10/2005  11:47         3,835,904 01-Turn it up (remix) _ Fire it up (clean).mp3
+               1 File(s)      3,835,904 bytes
+
+ Directory of Z:\rap\so solid
+
+03/03/2005  15:33         6,227,845 So Solid Crew  Haters.mp3
+04/03/2005  13:42         4,413,740 The So Solid Crew - Oh No.mp3
+05/03/2005  00:48         5,674,590 Lisa Mafia - All over.mp3
+30/09/2003  01:01         4,026,368 So Solid Crew - Broken silence.mp3
+               4 File(s)     20,342,543 bytes
+
+ Directory of Z:\rap\Snoop
+
+03/03/2005  21:24         5,857,951 Snoop Dogg (ft Pharrell & Uncle Charlie Wilson)  Beautiful.mp3
+               1 File(s)      5,857,951 bytes
+
+ Directory of Z:\rap\50 cent
+
+05/03/2005  00:51         6,208,117 50 cent - Many men.mp3
+05/03/2005  00:48         5,133,542 50 cent - Magic Stick.mp3
+05/03/2005  00:50         5,436,354 50 cent - 21 questions.mp3
+05/03/2005  00:50         6,982,385 50 cent - Patiently waiting.mp3
+11/04/2005  23:58         5,055,904 50_Cent_-_Candy_Shop.mp3
+               5 File(s)     28,816,302 bytes
+
+ Directory of Z:\rap\2pac
+
+15/10/2005  13:25         4,304,896 01-Changes (Radio Edit).mp3
+13/06/2003  12:28         3,786,279 2pac - Letter 2 My Unborn.mp3
+16/06/2003  09:49         4,309,556 2pac - Changes.mp3
+16/06/2003  09:54         4,724,414 2pac - Dear Momma.mp3
+03/07/2003  09:23         3,816,346 2pac - Heaven Ain't Hard To Find.mp3
+05/03/2005  00:52         6,384,287 2pac - .mp3
+01/03/2005  15:59         4,742,203 2Pac - Life goes on.mp3
+14/08/2003  01:45         3,347,336 2pac - Me Against the World.mp3
+19/06/2003  08:10         4,715,540 2pac - Never Be Peace.mp3
+13/06/2003  06:58         5,069,296 2pac - Remix Phil Collins (Coming in the air tonight).mp3
+05/03/2005  00:53         5,774,276 2pac - Shed so many tears.mp3
+09/07/2003  11:42         2,863,144 2Pac - So Many Tears - 08 (1).mp3
+14/06/2003  01:26         4,384,770 2pac - To Live and Die in LA.mp3
+03/07/2003  08:44         5,241,719 2Pac - Unconditional Love.mp3
+27/08/2003  23:24         2,880,796 2pac - Westside.mp3
+17/02/2005  11:31         4,712,448 2pac ft Phil Collins In the air tonight.mp3
+24/02/2005  09:18         4,831,232 2pac soldier_like_me_(featuring_eminem)-esc.mp3
+              17 File(s)     75,888,538 bytes
+
+ Directory of Z:\rap\2pac\2pacalypse Now
+
+24/02/2005  15:39         3,727,612 01-2pac-young_black_male-rtg.mp3
+24/02/2005  15:19         6,839,736 02-2pac-trapped_(ft._shock-g)-rtg.mp3
+24/02/2005  15:44         7,338,779 03-2pac-souljas_story-rtg.mp3
+24/02/2005  12:53         6,251,750 04-2pac-i_dont_give_a_fuck_(ft._pogo)-rtg.mp3
+24/02/2005  13:24         9,269,835 05-2pac-violent_(ft._money_b_dj_fuze_mac)-rtg.mp3
+30/01/2005  10:07         7,071,703 06-2pac-words_of_wisdom-rtg.mp3
+24/02/2005  16:18         3,578,483 07-2pac-something_wicked_(ft._pee_wee)-rtg.mp3
+24/02/2005  16:23         6,185,294 08-2pac-crooked_ass_nigga_(ft._stretch)-rtg.mp3
+24/02/2005  13:51         6,206,528 09-2pac-if_my_homie_calls-rtg.mp3
+24/02/2005  12:57         5,647,390 10-2pac-brendas_got_a_baby_(ft._dave_roniece)-rtg.mp3
+24/02/2005  11:19         5,028,588 11-2pac-tha_lunatic_(ft._strech)-rtg.mp3
+24/02/2005  13:31         4,735,208 12-2pac-rebel_of_the_underground_(ft._ray_love_yonni_di_d)-rtg.mp3
+24/02/2005  16:23         7,541,372 13-2pac-part_time_mutha_(ft._poppi_angelique)-rtg.mp3
+              13 File(s)     79,422,278 bytes
+
+ Directory of Z:\rap\Outkast
+
+13/06/2003  11:52         6,640,346 Outkast - Miss Jackson.mp3
+03/03/2005  21:56         5,571,440 OutKast  Hey Ya!.mp3
+05/03/2005  12:46         3,707,551 outkast - b.o.b..mp3
+               3 File(s)     15,919,337 bytes
+
+ Directory of Z:\rap\Ludacris
+
+21/04/2005  13:07         4,319,653  Ludacris featuring Shawnna  Stand Up.mp3
+15/10/2005  10:45         3,942,400 07-Ludacris _ Whats your fantasy.mp3
+03/03/2005  13:42         5,120,044 Ludacris  Area Codes.mp3
+               3 File(s)     13,382,097 bytes
+
+ Directory of Z:\rap\Westside Connection
+
+20/03/2004  17:01         6,528,069 10 Westiside Connection ft. Nate Dogg - Gangsta Nation.mp3
+               1 File(s)      6,528,069 bytes
+
+ Directory of Z:\rap\Spooks
+
+15/10/2005  10:45         4,384,768 06-Spooks _ Things I've seen.mp3
+               1 File(s)      4,384,768 bytes
+
+ Directory of Z:\rap\Jo Buddens
+
+12/08/2003  00:21         5,420,639 Jo Buddens - Pump It Up.mp3
+               1 File(s)      5,420,639 bytes
+
+ Directory of Z:\rap\Krazy Bone
+
+15/01/2004  11:14         3,629,056 Krazy Bone - When A Thug Crys.mp3
+               1 File(s)      3,629,056 bytes
+
+ Directory of Z:\rap\Kool G
+
+04/03/2005  00:18         4,899,988 Kool G Rap  My Life.mp3
+               1 File(s)      4,899,988 bytes
+
+ Directory of Z:\rap\Commonwealth
+
+02/03/2005  17:32         5,509,810 Commonwealth  Anthem.mp3
+               1 File(s)      5,509,810 bytes
+
+ Directory of Z:\rnb\Keliss
+
+04/03/2005  17:09         6,026,303 Keliss - I Hate you so much.mp3
+03/03/2005  22:28         5,330,695 Keliss - Candy.mp3
+04/03/2005  12:20         4,948,263 Kelis  Trick Me.mp3
+04/03/2005  14:54         5,438,529 Kelis (ft Andre 3000)  Millionaire.mp3
+25/10/2000  14:52         4,271,217 Kelis - Get Along With You.mp3
+20/03/2004  17:01         4,476,099 01 Kelis - Milkshake.mp3
+               6 File(s)     30,491,106 bytes
+
+ Directory of Z:\rnb\Frankee - The Good - The Bad - The Ugly
+
+08/03/2005  15:31         4,296,881  Don't Be Mad.mp3
+21/04/2005  16:45         3,970,657  F.U.R.B. (F U Right Back).mp3
+08/03/2005  15:29         3,048,747  Gotta Man.mp3
+08/03/2005  15:30         4,275,455  Hell No.mp3
+21/04/2005  15:57         3,731,375  Him.mp3
+21/04/2005  14:24         4,494,673  How You Do.mp3
+21/04/2005  13:11         4,076,191  I Do Me.mp3
+08/03/2005  15:30         5,572,179  I Told You So.mp3
+21/04/2005  13:42         4,847,326  I'm Leaving.mp3
+08/03/2005  15:28         3,683,528  In Love With Me.mp3
+08/03/2005  15:29         3,923,337  Who The Hell Are You.mp3
+              11 File(s)     45,920,349 bytes
+
+ Directory of Z:\rnb\Eamon
+
+04/03/2005  15:01         5,370,819 Eamon  Fuck It (I Dont Want You Back).mp3
+08/03/2005  03:24         4,541,913  Eamon  I Don't Want You Back.mp3
+               2 File(s)      9,912,732 bytes
+
+ Directory of Z:\rnb\Eamon\I Don't Want You Back
+
+08/03/2005  03:10         2,987,627   I Love Them Ho's (Ho-Wop).mp3
+21/04/2005  15:19         4,976,371  4 The Rest Of Your Life.mp3
+21/04/2005  15:15         3,994,689  All Over Love.mp3
+08/03/2005  03:13         4,731,026  Controversy.mp3
+21/04/2005  13:54         4,852,028  Finally.mp3
+21/04/2005  14:57         4,549,530  Fuck It (I Don't Want You Back).mp3
+21/04/2005  16:45         4,496,763  Get Off My Dick! (Featuring Rap Legend Milk Dee).mp3
+21/04/2005  16:45         3,748,616  Girl Act Right.mp3
+20/04/2005  14:16         4,259,571  I Want You So Bad.mp3
+08/03/2005  03:14         4,179,855  I'd Rather Fuck With You.mp3
+21/04/2005  12:57           355,832  Intro.mp3
+08/03/2005  03:14         4,860,087  Lo Rida (Featuring N.O.R.E.).mp3
+20/04/2005  14:26         3,634,722  My Baby's Lost.mp3
+20/04/2005  14:13         4,207,326  On & On.mp3
+08/03/2005  03:10         3,739,454  Somethin' Strange (Featuring Rap Legend Milk Dee).mp3
+              15 File(s)     59,573,497 bytes
+
+ Directory of Z:\rnb\Terrah Danjah
+
+04/03/2005  13:07         4,450,473 Terrah Danjah (ft Sadie & Kano)  So Sure.mp3
+               1 File(s)      4,450,473 bytes
+
+ Directory of Z:\rnb\T-Spoon
+
+15/10/2005  12:06         3,192,832 01-Mercedes Benz (Radio Version).mp3
+               1 File(s)      3,192,832 bytes
+
+ Directory of Z:\rnb\Naughty by Nature
+
+13/02/2005  06:10         3,217,867 Naughty By Nature - Feel Me Flow.mp3
+13/02/2005  06:12         6,004,736 Naughty by Nature - Holiday.mp3
+15/10/2005  12:30         4,317,184 02-Naughty By Nature _ O.P.P.mp3
+13/02/2005  06:14         4,273,903 naughty by nature feat zhane - jamboree.mp3
+               4 File(s)     17,813,690 bytes
+
+ Directory of Z:\rnb\Kano
+
+13/09/2005  20:20         4,551,242 Kano - Nite Nite (Feat. Mike Skinner).mp3
+               1 File(s)      4,551,242 bytes
+
+ Directory of Z:\rnb\Roy Davis
+
+03/03/2005  22:02         5,541,347 Roy Davis, Jr. feat. Peven Everett  Gabriel.mp3
+               1 File(s)      5,541,347 bytes
+
+ Directory of Z:\rnb\Richie Dan
+
+03/03/2005  13:01         4,129,481 Richie Dan  Call it Fate.mp3
+               1 File(s)      4,129,481 bytes
+
+ Directory of Z:\rnb\Rhian Benson
+
+03/03/2005  14:18         5,449,012 Rhian Benson  Say How I Feel.mp3
+               1 File(s)      5,449,012 bytes
+
+ Directory of Z:\rnb\Uncle Sam
+
+01/03/2005  16:02         5,824,523 Uncle Sam - When I See You Smile.mp3
+               1 File(s)      5,824,523 bytes
+
+ Directory of Z:\rnb\qtip
+
+13/02/2005  06:19         3,860,480 Q-tip - Breathe and Stop.mp3
+13/02/2005  06:21         4,574,391 Q-tip - Vibrant Things.mp3
+01/03/2005  16:02         4,669,440 Raphael Saadiq feat. Q-Tip - Get Involved.mp3
+               3 File(s)     13,104,311 bytes
+
+ Directory of Z:\rnb\Mary Mary
+
+03/03/2005  22:47         5,294,960 Mary Mary  I Sings.mp3
+02/12/2000  13:54         4,733,580 Mary Mary - Shackles (Praise You).mp3
+               2 File(s)     10,028,540 bytes
+
+ Directory of Z:\rnb\KCi &Jojo
+
+01/03/2005  15:58         6,744,486 kc & jojo - tell me its real.mp3
+15/10/2005  13:40         3,581,952 All my life.mp3
+22/02/2000  15:18         4,026,680 Kci & JoJo-Tell me its real remix.mp3
+01/03/2005  15:58         5,284,234 K-ci & Jojo - Allmylife.mp3
+04/03/2005  00:25         4,839,175 K-CI & Jojo  Crazy.mp3
+13/02/2005  06:02         4,748,042 K-ci & Jojo - How Could You.mp3
+13/02/2005  06:04         5,488,987 K-Ci & Jojo - How Long Must I Cry.mp3
+13/02/2005  06:07         5,242,968 k-ci & jojo - how many times.mp3
+17/03/2000  07:45         5,392,848 KCi & Jojo-All my life (Wedding remix).mp3
+12/02/2005  15:51         3,493,888 KC & Jojo - Girl.mp3
+              10 File(s)     48,843,260 bytes
+
+ Directory of Z:\rnb\Foxy Brown
+
+03/03/2005  23:05         5,330,695 Candy  Foxy Brown feat. Kelis.mp3
+               1 File(s)      5,330,695 bytes
+
+ Directory of Z:\rnb\Dru Hill
+
+13/02/2005  05:48         4,945,034 Dru Hill - These are the Times.mp3
+               1 File(s)      4,945,034 bytes
+
+ Directory of Z:\rnb\Donell Jones
+
+13/02/2005  05:45         3,547,136 Donell Jones - Knocks Me Off My Feet.mp3
+15/10/2005  11:40         3,907,584 Whats up.mp3
+               2 File(s)      7,454,720 bytes
+
+ Directory of Z:\rnb\D'Angelo
+
+03/03/2005  22:54         6,361,383 D'Angelo  Brown Sugar.mp3
+               1 File(s)      6,361,383 bytes
+
+ Directory of Z:\rnb\Blu Cantrel
+
+02/03/2005  16:54         5,786,331 Blu Cantrell - Breathe.mp3
+               1 File(s)      5,786,331 bytes
+
+ Directory of Z:\rnb\Baby Brother
+
+03/03/2005  15:58         6,297,435 Baby Brother  Sticky Fingaz feat. Dave Hollister.mp3
+               1 File(s)      6,297,435 bytes
+
+ Directory of Z:\rnb\3 of a Kind
+
+04/03/2005  15:01         3,713,820 3 Of A Kind  Baby Cakes.mp3
+               1 File(s)      3,713,820 bytes
+
+ Directory of Z:\rnb\Glenn Lewis
+
+12/02/2005  15:51         5,644,523 Glenn Lewis - dont you forget it.mp3
+               1 File(s)      5,644,523 bytes
+
+ Directory of Z:\rnb\2 play
+
+04/03/2005  14:18         4,598,431 2 Play (ft Raghav & Jucxi)  So Confused.mp3
+               1 File(s)      4,598,431 bytes
+
+ Directory of Z:\rnb\Cassidy
+
+17/06/2004  15:01         5,980,114 -x-r_kelly_feat_cassidy_-_hotel.mp3
+               1 File(s)      5,980,114 bytes
+
+ Directory of Z:\rnb\Camron
+
+02/03/2005  16:55         6,301,989 Cam`ron - Hey ma.mp3
+               1 File(s)      6,301,989 bytes
+
+ Directory of Z:\rnb\b2k
+
+12/02/2005  15:51         5,057,015 b2k-why_i_love_you.mp3
+               1 File(s)      5,057,015 bytes
+
+ Directory of Z:\rnb\Chante Moore
+
+03/03/2005  22:39         5,343,234 Chante Moore  Straight Up.mp3
+               1 File(s)      5,343,234 bytes
+
+ Directory of Z:\rnb\411
+
+03/03/2005  21:52         4,053,621 The 411  Dumb.mp3
+               1 File(s)      4,053,621 bytes
+
+ Directory of Z:\rnb\Mya
+
+03/03/2005  22:14         4,722,194 Mya  Case Of The Ex.mp3
+13/06/2003  11:10         4,244,410 Mya - Ghetto Superstar.mp3
+14/08/2003  04:19         5,068,906 Mya ft. Missy - My Love Is Like Whoa.mp3
+               3 File(s)     14,035,510 bytes
+
+ Directory of Z:\rnb\Rishi Rich
+
+25/09/2003  03:59         2,658,304 Rishi Rich Dance With You.mp3
+               1 File(s)      2,658,304 bytes
+
+ Directory of Z:\rnb\Mary J Blige
+
+04/03/2005  12:27         4,944,501 Mary J Blige - Dance for me.mp3
+04/03/2005  14:15         4,944,501 Mary J Blige feat. Common  Dance For Me.mp3
+               2 File(s)      9,889,002 bytes
+
+ Directory of Z:\rnb\Big brovas
+
+13/01/2004  15:27         3,859,422 Big Brovas -  Baby Boy.mp3
+13/06/2003  08:42         3,934,425 Big Brovaz - Favourite Things.mp3
+               2 File(s)      7,793,847 bytes
+
+ Directory of Z:\rnb\Sean Paul
+
+28/08/2003  01:46         3,744,718 Buy Out Riddim - Like Glue.mp3
+02/03/2005  16:53         6,609,189 Sean Paul - Like Glue.mp3
+               2 File(s)     10,353,907 bytes
+
+ Directory of Z:\rnb\Nelly
+
+04/03/2005  00:37         5,889,925 Nelly  Batter Up.mp3
+04/03/2005  13:59         6,048,796 Nelly  E.I..mp3
+26/02/2005  23:59         6,261,119 Nelly - Over And Over (Feat. Tim McGraw)(1).mp3
+08/10/2002  17:46         5,785,205 Nelly Ft Kelly Rowland - Dilemma.mp3
+04/08/2005  12:50         5,237,282 n_dey_say.mp3
+15/10/2005  10:45         4,061,184 02-Nelly FEat, City Spud _ Ride with me.mp3
+               6 File(s)     33,283,511 bytes
+
+ Directory of Z:\rnb\Next
+
+13/02/2005  06:16         4,133,388 Next - Too Close.mp3
+03/03/2005  15:58         5,773,941 Next - Wifey.mp3
+               2 File(s)      9,907,329 bytes
+
+ Directory of Z:\rnb\Puff Daddy
+
+05/03/2005  12:40         2,934,912 puff daddy & the family - i'll be missing you.mp3
+               1 File(s)      2,934,912 bytes
+
+ Directory of Z:\rnb\Akon
+
+11/04/2005  18:40         5,660,868 Akon - Mr._Lonely.mp3
+               1 File(s)      5,660,868 bytes
+
+ Directory of Z:\rnb\Silk
+
+30/09/2003  21:07         4,896,775 Silk - Please Don't Go.mp3
+14/06/2003  02:09         4,897,031 Silk - Meeting In My Bedroom.mp3
+05/03/2005  12:54         6,365,771 Silk - Romeo and Juliet.mp3
+10/07/2003  07:23         4,620,288 Silk - Thug 'N' Me.mp3
+12/10/2003  20:46         4,032,018 Silk - We're Callin' You.mp3
+               5 File(s)     24,811,883 bytes
+
+ Directory of Z:\rnb\Sisqo
+
+03/07/2003  13:46         5,094,791 Sisco - Thong Song.mp3
+04/03/2005  00:10         6,307,466 Sisqo  Incomplete (Stargate Mix).mp3
+03/03/2005  13:46         5,798,392 Can I Live  Sisqo.mp3
+               3 File(s)     17,200,649 bytes
+
+ Directory of Z:\rnb\Rome
+
+23/02/2000  15:11         3,885,894 Rome - I Belong to You.mp3
+               1 File(s)      3,885,894 bytes
+
+ Directory of Z:\rnb\blue
+
+03/03/2005  14:15         4,907,332 Blue (ft LADE)  Bubblin'.mp3
+05/12/2001  22:42         3,321,649 blue - If you come back.mp3
+21/04/2005  14:33         4,377,122 Blue - Breathe Easy.mp3
+20/03/2004  16:52         5,119,965 03 Blue ft. Stevie Wonder And Angie Stone - Signed Sealed Delivered Im Yours.mp3
+               4 File(s)     17,726,068 bytes
+
+ Directory of Z:\rnb\Black Eyed Peas
+
+03/08/2003  00:29         5,464,881 Black Eyed Peas feat. Justin Timberlake - Where is the love.mp3
+08/06/2005  23:57         6,810,156 Black Eyed Peas - Sexy.mp3
+04/08/2005  09:19         3,493,744 black_eyed_peas-dont_lie-mp3xplosion.mp3
+21/04/2005  16:45         4,539,081  Black Eyed Peas  Shut Up.mp3
+08/03/2005  15:57         4,342,279 Black Eyed Peas - Hey Mama.mp3
+               5 File(s)     24,650,141 bytes
+
+ Directory of Z:\rnb\Black Eyed Peas\Monkey Business
+
+30/08/2005  11:45         5,834,069 01-black_eyed_peas-pump_it.mp3
+30/08/2005  11:47         6,229,837 02-black_eyed_peas-dont_phunk_with_my_heart.mp3
+30/08/2005  11:49         6,821,651 03-black_eyed_peas-my_style_(feat_justin_timberlake).mp3
+30/08/2005  11:52         5,620,610 04-black_eyed_peas-dont_lie.mp3
+30/08/2005  11:55         8,752,272 05-black_eyed_peas-my_humps.mp3
+30/08/2005  11:57         6,909,105 06-black_eyed_peas-like_that_(feat_cee-lo_john_legend_talib_kweli_and_q-tip).mp3
+30/08/2005  12:00         7,708,388 07-black_eyed_peas-dum_diddly.mp3
+30/08/2005  12:03         6,798,288 08-black_eyed_peas-feel_it.mp3
+30/08/2005  12:05         5,260,521 09-black_eyed_peas-gone_going_(feat_jack_johnson).mp3
+30/08/2005  12:08        10,641,657 10-black_eyed_peas-they_dont_want_music_(feat_james_brown).mp3
+30/08/2005  12:10         6,247,634 11-black_eyed_peas-disco_club.mp3
+30/08/2005  12:12         5,462,882 12-black_eyed_peas-bebot.mp3
+30/08/2005  12:15         6,300,741 13-black_eyed_peas-ba_bump.mp3
+30/08/2005  12:18         8,720,447 14-black_eyed_peas-audio_delite_at_low_fidelity.mp3
+30/08/2005  12:20         8,273,533 15-black_eyed_peas-union_(feat_sting).mp3
+              15 File(s)    105,581,635 bytes
+
+ Directory of Z:\rnb\Beanie
+
+08/10/2002  16:50         3,272,705 Beanie Man f. Janet Jackson - Feel It Boy.MP3
+05/03/2005  14:15         6,188,348 Beanie Man Featuring Mya - Girls Dem Sugar.mp3
+04/03/2005  00:21         5,113,148 Beenie Man (ft Ms Thing)  Dude.mp3
+06/07/2004  11:46         3,518,592 regae beanie man.mp3
+               4 File(s)     18,092,793 bytes
+
+ Directory of Z:\rnb\Allure
+
+13/06/2003  09:26         4,413,035 Allure & 112 - All Cried Out.mp3
+               1 File(s)      4,413,035 bytes
+
+ Directory of Z:\rnb\Alicia Keys
+
+12/02/2005  15:51         7,150,990 Alicia Keys - Karma (Karmastition Remix).mp3
+21/04/2005  13:04         4,621,106 Alicia Keys.mp3
+               2 File(s)     11,772,096 bytes
+
+ Directory of Z:\rnb\Another Level
+
+15/10/2005  13:36         4,724,736 From the Heart.mp3
+03/03/2005  10:32         7,354,909 Another Level  Bomb Diggy (Bump 'n' Flex Remix).mp3
+               2 File(s)     12,079,645 bytes
+
+ Directory of Z:\rnb\Another Level\Another Level
+
+15/10/2005  13:29         1,091,584 01-Into Another Level.mp3
+15/10/2005  13:29         4,747,264 02-Freak Me.mp3
+15/10/2005  13:29         3,997,696 03-The Rain.mp3
+15/10/2005  13:29         4,927,488 04-I Want You For Myself.mp3
+15/10/2005  13:29         2,404,352 05-I Can See You In My Mind.mp3
+15/10/2005  13:30         5,226,496 06-Guess I Was A Fool.mp3
+15/10/2005  13:30         4,208,640 07-Girl What You Wanna Do.mp3
+15/10/2005  13:30         4,114,432 08-Whatever You Want.mp3
+15/10/2005  13:30         3,706,880 09-Dont Cry.mp3
+15/10/2005  13:30         4,098,048 10-Anytime You Need Me (Just Call Me Up).mp3
+15/10/2005  13:30         3,825,664 11-Be Alone No More - Featuring Jay-Z.mp3
+              11 File(s)     42,348,544 bytes
+
+ Directory of Z:\rnb\TLC
+
+04/03/2005  17:11         5,546,070 TLC - no scrubs.mp3
+24/02/2000  15:54         3,727,360 TLC - Baby, Baby, Baby.mp3
+15/10/2005  11:40         4,499,456 Unpretty.mp3
+               3 File(s)     13,772,886 bytes
+
+ Directory of Z:\rnb\TQ
+
+15/10/2005  00:15         4,024,320 04-Westside Part III (Budd'ah Remix).mp3
+15/10/2005  00:14         5,097,472 02-Westside (K-Gee's West London Mix).mp3
+15/10/2005  00:15         5,152,768 03-Westside (K-Gee's Mix).mp3
+15/10/2005  00:12         3,737,600 01-Westside (Radio Version).mp3
+               4 File(s)     18,012,160 bytes
+
+ Directory of Z:\rnb\Whitney Houston\My Love Is Your Love
+
+15/10/2005  12:40         4,679,680 01-It's Not Right But It's Okay.mp3
+15/10/2005  12:40         4,507,648 02-Heartbreak Hotel.mp3
+15/10/2005  12:41         4,188,160 03-My Love Is Your Love.mp3
+15/10/2005  12:41         4,370,432 04-When You Believe (From The Prince Of Egypt).mp3
+15/10/2005  12:41         4,435,968 05-If I Told You That.mp3
+15/10/2005  12:41         3,319,808 06-In My Business.mp3
+15/10/2005  12:41         4,177,920 07-I Learned From The Best.mp3
+15/10/2005  12:41         6,522,880 08-Oh Yes.mp3
+15/10/2005  12:42         4,694,016 09-Get It Back.mp3
+15/10/2005  12:42         4,687,872 10-Until You Come Back.mp3
+15/10/2005  12:42         4,337,664 11-I Bow Out.mp3
+15/10/2005  12:42         4,186,112 12-You'll Never Stand Alone.mp3
+15/10/2005  12:42         4,259,840 13-I Was Made To Love Him.mp3
+              13 File(s)     58,368,000 bytes
+
+ Directory of Z:\rnb\Wayne Wonder\No Holding Back
+
+15/10/2005  11:21           849,920 01-Intro.mp3
+15/10/2005  11:22         3,235,840 02-No Letting Go.mp3
+15/10/2005  11:22         4,651,008 03-Bounce Along.mp3
+15/10/2005  11:22         3,960,832 04-Friend Like Me.mp3
+15/10/2005  11:22         4,124,672 05-Nobody But Me.mp3
+15/10/2005  11:22         3,203,072 06-Glad You Came My Way.mp3
+15/10/2005  11:23         3,418,112 07-Crazy Feeling ft. Elephant Man.mp3
+15/10/2005  11:23         3,672,064 08-Definitely.mp3
+15/10/2005  11:23         3,874,816 09-Just Another Day.mp3
+15/10/2005  11:23         4,626,432 10-Close Your Eyes.mp3
+15/10/2005  11:23         4,237,312 11-My Kinda Lady.mp3
+15/10/2005  11:23         3,616,768 12-The Mood is Right.mp3
+15/10/2005  11:23         3,629,056 13-Slowly but Surely.mp3
+15/10/2005  11:24         4,364,288 14-Perfect Proposal.mp3
+15/10/2005  11:24         4,136,960 15-Enemies ft. Supriz.mp3
+15/10/2005  11:24         4,077,568 16-Metal & Steel ft. Demo Delgado & Showki Ru.mp3
+15/10/2005  11:25         3,543,040 17-Saddest Day.mp3
+              17 File(s)     63,221,760 bytes
+
+ Directory of Z:\rnb\usher
+
+11/02/2005  18:27         5,535,400 16-usher_ft._beyonce-my_boo_(prod._by_jermaine_dupri)-c4_[deniz].mp3
+11/02/2005  18:27         5,487,762 17-usher_ft._alicia_keys-my_boo_part_ii_(prod._by_jermaine_d_[deniz].mp3
+13/06/2003  11:06         3,895,438 Usher - U Got It Bad.MP3
+03/03/2005  14:03         6,169,965 Usher  Burn.mp3
+               4 File(s)     21,088,565 bytes
+
+ Directory of Z:\rnb\usher\Confessions
+
+05/03/2005  02:14         6,336,051  Bad Girl.mp3
+05/03/2005  02:12         6,192,477  Burn.mp3
+05/03/2005  02:12         5,443,917  Caught Up.mp3
+08/03/2005  02:52         5,561,800  Confessions II.mp3
+08/03/2005  02:52         1,872,890  Confessions.mp3
+08/03/2005  02:51         1,176,982  Intro.mp3
+05/03/2005  02:13         7,194,962  Simple Things.mp3
+05/03/2005  02:13         5,065,249  SuperStar II.mp3
+05/03/2005  02:12         1,605,171  SuperStar.mp3
+05/03/2005  02:14         6,720,381  That's What It's Made For.mp3
+08/03/2005  02:52         5,848,306  Throwback.mp3
+05/03/2005  02:13         5,606,924  Truth Hurts.mp3
+08/03/2005  02:51         6,059,581  Yeah!.mp3
+              13 File(s)     64,684,691 bytes
+
+ Directory of Z:\rnb\R Kelly
+
+04/03/2005  11:28         5,280,169 R Kelly  I Wish.mp3
+14/06/2003  02:14         4,537,848 R Kelly - Ignition (remix).mp3
+02/03/2005  16:51         6,307,109 R Kelly - Thoya thoya.mp3
+13/02/2005  10:28         5,901,503 R Kelly_TP-2.com_Feelin' On Your Booty.mp3
+13/02/2005  10:30         4,099,053 R. Kelly - Bump and Grind.mp3
+13/02/2005  10:31         3,741,696 R. Kelly - Feista - remix - feat. Jay Z.mp3
+28/02/2003  20:04         5,347,568 R. Kelly - Ignition (remix).mp3
+12/10/2004  14:31         5,622,770 R.kelly - 3 way phone call (feat. kelly price kim burrell and maurice mahon).mp3
+20/08/2004  17:36         6,825,238 R.kelly - greatest show on earth.mp3
+12/10/2004  15:09        14,698,335 R.kelly - happy people.mp3
+12/10/2004  14:27         5,621,516 R.kelly - how did u manage.mp3
+20/08/2004  17:34         7,536,814 R.kelly - i surrender.mp3
+20/08/2004  17:35         7,528,036 R.kelly - if i can make the world dance.mp3
+20/08/2004  17:36         7,008,304 R.kelly - if.mp3
+12/10/2004  14:43         3,918,123 R.kelly - intro (weatherman).mp3
+12/10/2004  14:47         5,462,900 R.kelly - ladies night (treat her like heaven).mp3
+20/08/2004  17:34         7,383,214 R.kelly - leap of faith.mp3
+12/10/2004  14:36         7,953,728 R.kelly - love signals.mp3
+20/08/2004  17:36         6,704,239 R.kelly - love street.mp3
+20/08/2004  18:34         7,487,912 R.Kelly - Peace.mp3
+20/08/2004  17:35         9,267,792 R.kelly - prayers change.mp3
+12/10/2004  14:50         5,059,152 R.kelly - red carpet.mp3
+20/08/2004  17:34         9,269,045 R.kelly - spirit.mp3
+13/02/2005  06:23         5,127,233 R.Kelly - Step (In the Name of Love).mp3
+12/10/2004  14:40         5,694,868 R.kelly - steppin into heaven.mp3
+12/10/2004  15:05         6,478,541 R.kelly - the diary of me.mp3
+20/08/2004  17:35         9,201,336 R.kelly - u saved me.mp3
+20/08/2004  17:34         6,108,647 R.kelly - when i talk about you.mp3
+20/08/2004  17:34         7,487,912 R Kelly - peace.mp3
+              29 File(s)    192,660,601 bytes
+
+ Directory of Z:\rnb\Pussy Cat Dolls
+
+13/09/2005  19:35         5,252,531 The Pussycat Dolls feat Busta Rhymes - Don't cha.mp3
+               1 File(s)      5,252,531 bytes
+
+ Directory of Z:\rnb\Keith Sweat
+
+23/02/2000  15:58         4,344,267 Keith Sweat - Twisted.mp3
+24/02/2000  16:42         4,064,907 Keith Sweat - Nobody.mp3
+24/02/2000  15:16         4,116,480 Keith Sweat - i'm not ready .mp3
+24/02/2000  02:31         4,554,752 Keith Sweat - Twisted(Sexual Healing Remix).mp3
+24/02/2000  17:12         5,537,792 Ol' School, Xscape & Keith Sweat - Am I Dreaming.mp3
+               5 File(s)     22,618,198 bytes
+
+ Directory of Z:\rnb\John Legend
+
+05/03/2005  11:55         3,174,528 John Legend - Number One.mp3
+               1 File(s)      3,174,528 bytes
+
+ Directory of Z:\rnb\Jodeci
+
+22/02/2000  16:29         4,823,040 Jodeci - Cry For You.mp3
+13/02/2005  10:26         4,607,581 Jodeci - Good love.mp3
+               2 File(s)      9,430,621 bytes
+
+ Directory of Z:\rnb\Jesus Jones
+
+03/11/2003  13:15         3,018,880 Jesus Jones - Right Here, Right Now.mp3
+               1 File(s)      3,018,880 bytes
+
+ Directory of Z:\rnb\Jennifer Lopez
+
+15/10/2005  00:24         3,987,456 01-Waiting For Tonight.mp3
+15/10/2005  00:25         5,658,624 02-Waiting For Tonight [Metro Mix].mp3
+15/10/2005  00:26         3,831,808 03-Waiting For Tonight [Pablo's Miami Mix].mp3
+22/02/2000  14:56         4,573,416 Jennifer Lopez - If You Had My Love.mp3
+13/06/2003  09:21         4,173,716 Jennifer lopez - im real remix.mp3
+               5 File(s)     22,225,020 bytes
+
+ Directory of Z:\rnb\Ja Rule
+
+04/03/2005  14:50         5,823,469 Ja Rule Ft Ashanti - Always there.mp3
+03/03/2005  09:51         5,819,521 Ja Rule feat. Ashanti  Always On Time.mp3
+04/03/2005  00:14         5,932,186 Ja Rule featuring Christina Milian  Between Me & You.mp3
+15/10/2005  10:46         3,999,744 10-Ja Rule feat Christina Milian _ Between me and you.mp3
+               4 File(s)     21,574,920 bytes
+
+ Directory of Z:\rnb\Ja Rule\Pain Is Love
+
+20/04/2005  14:47         4,907,930  Always On Time (Feat. Ashanti).mp3
+08/03/2005  18:53           396,834  Big Remo (Skit).mp3
+08/03/2005  18:49         4,255,643  Dial M For Murder.mp3
+08/03/2005  18:51         6,623,915  Down Ass Bitch (Feat. Chuck).mp3
+21/04/2005  12:36         5,064,665  I'm Real (Murder Mix) (Feat. Jennifer Lopez).mp3
+08/03/2005  18:52         2,777,105  Leo (Skit).mp3
+08/03/2005  18:49         5,142,769  Livin' It Up (Feat. Case).mp3
+21/04/2005  14:50         6,019,702  Lost Little Girl.mp3
+20/04/2005  14:40         5,188,485  Never Again.mp3
+08/03/2005  18:49         1,564,510  Pain Is lOve (Skit).mp3
+21/04/2005  15:31         6,087,098  Pain Is Love.mp3
+21/04/2005  15:36         5,832,142  Smokin' And Ridin' (Feat. Jodie Mack & O-1).mp3
+08/03/2005  18:54         6,071,162  So Much Pain (Feat. 2Pac).mp3
+08/03/2005  18:50         4,733,721  The  Inc. (Feat. Caddillac Tah, Black Child & Ashanti).mp3
+08/03/2005  18:52         4,004,393  Worldwide Gangsta (Feat. Caddillac Tah, Black Chuld, Boo & Gotti).mp3
+08/03/2005  18:53         6,049,762  X (Feat. Missy Misdemeanor Elliott & Tweet).mp3
+              16 File(s)     74,719,836 bytes
+
+ Directory of Z:\rnb\Ja Rule\Rule 3_36
+
+15/10/2005  11:36         1,200,128 01-Intro.mp3
+15/10/2005  11:36         1,845,248 02-Watching Me.mp3
+15/10/2005  11:36         4,005,888 03-Between Me And You (feat. Christina Milian).mp3
+15/10/2005  11:36         4,208,640 04-Put It On Me (feat. Vita).mp3
+15/10/2005  11:37         4,886,528 05-6 Feet Underground.mp3
+15/10/2005  11:37         4,556,800 06-Love Me, Hate Me.mp3
+15/10/2005  11:37         4,433,920 07-Die (feat. Tah Murdah, Black Child & Dave Bing).mp3
+15/10/2005  11:37         4,057,088 08-Fuck You (feat. 01 and Vita).mp3
+15/10/2005  11:37         1,519,616 09-I'll Fuck You Girl (Skit).mp3
+15/10/2005  11:37           262,144 10-Grey Box (Skit).mp3
+15/10/2005  11:37         4,900,864 11-Extasy (feat. Tah Murdah, Black Child, Jayo Felony).mp3
+15/10/2005  11:38         4,329,472 12-It's Your Life (feat. Shade Sheist).mp3
+15/10/2005  11:38         5,087,232 13-I Cry (feat. Lil' Mo).mp3
+15/10/2005  11:38         5,713,920 14-One Of Us.mp3
+15/10/2005  11:38         2,926,592 15-Chris Black (Skit).mp3
+15/10/2005  11:38         2,191,360 16-The Rule Won't Die.mp3
+              16 File(s)     56,125,440 bytes
+
+ Directory of Z:\rnb\Jamelia
+
+04/03/2005  12:30         4,979,610 Jamelia  DJ.mp3
+13/01/2004  15:00         5,195,506 Jamelia - Superstar.mp3
+03/03/2005  22:57         4,654,855 Jamelia  Thank You.mp3
+               3 File(s)     14,829,971 bytes
+
+ Directory of Z:\rnb\Honeyz
+
+15/10/2005  00:06         3,751,936 03-Summertime.mp3
+15/10/2005  00:05         5,281,792 02-In The Street ( Ignorants Mix ).mp3
+15/10/2005  00:04         3,995,648 01-Finally Found ( Rude Boy Mix ).mp3
+15/10/2005  13:22         4,794,368 01-End Of The Line.mp3
+03/07/2003  09:10         3,126,472 Honeyz - Won't take it lying down.mp3
+03/03/2005  22:25         4,911,900 Honeyz - One night stand.mp3
+               6 File(s)     25,862,116 bytes
+
+ Directory of Z:\rnb\Destinys Child
+
+17/07/2003  11:52         6,148,720 Destiny Child - Bills Bills.mp3
+13/06/2003  06:46         3,399,902 Destiny Child - Bug A Boo.mp3
+13/06/2003  08:00         5,380,974 Destiny Child - Charlies Angels IW.mp3
+28/02/2005  06:19         3,586,048 Destiny Child - dance with me.mp3
+13/06/2003  10:23         3,315,756 Destiny Child - No No No.mp3
+14/06/2003  01:30         6,504,154 Destiny Child - Say My Name.mp3
+13/02/2005  05:43         5,517,692 Destiny's Child- Jumpin' Jumpin.mp3
+21/04/2005  14:29         6,060,975  Beyonce  Me, Myself and I.mp3
+               8 File(s)     39,914,221 bytes
+
+ Directory of Z:\rnb\Craig David
+
+04/03/2005  15:01         7,579,781 Craig David featuring Trell  Walking Away (Ignorants Remix).mp3
+03/03/2001  15:36         3,415,677 Craig David - Born To Do It - You Know What.mp3
+26/07/2000  10:03         3,724,980 Craig David - Fill Me In.mp3
+02/12/2000  13:56         4,405,091 Craig David - Pass Me By.MP3
+03/03/2005  13:35         5,421,602 Craig David  Rendezvous.mp3
+27/07/2000  09:19         3,704,832 Craig David - Seven Days.mp3
+02/12/2000  13:37         5,021,280 Craig David - Walking Away.mp3
+03/03/2001  15:46         2,764,758 Craig David 7 Days Bubbling Remix.mp3
+13/02/2005  10:22         3,650,037 craig david born to do it - booty man.mp3
+13/02/2005  10:34         3,989,984 CRAIG  DAVID - Seven Days.mp3
+31/07/2000  08:26         3,870,720 Craig David & Artful Dodger - Woman Trouble.mp3
+03/10/2005  10:57         6,448,166 Craig David - The Story Goes - 02 - Don't love you no more.mp3
+03/03/2005  10:16         9,648,253 Craig David  7 Days (Sunship Remix).mp3
+              13 File(s)     63,645,161 bytes
+
+ Directory of Z:\rnb\Craig David\Slicker than your average
+
+15/10/2005  11:57         4,093,952 3. Fast Cars.mp3
+15/10/2005  11:57         3,741,696 4. Hidden Agenda.mp3
+15/10/2005  11:57         4,868,096 5. Eenie Meenie.mp3
+15/10/2005  11:58         5,128,192 6. You don't miss your water.mp3
+15/10/2005  11:58         4,597,760 7. Rise and Fall.mp3
+15/10/2005  11:58         5,191,680 8. Personal.mp3
+15/10/2005  11:59         3,923,968 9. Hands up in the air.mp3
+15/10/2005  11:59         3,659,776 10. 2 Steps Back.mp3
+15/10/2005  11:59         4,857,856 11. Spanish.mp3
+15/10/2005  12:00         4,497,408 12. What's Changed.mp3
+15/10/2005  12:00             6,144 13. World Filled with Love.mp3
+15/10/2005  11:56         5,748,736 1. Slicker than your average.mp3
+15/10/2005  11:56         3,459,072 2. Whats your Flava.mp3
+              13 File(s)     53,774,336 bytes
+
+ Directory of Z:\rnb\boys 2 men
+
+11/02/2005  18:26         2,728,659 boys ii men - goodbye to yesterday.mp3
+11/02/2005  18:26         2,719,104 boys ii men - hard to say i'm sorry.mp3
+11/02/2005  18:26         3,789,217 boys ii men - i'll make love to you.mp3
+11/02/2005  18:26         2,425,358 boys ii men - silent night.mp3
+11/02/2005  18:26         4,842,968 boys ii men - song for mama.mp3
+11/02/2005  18:26         3,308,233 boys ii men - think of aaliyah.mp3
+11/02/2005  18:26         3,236,675 boys ii men - water runs dry.mp3
+11/02/2005  18:26         4,646,912 boys ii men - when i see u smile.mp3
+11/02/2005  18:26         3,008,335 boys ii men - yesterday (acapella).mp3
+05/03/2005  14:11         3,621,138 boys ii men- i swear.mp3
+11/02/2005  18:26         4,420,046 boys ii men-you are my everything.mp3
+05/03/2005  14:22         4,377,214 Boyz II Men  (Shawn Stockman) - Visions Of A Sunset.mp3
+01/03/2005  15:58         3,859,913 Boyz II Men - Can You Stand The Rain.mp3
+01/03/2005  15:58         5,583,314 Boyz II Men - End of the Road.mp3
+13/02/2005  05:26         4,161,660 Boyz II Men - I Will Get There (A Capella).MP3
+13/02/2005  05:27         1,294,760 Boyz II Men - I Will Get There.mp3
+13/02/2005  05:40         4,044,800 Boyz II Men - II Water Runs Dry.mp3
+13/02/2005  05:28         2,720,914 Boyz II Men - It's So Hard To Say Goodbye To Yesterday.mp3
+13/02/2005  05:30         4,601,676 Boyz II Men - Just Hold On (Unreleased In US).mp3
+13/02/2005  05:32         5,323,546 Boyz II Men - On Bended Knee.mp3
+03/03/2005  10:54         7,055,301 Boyz II Men  Step On Up.mp3
+13/02/2005  05:41         2,704,613 Boyz II Men - Still Of The Night.mp3
+13/02/2005  05:34         4,829,923 Boyz II Men & Chante Moore - Your Home Is In My Heart.mp3
+13/02/2005  05:36         4,052,242 Boyz II Men & Mariah Carey - One Sweet Day (Acapella).mp3
+13/02/2005  05:38         3,938,139 Boyz II Men & Mariah Carey- One Sweet Day.mp3
+              25 File(s)     97,294,660 bytes
+
+ Directory of Z:\rnb\BLACKstreet
+
+15/10/2005  01:56         3,395,584 01-(money can't) buy me love (album version).mp3
+15/10/2005  01:57         5,416,960 02-no diggity - (billie jean remix).mp3
+16/10/2000  23:39         7,820,845 Blackstreet - im sorry.mp3
+               3 File(s)     16,633,389 bytes
+
+ Directory of Z:\rnb\Ashanti
+
+02/03/2005  16:54         6,372,937 Ashanti - Rock wit you.mp3
+26/07/2003  13:22         3,609,640 ASHANTI - CHAPTER II.mp3
+               2 File(s)      9,982,577 bytes
+
+ Directory of Z:\rnb\Ashanti\Cant Stop
+
+24/02/2005  14:52         4,850,823 01-ashanti-cant_stop-vinyl.mp3
+24/02/2005  16:23         5,041,364 02-ashanti-come_2_me-vinyl.mp3
+24/02/2005  15:14         6,388,934 03-ashanti-more_than_a_melody-vinyl.mp3
+24/02/2005  15:04         6,027,645 04-ashanti-you_dont_have_2_love_me-vinyl.mp3
+24/02/2005  13:57         5,696,163 05-ashanti-believe-vinyl.mp3
+24/02/2005  13:35         4,825,341 06-ashanti-dont_ever_let_me_go-vinyl.mp3
+24/02/2005  11:15         4,731,011 07-ashanti-its_about_time-vinyl.mp3
+24/02/2005  14:59         5,120,977 08-ashanti-baby_baby_(ernie_lake_club_mix)-vinyl.mp3
+24/02/2005  14:35         4,761,253 09-ashanti-you_always_seem_to_make_me_feel-vinyl.mp3
+24/02/2005  11:31         4,777,270 10-ashanti-by_my_side_(prelude)-vinyl.mp3
+24/02/2005  13:44         5,802,040 11-ashanti-baby_baby_(red_rhythm_remix)_(bonus_track)-vinyl.mp3
+              11 File(s)     58,022,821 bytes
+
+ Directory of Z:\rnb\All Saints
+
+15/10/2005  10:23         4,681,728 01-War Of Nerves.mp3
+15/10/2005  12:04         7,636,992 01-Lady Marmalade (MARK!'s Miami Madness Mix).mp3
+15/10/2005  10:24         6,219,776 03-Never Ever.mp3
+22/02/2000  13:02         4,234,344 All Saints - Pure Shores.mp3
+               4 File(s)     22,772,840 bytes
+
+ Directory of Z:\rnb\Aaliyah
+
+16/06/2003  08:12         4,333,204 Aaliyah - One In A Million.mp3
+04/03/2005  15:01         6,842,245 Aaliyah  Try Again.mp3
+15/10/2005  11:41         3,827,712 The one i gave my heart to.mp3
+               3 File(s)     15,003,161 bytes
+
+ Directory of Z:\rnb\Aaliyah\Aaliyah
+
+15/10/2005  13:04         3,891,200 01-We Need a Resolution (feat. Timbaland).mp3
+15/10/2005  13:04         3,684,352 02-Loose Rap (feat. Static from Playa).mp3
+15/10/2005  13:04         4,395,008 03-Rock the Boat.mp3
+15/10/2005  13:05         3,680,256 04-More Than a Woman.mp3
+15/10/2005  13:05         3,815,424 05-Never No More.mp3
+15/10/2005  13:05         4,384,768 06-I Care 4 U.mp3
+15/10/2005  13:05         3,756,032 07-Extre Smooth.mp3
+15/10/2005  13:05         4,171,776 08-Read Between the Lines.mp3
+15/10/2005  13:05         3,567,616 09-U Got Nerve.mp3
+15/10/2005  13:05         5,715,968 10-I Refuse.mp3
+15/10/2005  13:06         3,977,216 11-It's Whatever.mp3
+15/10/2005  13:06         2,873,344 12-I Can Be.mp3
+15/10/2005  13:06         3,268,608 13-Those Were the Days.mp3
+15/10/2005  13:06         4,163,584 14-What If.mp3
+15/10/2005  13:06         4,577,280 15-Try Again.mp3
+              15 File(s)     59,922,432 bytes
+
+ Directory of Z:\rnb\Aaron Soul
+
+03/03/2005  13:21         5,598,398 Aaron Soul  Ring, Ring, Ring.mp3
+04/03/2005  13:46         5,358,281 Aaron Soul  Soundclash.mp3
+               2 File(s)     10,956,679 bytes
+
+ Directory of Z:\rnb\Bilal
+
+03/03/2005  13:17         7,779,518 Bilal  Soul Sista.mp3
+03/03/2005  15:28         5,619,714 All That I Am (Something For The People)  Bilal.mp3
+               2 File(s)     13,399,232 bytes
+
+ Directory of Z:\rnb\Nick Cannon
+
+08/03/2005  03:23         4,792,698  Nick Cannon featuring R. Kelly  Gigolo.mp3
+               1 File(s)      4,792,698 bytes
+
+ Directory of Z:\rnb\Baby Bash
+
+21/04/2005  16:42         3,986,330  Baby Bash featuring Perla Cruz & Russell Lee  Shorty Doowop.mp3
+05/03/2005  14:19         6,233,070 Baby Bash Ft Frankie J - Suga Suga.mp3
+               2 File(s)     10,219,400 bytes
+
+ Directory of Z:\rnb\Eve
+
+15/10/2005  10:45         3,375,104 03-Eve _ Who's that girl.mp3
+               1 File(s)      3,375,104 bytes
+
+ Directory of Z:\rnb\De La Soul
+
+15/10/2005  10:46         4,780,032 11-De la soul _ All good.mp3
+               1 File(s)      4,780,032 bytes
+
+ Directory of Z:\rnb\Khia
+
+15/10/2005  10:49         3,418,112 03-Khia _ My Neck, My Back (Lick It) [Kardinal Beats Dirty Club Mix].mp3
+               1 File(s)      3,418,112 bytes
+
+ Directory of Z:\rnb\Jay Sean
+
+03/03/2005  22:49         4,121,330 Jay Sean (ft The Rishi Rich Project)  Eyes On You.mp3
+03/03/2005  23:50         4,995,910 Jay Sean  Stolen.mp3
+               2 File(s)      9,117,240 bytes
+
+ Directory of Z:\rnb\lemar
+
+20/03/2004  17:01         5,341,901 06 Lemar - Dance (With U).mp3
+               1 File(s)      5,341,901 bytes
+
+ Directory of Z:\rnb\Black Moth Connection
+
+15/10/2005  10:53         2,537,472 18-Black Moth Connection _ Shake Ur Booty.mp3
+               1 File(s)      2,537,472 bytes
+
+ Directory of Z:\rnb\Kevin Mark Trail
+
+04/03/2005  10:51         5,007,195 Kevin Mark Trail  Perspective.mp3
+               1 File(s)      5,007,195 bytes
+
+ Directory of Z:\rnb\Kelly Price
+
+15/10/2005  10:46         3,987,456 15-Kelly Price and Aaron Hall _ love sets you free.mp3
+04/03/2005  15:00         4,677,681 Kelly Price  You Should've Told Me.mp3
+               2 File(s)      8,665,137 bytes
+
+ Directory of Z:\rnb\Omar
+
+15/10/2005  10:46         4,380,672 13-Omar feat Angie Stone _ Be thankful (Dodge mix).mp3
+               1 File(s)      4,380,672 bytes
+
+ Directory of Z:\rnb\Houston
+
+15/10/2005  10:51         3,786,752 13-Houston _ I Like That.mp3
+12/02/2005  15:51         5,963,776 Marques Houston - Because of You.mp3
+               2 File(s)      9,750,528 bytes
+
+ Directory of Z:\rnb\Timbaland
+
+15/10/2005  10:51         3,252,224 11-Timbaland & Magoo (ft Raje Shwari & Sebastian) _ Indian Flute [Dirty Edit].mp3
+               1 File(s)      3,252,224 bytes
+
+ Directory of Z:\rnb\Angie Stone
+
+03/03/2005  23:46         5,502,733 Angie Stone  No More Rain.mp3
+               1 File(s)      5,502,733 bytes
+
+ Directory of Z:\rnb\Coko
+
+12/02/2005  15:51         4,474,880 Coko - Keep it real.mp3
+               1 File(s)      4,474,880 bytes
+
+ Directory of Z:\rnb\David Hollister
+
+04/03/2005  00:29         6,507,459 Dave Hollister  One Woman Man.mp3
+               1 File(s)      6,507,459 bytes
+
+ Directory of Z:\rnb\Fat Man Scoop
+
+13/01/2004  14:39         4,167,877 Fat Man Scoop -  Be Faithful .mp3
+               1 File(s)      4,167,877 bytes
+
+ Directory of Z:\rnb\Fabulous
+
+27/08/2003  22:41         4,392,001 Fabolous - Into You.mp3
+02/03/2005  16:53         7,739,246 Fabulous Ft Tamia - Im so into you.mp3
+               2 File(s)     12,131,247 bytes
+
+ Directory of Z:\rnb\Floetry
+
+13/02/2005  10:24         3,975,168 Floetry - Floetic.mp3
+               1 File(s)      3,975,168 bytes
+
+ Directory of Z:\rnb\Gabrielle
+
+04/03/2005  00:58         6,565,765 Gabrielle  Out Of Reach (Architechs Remix).mp3
+               1 File(s)      6,565,765 bytes
+
+ Directory of Z:\rnb\Kandi
+
+03/03/2005  23:01         5,507,121 Kandi  Don't Think I'm Not.mp3
+               1 File(s)      5,507,121 bytes
+
+ Directory of Z:\rnb\Lumidee
+
+17/08/2003  18:16         2,803,756 Lumidee - Never leave you.mp3
+               1 File(s)      2,803,756 bytes
+
+ Directory of Z:\rnb\Maxi Priest
+
+03/03/2005  10:31         5,474,722 Maxi Priest  Back Together Again (K Warren Remix).mp3
+               1 File(s)      5,474,722 bytes
+
+ Directory of Z:\rnb\Mo Thugs
+
+02/10/2003  21:02         5,196,160 Mo Thugs - Ghetto Cowboy.mp3
+               1 File(s)      5,196,160 bytes
+
+ Directory of Z:\rnb\The Pirates
+
+03/03/2005  21:27         4,801,559 The Pirates (ft Enya, SHola Ama, Naila Boss & Ishani)  You Should Really Know.mp3
+               1 File(s)      4,801,559 bytes
+
+ Directory of Z:\rnb\Ultimate Kaos
+
+04/03/2005  14:08         7,041,867 Ultimate Kaos  Baby We're Dancing.mp3
+               1 File(s)      7,041,867 bytes
+
+ Directory of Z:\rnb\Shade Sheist
+
+03/03/2005  13:12         5,450,441 Where I Wanna Be  Shade Sheist feat. Nate Dogg & Kurupt.mp3
+               1 File(s)      5,450,441 bytes
+
+ Directory of Z:\rnb\Monifah
+
+04/03/2005  12:49         5,575,828 Monifah  Home.mp3
+               1 File(s)      5,575,828 bytes
+
+ Directory of Z:\rnb\Maxee
+
+04/03/2005  11:31         4,357,686 Maxee  When I Look Into Your Eyes.mp3
+               1 File(s)      4,357,686 bytes
+
+ Directory of Z:\rnb\Lina
+
+04/03/2005  12:23         5,509,373 Lina  Playa No Mo.mp3
+               1 File(s)      5,509,373 bytes
+
+ Directory of Z:\rnb\Kurupt
+
+02/03/2005  17:32         4,917,353 Kurupt  It's All Over.mp3
+               1 File(s)      4,917,353 bytes
+
+ Directory of Z:\rnb\Jon B
+
+12/02/2005  15:51         4,654,811 Jon B. - Don't Talk.mp3
+               1 File(s)      4,654,811 bytes
+
+ Directory of Z:\rnb\Joe
+
+04/03/2005  14:32         5,593,383 Joe  Stutter.mp3
+               1 File(s)      5,593,383 bytes
+
+ Directory of Z:\rnb\Syleena Johnson
+
+03/03/2005  13:08         6,407,776 Syleena Johnson  I Am Your Woman.mp3
+03/03/2005  09:55         6,238,306 Hit On Me  Syleena Johnson.mp3
+               2 File(s)     12,646,082 bytes
+
+ Directory of Z:\rnb\Erykah Badu
+
+03/03/2005  10:51         5,890,446 Erykah Badu  Bag Lady.mp3
+               1 File(s)      5,890,446 bytes
+
+ Directory of Z:\rnb\India Arie
+
+04/03/2005  12:34         5,679,900 Brown Skin  India.Arie.mp3
+               1 File(s)      5,679,900 bytes
+
+ Directory of Z:\rnb\Eric Benet
+
+12/02/2005  15:51         5,209,417 Eric Benet - Gorgy Porgy.mp3
+               1 File(s)      5,209,417 bytes
+
+ Directory of Z:\rnb\Coffee Brown
+
+12/02/2005  15:51         3,496,646 Coffee Brown - After Party.mp3
+               1 File(s)      3,496,646 bytes
+
+ Directory of Z:\rnb\Boo
+
+04/03/2005  14:12         5,773,941 Feeling On Yo Booty (Dirty South Mix feat. Boo & Gotti)  R Kelly.mp3
+               1 File(s)      5,773,941 bytes
+
+ Directory of Z:\rnb\Hill St Soul
+
+04/03/2005  00:42         6,386,460 Hil St Soul  Nostalgia.mp3
+               1 File(s)      6,386,460 bytes
+
+ Directory of Z:\rnb\Nathan Morris
+
+13/02/2005  06:08         4,161,114 Nathan Morris - Wishes.mp3
+               1 File(s)      4,161,114 bytes
+
+ Directory of Z:\rnb\Shaun Escoffery
+
+03/03/2005  09:54         8,094,699 Into The Blue (Don E Urban Vibe Mix)  Shaun Escoffery.mp3
+04/03/2005  15:01         7,930,866 Shaun Escoffery  Space Rider (Remix).mp3
+               2 File(s)     16,025,565 bytes
+
+ Directory of Z:\rnb\Brandy
+
+15/10/2005  11:40         3,844,096 The boy is mine.mp3
+               1 File(s)      3,844,096 bytes
+
+ Directory of Z:\rnb\Jermaine Dupri
+
+15/10/2005  11:42         3,588,096 Goin home with me.mp3
+               1 File(s)      3,588,096 bytes
+
+ Directory of Z:\rnb\Ido
+
+12/04/2005  00:02         3,735,523 ten_2_five-_ido.mp3
+               1 File(s)      3,735,523 bytes
+
+ Directory of Z:\rock\Linkin Park\Meteor
+
+15/10/2005  13:02         2,596,864 7. Faint.mp3
+15/10/2005  13:00         3,010,560 2. Don't Stay.mp3
+15/10/2005  13:01         2,629,632 5. Hit the Floor.mp3
+15/10/2005  13:01         3,270,656 6. Easier to Run.mp3
+15/10/2005  13:02         3,164,160 8. Figure 0.9.mp3
+15/10/2005  13:02         3,141,632 9. Breaking the Habbit.mp3
+15/10/2005  13:02         2,811,904 10. From the Inside.mp3
+15/10/2005  13:02         2,865,152 11. Nobodies Listening.mp3
+15/10/2005  13:02         2,318,336 12. Session.mp3
+15/10/2005  13:00           217,088 1. Foreward.mp3
+15/10/2005  13:01         3,426,304 3. Somewhere I belong.mp3
+15/10/2005  13:01         2,803,712 4. Lying from you.mp3
+              12 File(s)     32,256,000 bytes
+
+ Directory of Z:\rock\Jay Z and Linkin Park
+
+12/02/2005  15:51         3,696,640 06-linkin park-jayz - 99 Steps Klosr.mp3
+12/02/2005  15:51         4,069,376 01-Linkin Park ft. Jay Z - Lying From You Vs. Dirt Off Your Shoulder.mp3
+12/02/2005  15:51         2,504,704 02-jay-z ft. linkin park - big pimpin - papercut-kzt.mp3
+12/02/2005  15:51         3,383,296 03-Jay-Z And Linkin Park - Jigga What, Faint.mp3
+12/02/2005  15:51         3,256,320 04-Jay-Z feat Linkin Park - Numb (Encore).mp3
+12/02/2005  15:51         2,641,920 05-jay z linkin park- in the end izzo.mp3
+               6 File(s)     19,552,256 bytes
+
+ Directory of Z:\rock\Guns n Roses
+
+22/02/2000  17:38         8,597,838 Guns & Roses - November Rain.mp3
+               1 File(s)      8,597,838 bytes
+
+ Directory of Z:\rock\Bon Jovi
+
+11/06/2005  16:05         6,293,452 Bon Jovi - Bed of Roses.mp3
+05/03/2005  11:27         6,054,695 Bon Jovi - Livin on a prayer.mp3
+               2 File(s)     12,348,147 bytes
+
+ Directory of Z:\rock\Darkness
+
+13/01/2004  13:10         3,493,174 Darkness - I Believe In A Thing Called Love.mp3
+               1 File(s)      3,493,174 bytes
+
+ Directory of Z:\rock\Aerosmith
+
+15/10/2005  01:33         4,372,480 Don't wanna miss a thing.mp3
+               1 File(s)      4,372,480 bytes
+
+ Directory of Z:\rock\Parkslope
+
+04/03/2005  11:24         6,197,752 Parkslope  La-Dee-Da-Dee (We Like To Party) [Hoodstar Rap Mix].mp3
+               1 File(s)      6,197,752 bytes
+
+ Directory of Z:\rock\Blink 182
+
+08/03/2005  03:36         4,559,092 Blink-182 - I Miss You.mp3
+08/03/2005  03:26         3,507,981  Blink-182  Feeling This.mp3
+               2 File(s)      8,067,073 bytes
+
+ Directory of Z:\compilations
+
+15/10/2005  11:57         3,475,456 06-Tzant feat ODC MC _ Sounds of Wickedness.mp3
+15/10/2005  11:57         3,379,200 07-Solid Harmonie _ I Want You To Want Me.mp3
+21/04/2005  16:39         3,702,640  Track 15.mp3
+15/10/2005  11:57         3,301,376 08-NYCC _ Fight For Your Right To Party.mp3
+15/10/2005  11:58         3,469,312 09-Hinda Hicks _ You Think You Own Me.mp3
+15/10/2005  11:58         3,041,280 11-Code Red _ Come and Get It.mp3
+15/10/2005  11:58         3,112,960 12-N-Tyce _ Boom Boom.mp3
+15/10/2005  10:46         3,559,424 12-Talib Kweli & Hi tek feat Vinia Mojicqa _ The blast.mp3
+15/10/2005  10:47         5,285,888 17-Shaun Escoffery _ Space rider.mp3
+15/10/2005  10:47         3,692,544 18-Beverlei Brown _ Love you yes.mp3
+15/10/2005  10:47         3,270,656 19-Spark feat Markell & MC Spyder _ I dream of you baby (R&B radio edit).mp3
+15/10/2005  10:50         3,201,024 09-The Pirates (ft Enya, SHola Ama, Naila Boss & Ishani) _ You Should Really Know.mp3
+15/10/2005  10:51         3,657,728 12-Guerilla Black (ft JazzePha & Brooke Valentine) _ Guerilla Nasty.mp3
+15/10/2005  10:52         3,926,016 17-Luniz _ I Got 5 On It.mp3
+15/10/2005  11:03         2,818,048 07-Jentina _ French Kisses.mp3
+              15 File(s)     52,893,552 bytes
+
+ Directory of Z:\compilations\black and white
+
+05/03/2005  02:17         5,852,696  Track 1.mp3
+05/03/2005  02:26         4,863,389 16 Nas.mp3
+05/03/2005  02:26         2,190,749 17 Nate J and Mos def.mp3
+05/03/2005  02:27         3,780,038 18 Destinys Child - Survivor.mp3
+05/03/2005  02:27         1,965,678 19 Nelly.mp3
+05/03/2005  02:17         4,716,056 2 Next - Wifey.mp3
+05/03/2005  02:28         3,376,290 21.mp3
+05/03/2005  02:17         3,991,942 3 After the party.mp3
+05/03/2005  02:18         3,977,522 4 Destinys Child.mp3
+05/03/2005  02:18         3,663,426 5 Fiesta.mp3
+05/03/2005  02:18         5,137,359 6 Eve - Whos that girl.mp3
+              11 File(s)     43,515,145 bytes
+
+ Directory of Z:\compilations\Dance Zone '94 - Disc 1
+
+15/10/2005  13:17         4,038,656 01-Baby D _ Let Me Be Your Fantasy.mp3
+15/10/2005  13:18         3,809,280 02-(MC Sar &) The Real McCoy _ Another Night.mp3
+15/10/2005  13:18         3,348,480 03-Whigfield _ Saturday Night.mp3
+15/10/2005  13:18         3,682,304 04-R. Kelly _ She's Got That Vibe.mp3
+15/10/2005  13:18         3,575,808 05-C.J. Lewis _ Best Of My Love.mp3
+15/10/2005  13:19         4,253,696 06-Kylie Minogue _ Confide In Me.mp3
+15/10/2005  13:19         3,319,808 07-Red Dragon Featuring Brian and Tony Gold _ Compliments On Your Kiss.mp3
+15/10/2005  13:19         3,454,976 08-Chaka Demus & Pliers (with Jack Radics & Taxi Gang) _ Twist & Shout.mp3
+15/10/2005  13:19         3,323,904 09-Corona _ The Rhythm Of The Night.mp3
+15/10/2005  13:19         3,266,560 10-Cappella _ Move On Baby.mp3
+15/10/2005  13:20         3,764,224 11-D J Miko _ What's Up.mp3
+15/10/2005  13:20         3,315,712 12-M-Beat featuring General Levy _ Incredible.mp3
+15/10/2005  13:20         4,032,512 13-Reel 2 Reel featuring The Mad Stuntman _ Go On Move.mp3
+15/10/2005  13:20         3,143,680 14-Gloworm _ Carry Me Home.mp3
+15/10/2005  13:21         3,815,424 15-The Grid _ Swamp Thing.mp3
+15/10/2005  13:21         2,844,672 16-2 Cowboys _ Everybody Gonfi Gon.mp3
+15/10/2005  13:21         3,289,088 17-Tinman _ 18 Strings.mp3
+15/10/2005  13:21         3,645,440 18-The Prodigy _ No Good (Start The Dance).mp3
+15/10/2005  13:22         2,899,968 19-Crystal Waters _ 100% Pure Love.mp3
+15/10/2005  13:22         2,969,600 20-The Brand New Heavies _ Midnight At The Oasis.mp3
+15/10/2005  13:22         3,454,976 21-Salt N' Pepa with En Vogue _ Whatta Man.mp3
+15/10/2005  13:22         3,297,280 22-Doop _ Doop.mp3
+              22 File(s)     76,546,048 bytes
+
+ Directory of Z:\compilations\Dance Zone '94 - Disc 2
+
+15/10/2005  13:24         3,919,872 01-Degrees of Motion _ Shine on.mp3
+15/10/2005  13:24         3,229,696 02-JX _ Son of a gun.mp3
+15/10/2005  13:24         3,811,328 03-Culture Beat _ Anything.mp3
+15/10/2005  13:24         2,490,368 04-Cappella _ U & me.mp3
+15/10/2005  13:25         3,985,408 05-Haddaway _ Rock my heart.mp3
+15/10/2005  13:25         3,528,704 06-2 Unlimited _ The real thing.mp3
+15/10/2005  13:25         3,598,336 07-Maxx _ Get-a-way.mp3
+15/10/2005  13:25         3,258,368 08-C.J. Lewis _ Sweets for my sweet.mp3
+15/10/2005  13:26         3,035,136 09-Ace of Base _ The sign.mp3
+15/10/2005  13:26         4,257,792 10-East 17 _ It's alright.mp3
+15/10/2005  13:26         3,823,616 11-D_Ream _ Things can only get better.mp3
+15/10/2005  13:26         3,514,368 12-M People _ Renaissance.mp3
+15/10/2005  13:27         3,680,256 13-China Black _ Searching.mp3
+15/10/2005  13:27         3,686,400 14-Deep Forest _ Sweet lullaby.mp3
+15/10/2005  13:27         3,592,192 15-Eternal _ Save our love.mp3
+15/10/2005  13:27         3,508,224 16-Aswad _ Shine.mp3
+15/10/2005  13:28         3,399,680 17-Dawn Penn _ You don't love me (no no no).mp3
+15/10/2005  13:28         3,563,520 18-Bitty McLean _ Dedicated to the one I love.mp3
+15/10/2005  13:28         2,779,136 19-Black Machine _ How gee.mp3
+15/10/2005  13:28         3,475,456 20-Club House featuring Carl _ Light me fire.mp3
+15/10/2005  13:28         3,622,912 21-_Motiv 8 _ Rockin' for myself.mp3
+15/10/2005  13:29         2,693,120 22-DJ Duke _ Blow your whistle.mp3
+              22 File(s)     76,453,888 bytes
+
+ Directory of Z:\compilations\MOBO 2000 CD 1
+
+15/10/2005  12:10         3,276,800 01-Sisqo _ Unleash the Dragon.mp3
+15/10/2005  12:20         3,801,088 02-Craig David _ 7 Days.mp3
+15/10/2005  12:31         3,696,640 03-Destiny's Child _ Jumpin' Jumpin'.mp3
+15/10/2005  12:46         3,448,832 04-Jamelia _ Call Me.mp3
+15/10/2005  13:07         4,653,056 05-Iceberg Slimm _ Nursery Rhymes (Clean Club Mix).mp3
+               5 File(s)     18,876,416 bytes
+
+ Directory of Z:\compilations\Music of the Movies
+
+15/10/2005  11:46         4,335,616 01-I Will Always Love You.mp3
+15/10/2005  11:47         3,989,504 02-(Everything I Do) I Do It For You.mp3
+15/10/2005  11:47         4,835,328 03-This Used To Be My Playground.mp3
+15/10/2005  11:47         3,356,672 04-Love Is In The Air.mp3
+15/10/2005  11:47         4,364,288 05-Try A litlle Tenderness.mp3
+15/10/2005  11:47         4,208,640 06-What Becomes Of The Broken Hearted.mp3
+15/10/2005  11:47         3,760,128 07-Places That Belong To You.mp3
+15/10/2005  11:47         4,022,272 08-A Whole New World.mp3
+15/10/2005  11:48         4,683,776 09-The Wind Beneath My Wings.mp3
+15/10/2005  11:48         3,389,440 10-If We Hold On Together.mp3
+15/10/2005  11:48         3,241,984 11-The Crying Game.mp3
+15/10/2005  11:48         2,734,080 12-My Girl.mp3
+15/10/2005  11:48         3,833,856 13-Beauty And The Beast.mp3
+15/10/2005  11:48         4,165,632 14-Love Song For A Vampire.mp3
+15/10/2005  11:48         2,801,664 15-Book Of Days.mp3
+15/10/2005  11:48         4,360,192 16-It's Probably Me.mp3
+15/10/2005  11:48         3,813,376 17-Somewhere In My Memory.mp3
+15/10/2005  11:49         4,878,336 18-You Gotta Love Someone.mp3
+              18 File(s)     70,774,784 bytes
+
+ Directory of Z:\compilations\Ibiza Uncovered The Return CD1
+
+15/10/2005  13:31         3,559,424 01-Basement Jaxx _ Rendez-Vu.mp3
+15/10/2005  13:31         4,435,968 02-Moloko _ Sing It Back (Boris D'Lugosch Musical Mix).mp3
+15/10/2005  13:31         2,836,480 03-Paul Johnson _ Get Get Down.mp3
+15/10/2005  13:31         3,305,472 04-Shaft _ [Mucho Mambo] Sway.mp3
+15/10/2005  13:32         3,487,744 05-VengaBoys _ We're Going To Ibiza.mp3
+15/10/2005  13:32         3,729,408 06-Geri Haliwell _ Mi Chico Latino (Charlie Rapino Remix).mp3
+15/10/2005  13:32         5,531,648 07-Shanks and Bigfoot _ Sweet Like Chocolate (Ruff Driverz Vocal).mp3
+15/10/2005  13:32         3,842,048 08-Armand Van Helden Feat. Duane Harden _ You Don't Know Me.mp3
+15/10/2005  13:33         3,366,912 09-David Morales Pts. The Face _ Needin' U.mp3
+15/10/2005  13:33         4,153,344 10-Stardust _ Music Sounds Better With You (Original Mix).mp3
+15/10/2005  13:33         3,844,096 11-Pete Heller _ Big Love.mp3
+15/10/2005  13:33         3,360,768 12-Eclipse _ Makes Me Love You.mp3
+15/10/2005  13:34         3,375,104 13-Phats and Small _ Turn Around.mp3
+15/10/2005  13:34         3,276,800 14-Rhythm Masters _ Ibiza In My Soul.mp3
+15/10/2005  13:34         3,190,784 15-Daryl Pandy Meets Nerio's Dubwork _ Sunshine and Happiness.mp3
+15/10/2005  13:34         3,430,400 16-Nightvision _ Ready For The Weekend.mp3
+15/10/2005  13:35         3,704,832 17-Montano Vs Trumpet Man _ Itza Trumpet Thing.mp3
+15/10/2005  13:35         4,720,640 18-Fatboy Slim _ Soul Surfing.mp3
+15/10/2005  13:35         3,923,968 19-Mint Royale _ Shake Me.mp3
+15/10/2005  13:35         3,440,640 20-Wiseguys _ Ooh La La.mp3
+              20 File(s)     74,516,480 bytes
+
+ Directory of Z:\compilations\Ibiza Uncovered The Return CD2
+
+15/10/2005  13:37         3,446,784 01-DJ Jurgen Presents Alice Deejay _ Better Off Alone.mp3
+15/10/2005  13:37         2,570,240 02-ATB _ 9pm (Till I Come).mp3
+15/10/2005  13:37         3,176,448 03-Fragma _ Toca Me.mp3
+15/10/2005  13:37         3,835,904 04-York _ The Awakening (Quake Mix).mp3
+15/10/2005  13:37         3,153,920 05-Yomanda _ Synth & Strings.mp3
+15/10/2005  13:38         3,000,320 06-Binary Finary _ 1999 (Gouryella Mix).mp3
+15/10/2005  13:38         3,049,472 07-DJ Sakin And Friends _ Protect Your Mind (For The Love Of A Princess).mp3
+15/10/2005  13:38         3,620,864 08-Lost Tribe _ Gamemaster (Signum Edit).mp3
+15/10/2005  13:38         3,454,976 09-Blank & Jones _ Cream.mp3
+15/10/2005  13:39         3,143,680 10-Mauro Picotto _ Lizard.mp3
+15/10/2005  13:39         5,009,408 11-Cygnus X _ The Orange Theme (Moonman's Orange Juice Mix).mp3
+15/10/2005  13:39         2,945,024 12-Ayla _ Ayla.mp3
+15/10/2005  13:39         3,459,072 13-Veracucha _ Carte Blanche.mp3
+15/10/2005  13:40         3,041,280 14-Marc Et Claude _ Ne.mp3
+15/10/2005  13:40         7,698,432 15-BBE _ Seven Days and One Week '99.mp3
+15/10/2005  13:40         6,533,120 16-Der Dritte Raum _ Hale Bopp.mp3
+15/10/2005  13:41         7,553,024 17-Partision _ No Me Gusta [Durango_ 95].mp3
+15/10/2005  13:41         3,655,680 18-Groove Armada _ At The River (English Riviera Edit).mp3
+15/10/2005  13:41         3,436,544 19-Stardust _ Music Sounds Better With You [Anthem From Paris].mp3
+              19 File(s)     75,784,192 bytes
+
+ Directory of Z:\compilations\The Best Club Anthems Summer 2002 - CD2
+
+15/10/2005  13:57         2,498,560 01-Follow Da Leader 2002 _ Nigel & Marvin.mp3
+15/10/2005  13:57         3,135,488 02-It Just Won't Do _ Tim Delux f. Sam Obernik.mp3
+15/10/2005  13:57         2,422,784 03-I Would Die For You _ The Space Cowboy.mp3
+15/10/2005  13:57         2,887,680 04-At Night _ Shakedown.mp3
+15/10/2005  13:58         2,271,232 05-Dove (I'll Be Loving You) _ Moony.mp3
+15/10/2005  13:58         3,229,696 07-Luv Da Sunshine _ Intenso Project.mp3
+15/10/2005  13:58         3,209,216 08-Point Of View _ DB Boulevard.mp3
+15/10/2005  13:58         3,469,312 09-Ghosts (Joeski Vocal) _ Dirty Vegas.mp3
+15/10/2005  13:58         2,961,408 10-All That Mattered (Innervisions Radio Cut) _ De Nuit.mp3
+15/10/2005  13:58         3,295,232 11-La Passion _ Gigi D'Agostino.mp3
+15/10/2005  13:58         3,348,480 12-Around The World (La La La La La) _ ATC.mp3
+15/10/2005  13:59         2,564,096 14-Havin' A Good Time _ Souvernance.mp3
+15/10/2005  13:59         3,776,512 15-Lazy _ X-Press 2 f. David Bryne.mp3
+15/10/2005  13:59         3,430,400 16-Southern Sun _ Oakenfold.mp3
+15/10/2005  13:59         2,404,352 17-Mother _ M Factor.mp3
+15/10/2005  13:59         3,287,040 18-Fine Day (Mike Koglin Remix Edit) _ Kirtsy Hawkshaw.mp3
+15/10/2005  13:59         3,033,088 19-Driving _ 4 Strings.mp3
+15/10/2005  13:59         3,158,016 20-The Day It Rained Forever _ Aurora.mp3
+15/10/2005  14:00         3,231,744 21-Shake UR Body _ Shy FX & T-Power f. Di.mp3
+              19 File(s)     57,614,336 bytes
+
+ Directory of Z:\compilations\The Starshine Orchestra\World Anthems
+
+15/10/2005  13:42         1,415,168 01-The Star Spangled Banner_ United States of America.mp3
+15/10/2005  13:42         1,554,432 02-The Soldier's Song_ Ireland.mp3
+15/10/2005  13:42         1,951,744 03-Inno Di Mameli_ Italy.mp3
+15/10/2005  13:42         1,339,392 04-La Marseillaise_ France.mp3
+15/10/2005  13:42         1,148,928 05-King Christian_ Denmark.mp3
+15/10/2005  13:42           739,328 06-Mazurek Dabrowskiego_ Poland.mp3
+15/10/2005  13:43           878,592 07-La Brabaconne_ Belgium.mp3
+15/10/2005  13:43         1,044,480 08-I Shall Always Know You_ Greece.mp3
+15/10/2005  13:43           989,184 09-God Save the Queen_ Great Britain.mp3
+15/10/2005  13:43         5,820,416 10-March on Brave People of Our Nation_ China.mp3
+15/10/2005  13:43         1,245,184 11-Einigkeit und Recht und Freiheit_ Germany.mp3
+15/10/2005  13:43         3,209,216 12-Advance Australia Fair_ Australia.mp3
+15/10/2005  13:43         3,614,720 13-A Cry Rang out from Peaceful Ipiranga's Banks_ Brazil.mp3
+15/10/2005  13:43         1,542,144 14-God Bless the Hungarians_ Hungary.mp3
+15/10/2005  13:43         1,439,744 15-O Canada_ Canada.mp3
+15/10/2005  13:43         1,996,800 16-God Defend New Zealand_ New Zealand.mp3
+15/10/2005  13:43         1,261,568 17-Soldados la Patria Nos Clama_ Spain.mp3
+15/10/2005  13:43           964,608 18-May Thy Peaceful Reign Last Long_ Japan.mp3
+15/10/2005  13:43           845,824 19-I am William of Nassau_ Holland.mp3
+15/10/2005  13:43           571,392 20-Our Land_ Finland.mp3
+              20 File(s)     33,572,864 bytes
+
+ Directory of Z:\compilations\Twice As Nice Vol. II - Summer Of Love (CD 2)
+
+15/10/2005  13:32         3,522,560 01-Craig Mack _ Flava In Ya Ear.mp3
+15/10/2005  13:33         2,955,264 02-Trina Broussard _ Love You So Much.mp3
+15/10/2005  13:33         3,274,752 03-Busta Rhymes _ Get Out!.mp3
+15/10/2005  13:34         4,524,032 04-Kelis _ Caught Out There (Neptunes Extended Mix).mp3
+15/10/2005  13:34         2,445,312 05-Pharoahe Monch _ Simon Says.mp3
+15/10/2005  13:35         3,969,024 06-112 feat. The Notorious B.I.G. _ Only You.mp3
+15/10/2005  13:35         3,131,392 07-Ol' Dirty Bastard _ Shimmy Shimmy Ya.mp3
+15/10/2005  13:36         3,069,952 08-Mary Mary _ Shackles (Praise You).mp3
+15/10/2005  13:36         2,131,968 09-Beatnuts _ Watch Out Now.mp3
+15/10/2005  13:36         2,383,872 10-Destiny's Child _ Bug A Boo.mp3
+15/10/2005  13:37         3,360,768 11-DMX _ What's My Name.mp3
+15/10/2005  13:37         3,061,760 12-Pink _ There You Go (Album Version).mp3
+15/10/2005  13:38         3,031,040 13-Missy Elliott _ She's A Bitch.mp3
+              13 File(s)     40,861,696 bytes
+
+ Directory of Z:\misc
+
+25/06/2005  17:40         6,513,232 Carl Orff - Carmina Burana.mp3
+               1 File(s)      6,513,232 bytes
+
+ Directory of Z:\Theme tunes
+
+02/09/2005  09:08         2,391,851 Pulp Fiction.mp3
+               1 File(s)      2,391,851 bytes
+
+ Directory of Z:\xmas
+
+25/10/2000  16:10         2,526,086 Brenda Lee - Rockin' Around the Christmas Tree.mp3
+25/10/2000  15:13         3,558,504 15 -  Slade - Merry Xmas Everybody.mp3
+05/03/2005  12:47         4,827,149 At this time of year.mp3
+05/03/2005  12:54         5,393,389 Band aid - Do they know its christmas time (feed the world).mp3
+25/10/2000  15:33         2,626,106 Bing Crosby - Have Yourself A Merry Little Christmas.mp3
+25/10/2000  15:11         2,985,900 Bing Crosby - White Christmas.mp3
+05/03/2005  12:48         5,488,057 Ebony and Ivory.mp3
+25/10/2000  16:03         2,030,991 Elvis Presley - Blue Christmas.mp3
+05/03/2005  12:46         5,887,929 Have yourself a merry little christmas.mp3
+05/03/2005  12:48         5,257,856 It'll be lonely this christmas.mp3
+04/03/2005  17:01         3,243,949 Jingle bell rock.mp3
+05/03/2005  12:47         5,226,509 John Lennon - So this is chrismas.mp3
+04/03/2005  17:05         5,840,104 Never had a dream come true.mp3
+25/10/2000  16:01         3,637,158 Paul McCartney- Wonderful Christmas Time.mp3
+05/03/2005  12:48         6,765,016 Rockin around the christmas tree.mp3
+04/03/2005  17:02         2,361,219 Rudolph the red-nosed reigndeer.mp3
+04/03/2005  17:05         4,400,653 Single bells.mp3
+05/03/2005  12:47         5,427,756 Slade - Its christmas time.mp3
+25/10/2000  14:23         4,190,041 z Xmas, Muppets, A Chrms Together - Twelve Days Of Christmas.mp3
+25/10/2000  15:10         2,327,237 Disney Christmas Collection - Jingle Bells.mp3
+25/10/2000  14:11         1,044,480 Muppets, An Xmas 2gether - We Wish U A Merry XMas.mp3
+              21 File(s)     85,046,089 bytes
+
+     Total Files Listed:
+            1643 File(s)  7,555,467,674 bytes
+               0 Dir(s)  107,131,256,832 bytes free

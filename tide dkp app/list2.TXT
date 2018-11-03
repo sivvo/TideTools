@@ -1,0 +1,22 @@
+03/03/2005	"Aarrelien"	"Gemstone of Fiery Might"	6
+17/03/2005	"Ashara"	"Ragestone of Hateful Thoughts"	10
+10/01/2005	"Azoon"	"Earring of Celestial Energy"	11
+23/02/2005	"Azoon"	"Drape of the Merciless Slayer"	10
+04/03/2005	"Biffar"	"Imperfect onyx shard"	1
+13/04/2005	"Biffar"	"Weighted Hammer of Conviction"	5
+13/04/2005	"Crysalis"	"Scepter of Incantations"	5
+15/05/2005	"Drille"	"Wrapped Glass Shard"	1
+08/05/2005	"Gamolron"	"Dragorn Scale Cloak"	1
+19/07/2005	"Gamolron"	"Rune of Astral Celerity"	19
+08/03/2005	"Kennie"	"Polished Sunsword"	1
+04/03/2005	"Kithia"	"Divine Crystal Ring"	15
+11/07/2005	"Kryzia"	"Orb of Forbidden Laughter"	16
+25/03/2005	"Magnuss"	"Sparkling Nest Ornament"	1
+03/05/2005	"Meemers"	"Discordant Robe of Betrayal"	1
+24/05/2005	"Nalelini"	"Petrified Girplan Heart"	17
+25/03/2005	"Rastafari"	"Dark-Touched Mantle"	3
+01/02/2005	"Servantes"	"Ancient Dragorn Signet"	7
+12/06/2005	"Setsuni"	"Kyv Eye of Marksmanship"	17
+13/04/2005	"Sezas"	"Girdle of the Zun'Muram"	10
+19/06/2005	"Stine"	"Abhorent Brimstone of Charing"	15
+03/06/2005	"Troobadix"	"Death's Head Mace"	5

@@ -1,0 +1,46 @@
+nfile = FOPEN("c:\mp3.txt")
+nFile2 = FCREATE("c:\mp3output2.txt")
+*SET STEP ON 
+lncnt=0
+	
+DO WHILE !FEOF(nFile)
+
+	lcString = FGETS(nFile)
+	IF ATC("Directory", lcString) >0
+	lnLoc1 = ATC("\", lcString, 1)
+	lnLoc2 = ATC("\", lcString, 2)
+	lntot = (lnLoc2) - (lnLoc1+1)
+	lcDir = SUBSTR(lcString, lnLoc1+1, lntot)
+	lcTitle = SUBSTR(lcString, lnLoc2+1)
+
+		FGETS(nFile) && Read in the next blank line
+		&& Find the first "Directory:" setting
+		lcString = FGETS(nFile)
+		DO WHILE OCCURS("File(s)", lcString)=0
+		lncnt = lncnt+1
+*		IF lncnt>110
+*			SET STEP ON 
+*		endif	
+			lcString = ALLTRIM(SUBSTR(lcString, 27))	&& cut the date etc off
+			lnLoc = AT(" ", lcString)
+			lnSize = SUBSTR(lcString,1, lnLoc-1)
+			lnSize = STRTRAN(lnSize, ",", "")
+			lcSong = SUBSTR(lcString, lnLoc+1)
+			lcDir2  = STRTRAN(lcDir, "\", "\/")			
+			lcTitle2 = STRTRAN(lcTitle, "\", "/")
+			lcTitle2 =STRTRAN(lcTitle2, "/", "\/")
+			lcSong = STRTRAN(lcSong, "\", "/")
+			lcSong = STRTRAN(lcSong, "/", "\/")
+			*SET STEP ON 
+			
+			lcOutputString = [INSERT into mp3list (title, location, size, category) VALUES ( "];
+			+ALLTRIM(lcSong)+'", "'+ ALLTRIM(lcDir2)+[\/]+ALLTRIM(lcTitle2)+'", ';
+			+ALLTRIM(lnSize)+',  "'+lcDir2+'");'
+			FPUTS(nFile2, lcOutputString)
+			lcString = FGETS(nFile)
+		ENDDO
+	ENDIF
+ENDDO
+
+FCLOSE(nFile)
+FCLOSE(nFile2)

@@ -1,0 +1,15 @@
+
+nFile = FCREATE("c:\twinks.txt")
+GO top
+SET STEP ON 
+FOR i = 1 TO RECCOUNT()
+lcname = name
+	FPUTS(nFile, "")
+	FPUTS(nFile, lcName)
+	DO WHILE name = lcName
+		lcStr = item + "("+ALLTRIM(STR(dkp))+")  "+DTOC(date) 
+		FPUTS(nFile, lcStr)
+		SKIP
+	ENDDO
+ENDFOR
+FCLOSE(nFile)

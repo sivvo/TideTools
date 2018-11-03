@@ -1,0 +1,7 @@
+************************************************
+  Session Begins. EQIMBase Version 2004.12.15
+************************************************
+[11:48:49] EQIMu Console version [2004.05.19] using EQIMBase version [2004.12.15]
+[11:48:49] Type "/quit" any time (except for password entry) to shut down EQIMu.
+[11:48:49] Type "Login [station name]" to begin the login process
+[11:48:49] This session we will be using port 31537 for communications.  Type "port [#]" to use a specific port

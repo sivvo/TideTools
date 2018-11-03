@@ -1,0 +1,161 @@
+
+Aelith                                   
+Muramite Bracer                              (1)  30/03/05
+Backbiter, the Traitor's Blade               (5)  05/04/05
+Hammer of the Deep Nest                      (5)  05/04/05
+
+Aesculap                                 
+Pauldrons of the Fallen Crusader             (1)  03/07/05
+Pitted Shoulderpads of Stone                 (1)  03/07/05
+Death's Head Mace                            (5)  10/07/05
+Chaotic Black Scimitar                       (1)  24/08/05
+
+Aishai                                   
+Chaos-Imbued Leather Skullcap                (1)  14/06/05
+Twig of the Twisted Tree                     (12)  05/08/05
+
+Biffar                                   
+Death's Head Mace                            (5)  31/07/05
+
+Eolistiar                                
+Handwraps of Captured Magic                  (1)  16/06/05
+Muramite Bracer                              (1)  16/06/05
+Pauldron of Dark Auspices                    (10)  16/06/05
+Shroud of the Legion                         (10)  20/07/05
+
+Erikrditossike                           
+Muramite Sleeves                             (1)  09/05/05
+Muramite Bracer                              (1)  19/07/05
+
+Galahood                                 
+Muramite Bracer                              (1)  23/03/05
+Flowing Fabric of Understanding              (10)  03/07/05
+Scepter of Incantations                      (5)  07/08/05
+
+Gorlaan                                  
+Ring of Force                                (1)  21/12/04
+Lightning Blackened Chain Vambraces          (10)  20/03/05
+Armguards of Insidious Corruption            (10)  22/03/05
+Deathblade of the Zun'Muram                  (5)  22/03/05
+Fang of Kessdona                             (20)  05/04/05
+
+Guldren                                  
+Bulwark of Lost Souls                        (5)  16/08/05
+
+Karinthia                                
+Chaos-Imbued Leather Bracer                  (1)  28/08/05
+Girplan Hammer of Carnage                    (5)  31/08/05
+
+Limpie                                   
+Maze Runner's Ring                           (3)  31/10/04
+Clawhammer                                   (5)  12/06/05
+Ilsin's Mantle                               (10)  20/06/05
+Mask of the Void                             (10)  05/07/05
+
+Marratook                                
+Cracked Shield of Discipline                 (1)  25/08/05
+
+Meemers                                  
+Platinum Dragonlinked Greaves                (10)  21/03/05
+Zun'Muram's Spear of Doom                    (5)  31/03/05
+Discordant Robe of Betrayal                  (1)  03/05/05
+Bloodlink Chestmail                          (1)  10/05/05
+Discordant Sandals of Betrayal               (1)  24/05/05
+Aegis of the Amber Moon                      (5)  03/07/05
+Discordant Leggings of Betrayal              (1)  18/08/05
+
+Milyenx                                  
+Mask of Conceptual Energy                    (1)  22/12/04
+Wristguard of Keen Visions                   (1)  10/01/05
+Supple White Leggings                        (10)  13/05/05
+
+Polan                                    
+Muramite Bow of Discord                      (5)  07/12/04
+Smooth Onyx Torque                           (1)  10/01/05
+Hulcror's Whisker                            (1)  13/03/05
+Muramite Chain                               (1)  13/03/05
+
+Qujam                                    
+Mask of Conceptual Energy                    (1)  22/12/04
+Muramite Helm                                (1)  07/06/05
+Tome of Discordant Magic                     (10)  16/06/05
+Muramite Helm                                (1)  30/06/05
+Muramite Bracer                              (1)  23/08/05
+
+Rastafari                                
+Handwraps of Captured Magic                  (5)  17/12/04
+Pulsing Emerald Hoop                         (1)  10/01/05
+Shield of the Vortex                         (1)  10/01/05
+Cloak of the Corrupted Curate                (10)  21/01/05
+Tome of Discordant Magic                     (10)  22/03/05
+Dark-Touched Mantle                          (3)  25/03/05
+Frosted Cuirass of Enlightenment             (10)  18/04/05
+
+Rheanuu                                  
+Mask of the Sacred Evil                      (1)  19/12/04
+Pixtt-Emblazoned Plated Gauntlets            (1)  28/12/04
+Cudgel of Venomous Hatred                    (1)  10/01/05
+Greatblade of Chaos                          (16)  10/01/05
+
+Roydal                                   
+Handwraps of Captured Magic                  (5)  16/05/05
+Chaos-Imbued Leather Tunic                   (1)  27/05/05
+
+Senfei                                   
+Platinum Dragonlinked Greaves                (10)  21/03/05
+Zun'Muram's Spear of Doom                    (5)  23/03/05
+Golden Dragonlink Chestguard                 (10)  13/05/05
+
+Sezas                                    
+Muramite Chain                               (1)  24/03/05
+Shroud of Corruption                         (10)  24/03/05
+Forgotten Greatstaff                         (1)  28/04/05
+Muramite Bracer                              (1)  03/05/05
+Muramite Bracer                              (1)  05/05/05
+Mask of the Void                             (10)  20/05/05
+Lightning Blackened Chain Links              (1)  27/07/05
+Necklace of Stability                        (12)  27/07/05
+
+Shandlar                                 
+Jewel of Focus                               (5)  01/10/04
+Muramite Bracer                              (10)  16/11/04
+
+Slowd                                    
+Discordant Gloves of Betrayal                (1)  12/05/05
+
+Stine                                    
+Hulcror Hide Collar                          (3)  22/08/05
+
+Swordweaver                              
+Muramite Bracer                              (1)  23/03/05
+Muramite Bracer                              (1)  24/03/05
+
+Tigerdyr                                 
+Burnished Leggings of Woven Cable            (5)  12/01/05
+Sleeves                                      (10)  21/01/05
+Muramite Chain                               (1)  01/02/05
+Muramite Bracer                              (5)  21/02/05
+Muramite Bracer                              (5)  28/02/05
+Muramite Boots                               (5)  01/03/05
+Hulcror Hide Collar                          (3)  13/03/05
+Blood Polished Hammer                        (5)  27/03/05
+Warspear of Foulness                         (6)  03/04/05
+Vambraces of Eternal Twilight                (10)  07/04/05
+Boots of Captive Screams                     (10)  13/04/05
+Glowing Spiritstone Necklace                 (2)  05/05/05
+Entrancing Silk Veil                         (10)  06/05/05
+Tunat'Muram's Chainmail of Pain              (10)  12/05/05
+Muramite Helm                                (1)  25/05/05
+Cloak of Wailing Woes                        (10)  17/07/05
+Pauldrons of the Legion                      (10)  03/08/05
+Ruby of Determined Assault                   (10)  07/08/05
+
+Victoria                                 
+Bloodlink Chestmail                          (7)  09/09/04
+
+Vika                                     
+Blackstone Figurine                          (20)  26/09/04
+Glyph of Souls                               (5)  01/10/04
+
+                                         
+                                             (0)    /  /  

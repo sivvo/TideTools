@@ -1,0 +1,10 @@
+USE loots IN 0
+USE back IN 0
+SELECT back
+SCAN
+
+INSERT INTO loots (date, name, item, dkp, origdate, origdkp) ;
+VALUES (date, name, item, dkp, origdate, origdkp)
+SELECT back	
+
+endscan
