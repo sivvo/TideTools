@@ -18,3 +18,5 @@ Test app
 
 Tide dkp app
 App for updating DKP totals - used as a source for the channel bot (VFP)
+
+Since Sony Online/Everquest discontinuted EQIM this bot won't work anymore
